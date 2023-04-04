@@ -1,0 +1,5000 @@
+[
+  {
+    "category": "Kitchen Appliances",
+    "subcategory": [
+      {
+        "name": "Pressure Cooker",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1098",
+            "Product Title": "Aluminium Pressure Cooker 3 ltr",
+            "Product Description": "Aluminium Pressure Cooker 3 ltr",
+            "Product Image Link": "SIL-1098.jpg",
+            "Points": "1600"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1714",
+            "Product Title": "Hammertone Alu Cooker Outer Lid I.B 2 ltr",
+            "Product Description": "Hammertone Alu Cooker Outer Lid I.B 2 ltr",
+            "Product Image Link": "SIL-1714.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1715",
+            "Product Title": "Hammertone Alu Cooker Outer Lid I.B 3 ltr",
+            "Product Description": "Hammertone Alu Cooker Outer Lid I.B 3 ltr",
+            "Product Image Link": "SIL-1715.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1716",
+            "Product Title": "Hammertone Alu Cooker Outer Lid I.B 5 ltr",
+            "Product Description": "Hammertone Alu Cooker Outer Lid I.B 5 ltr",
+            "Product Image Link": "SIL-1716.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1738",
+            "Product Title": "Hammertone Stainless Steel Cooker 5 Ltr",
+            "Product Description": "Hammertone Stainless Steel Cooker 5 Ltr",
+            "Product Image Link": "SIL-1738.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1960",
+            "Product Title": "M HOME HA Outer 2 LTR ( Economy ) 3mm Pressure Cooker",
+            "Product Description": "M HOME HA Outer 2 LTR ( Economy ) 3mm",
+            "Product Image Link": "SIL-1960.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1962",
+            "Product Title": "M HOME HA Outer 3 LTR ( Economy ) 3mm Pressure Cooker",
+            "Product Description": "M HOME HA Outer 3 LTR ( Economy ) 3mm",
+            "Product Image Link": "SIL-1962.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1963",
+            "Product Title": "M HOME HA Outer 5 Ltr ( 4 MM ) Pressure Cooker",
+            "Product Description": "M HOME HA Outer 5 Ltr ( 4 MM )",
+            "Product Image Link": "SIL-1963.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1965",
+            "Product Title": "M HOME HA Outer 7.5 Ltr ( 4 MM ) Pressure Cooker",
+            "Product Description": "M HOME HA Outer 7.5 Ltr ( 4 MM )",
+            "Product Image Link": "SIL-1965.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1966",
+            "Product Title": "M HOME HA Outer 9 Ltr ( 4 MM ) Pressure Cooker",
+            "Product Description": "M HOME HA Outer 9 Ltr ( 4 MM )",
+            "Product Image Link": "SIL-1966.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1967",
+            "Product Title": "M Home Inner lid 5 Ltr",
+            "Product Description": "M Home Inner lid 5 Ltr",
+            "Product Image Link": "SIL-1967.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1968",
+            "Product Title": "M Home Inner Lid Cooker 3 Ltr",
+            "Product Description": "M Home Inner Lid Cooker 3 Ltr",
+            "Product Image Link": "SIL-1968.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1971",
+            "Product Title": "M HOME Outer Lid Economy 2 Ltr",
+            "Product Description": "M HOME Outer Lid Economy 2 Ltr",
+            "Product Image Link": "SIL-1971.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1972",
+            "Product Title": "M HOME Outer Lid Economy 3 Ltr",
+            "Product Description": "M HOME Outer Lid Economy 3 Ltr",
+            "Product Image Link": "SIL-1972.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1973",
+            "Product Title": "M HOME Outer Lid Economy 5 Ltr",
+            "Product Description": "M HOME Outer Lid Economy 5 Ltr",
+            "Product Image Link": "SIL-1973.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1974",
+            "Product Title": "M HOME Outer Lid Heavy  2 Ltr",
+            "Product Description": "M HOME Outer Lid Heavy  2 Ltr",
+            "Product Image Link": "SIL-1974.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1975",
+            "Product Title": "M HOME Outer Lid Heavy  5 Ltr",
+            "Product Description": "M HOME Outer Lid Heavy  5 Ltr",
+            "Product Image Link": "SIL-1975.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1976",
+            "Product Title": "M HOME Outer Lid Heavy 3 Ltr",
+            "Product Description": "M HOME Outer Lid Heavy 3 Ltr",
+            "Product Image Link": "SIL-1976.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1977",
+            "Product Title": "M HOME Outer Lid Heavy 7.5 Ltr",
+            "Product Description": "M HOME Outer Lid Heavy 7.5 Ltr",
+            "Product Image Link": "SIL-1977.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1978",
+            "Product Title": "M HOME Outer Lid Heavy 9 Ltr",
+            "Product Description": "M HOME Outer Lid Heavy 9 Ltr",
+            "Product Image Link": "SIL-1978.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WONDERCHEF",
+            "Suvidhaa SKU": "SIL-2444",
+            "Product Title": "Electric Pressure Cooker with 7-in-1 Functions",
+            "Product Description": "Wonderchef Nutri-Pot Electric Pressure Cooker with 7-in-1 Functions, 6L",
+            "Product Image Link": "SIL-2444.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-1625",
+            "Product Title": "Bajaj Rice Cooker RCX 3",
+            "Product Description": "Bajaj Rice Cooker RCX 3",
+            "Product Image Link": "SIL-1625.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Oven Toaster Griller ",
+        "products": [
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-2044",
+            "Product Title": "Morphy Richards",
+            "Product Description": "Bajaj Morphy Richards OFR Room Heater, 09 Fin 2000 Watts Oil Filled Room Heater , ISI Approved (OFR 9 Grey)",
+            "Product Image Link": "SIL-2044.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "SINGER",
+            "Suvidhaa SKU": "SIL-2076",
+            "Product Title": "OTG",
+            "Product Description": "Singer Oven Toaster Griller (OTG) - 40 Litres, Black - with Rotisserie,Auto-shut off, heat-resistant tempered glass, Multi-stage heat selection",
+            "Product Image Link": "SIL-2076.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Casserole",
+        "products": [
+          {
+            "Brand": "WONDERCHEF",
+            "Suvidhaa SKU": "SIL-1688",
+            "Product Title": "Granite Die Cast Casserole Set ",
+            "Product Description": "Granite Die-cast Non-stick Casserole Set, 6Pc (1150ML, 2000ML, 4500ML) With Lids, Induction Bottom, Soft Touch Handles, Pure Grade Aluminium, PFOA/Heavy Metal Free, 2 Years Warranty, Red",
+            "Product Image Link": "SIL-1688.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1718",
+            "Product Title": "Hammertone Caserole with glass lid 220 mm",
+            "Product Description": "Hammertone Caserole with glass lid 220 mm",
+            "Product Image Link": "SIL-1718.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1729",
+            "Product Title": "Hammertone SS Caserole Hot Pot 1500 ML",
+            "Product Description": "Hammertone SS Caserole Hot Pot 1500 ML",
+            "Product Image Link": "SIL-1729.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1730",
+            "Product Title": "Hammertone SS Caserole Hot Pot 2000 ML",
+            "Product Description": "Hammertone SS Caserole Hot Pot 2000 ML",
+            "Product Image Link": "SIL-1730.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1731",
+            "Product Title": "Hammertone SS Caserole Hot Pot 3000 ML",
+            "Product Description": "Hammertone SS Caserole Hot Pot 3000 ML",
+            "Product Image Link": "SIL-1731.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1732",
+            "Product Title": "Hammertone SS Caserole Hot Pot 3500 ML",
+            "Product Description": "Hammertone SS Caserole Hot Pot 3500 ML",
+            "Product Image Link": "SIL-1732.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Kettle",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1892",
+            "Product Title": "1.8 Electric Kettle ",
+            "Product Description": "LifeLong EK02 1.8 Litre Electric Kettle (Black)",
+            "Product Image Link": "SIL-1892.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1850",
+            "Product Title": NaN,
+            "Product Description": "KENT ELEGENT ELECTRIC GLASS KETTLE 1.8L ( 16052",
+            "Product Image Link": "SIL-1850.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1885",
+            "Product Title": NaN,
+            "Product Description": "LifeLong 1.5 Litre Electric Kettle (Black)",
+            "Product Image Link": "SIL-1885.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-2512",
+            "Product Title": NaN,
+            "Product Description": "Bajaj Majesty KTX15 1.7L SS Kettle",
+            "Product Image Link": "SIL-2512.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-2502",
+            "Product Title": NaN,
+            "Product Description": "Bajaj Majesty Travel Kettle KTX2 - 670005",
+            "Product Image Link": "SIL-2502.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Havells ",
+            "Suvidhaa SKU": "SIL-2525",
+            "Product Title": NaN,
+            "Product Description": "Hevells KETTLE AQUA BLUE PLUS\ufffd 1.2 LTR 1500 W",
+            "Product Image Link": "SIL-2525.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1597",
+            "Product Title": "BAJAJ KETTLES KTX 9",
+            "Product Description": "Bajaj Majesty KTX 9 1-Litre Multifunction Stainless Steel Kettle",
+            "Product Image Link": "SIL-1597.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1839",
+            "Product Title": "Jaipan Tea Kettle 1.0 Ltr Steel",
+            "Product Description": "Jaipan Tea Kettle 1.0 Ltr Steel",
+            "Product Image Link": "SIL-1839.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1840",
+            "Product Title": "Jaipan Tea Kettle 1.8 Ltr Steel",
+            "Product Description": "Jaipan Tea Kettle 1.8 Ltr Steel",
+            "Product Image Link": "SIL-1840.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Nutriblend",
+        "products": [
+          {
+            "Brand": "WONDERCHEF",
+            "Suvidhaa SKU": "SIL-2075",
+            "Product Title": "Nutriblend",
+            "Product Description": "Nutri-blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 3 Unbreakable Jars, 2 Years Warranty, Black, Online Recipe Book By Chef Sanjeev Kapoor",
+            "Product Image Link": "SIL-2075.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Food Processor",
+        "products": [
+          {
+            "Brand": "SINGER",
+            "Suvidhaa SKU": "SIL-2308",
+            "Product Title": "Food Processor Supreme",
+            "Product Description": "Singer Foodista Supreme Food Processor 1000watts Copper Motor with Blender Jar, Grinding Jar, Chutney Jar, Centrifugal & Citrus Juicer, 11 Attachment / 12 Functions",
+            "Product Image Link": "SIL-2308.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1819",
+            "Product Title": "Jaipan Food Processor",
+            "Product Description": "Jaipan Food Processor",
+            "Product Image Link": "SIL-1819.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Spatula",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1104",
+            "Product Title": "5COPPERSPATULA",
+            "Product Description": "Amour 5 Piece Non-Stick Silicone Cooking Utensils Set, High Heat Resistant to 480\ufffdF, Hygienic One Piece Design, BPA Free-Turner, Slotted Spoon, Whisk and Spoon with Stand ",
+            "Product Image Link": "SIL-1104.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1120",
+            "Product Title": "SPATULA9",
+            "Product Description": "Amour Silicone Spatula Set, 9 Pieces Heat Resistant Rubber Spatulas Kitchen Utensils for Nonstick Cookware Baking Cooking Mixing, Seamless & Flexible, Vibrant Colored & Dishwasher Safe ",
+            "Product Image Link": "SIL-1120.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1802",
+            "Product Title": "2SPATULAPINK",
+            "Product Description": "iLife Silicone Biggest Size Spatulas Heat Resistant Flexible Spatula 450F with Stainless Steel Core - FDA Grade Premium Kitchen Utensils with Good Grip 27 cm,1 x Spatula and 1 x Baking Brush (Pink)",
+            "Product Image Link": "SIL-1802.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1803",
+            "Product Title": "Spatula-4 pice",
+            "Product Description": "iLife Silicone Spatula 3 pieces Set with Basting Brush | Non-Stick, Heat-Resistant, and Food-Grade Safe | All-Purpose Cooking and Food Preparation Utensils (Red)",
+            "Product Image Link": "SIL-1803.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Kitchen Utility",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1105",
+            "Product Title": "6KNIFEMAROON",
+            "Product Description": "Amour 6 Piece Ceramic Knives Set, Kitchen Chef's Knife and Peeler with Attractive Stand, Super Sharp ",
+            "Product Image Link": "SIL-1105.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1106",
+            "Product Title": "2KNIFEPURPLE",
+            "Product Description": "Amour Advanced Ceramic Revolution Series 4 & 5 inch Paring Knife Set with Gift Case ",
+            "Product Image Link": "SIL-1106.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1108",
+            "Product Title": "KNIFEMAROON",
+            "Product Description": "Amour Ceramic Knife Set, 3 Pieces Professional Chef Knives, Ceramic Knives Set ",
+            "Product Image Link": "SIL-1108.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1111",
+            "Product Title": "CHOPPINGBOARD",
+            "Product Description": "Amour Double-sided Stainless Steel Extra Large Cutting Board For Kitchen,  Easy-grip Handles",
+            "Product Image Link": "SIL-1111.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1786",
+            "Product Title": "spatula tongue set",
+            "Product Description": "iLife 2 in 1 Non-Stick Silicone Kitchen Spatula Tong- 2 Pack (1 Large 1 Small). Multi-Purpose Food Cooking & Serving Utensil with Heavy Duty Stainless Steel Frame. Heat Resistant, BPA Free (Red)",
+            "Product Image Link": "SIL-1786.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1790",
+            "Product Title": "8U-FLIN-VLXP",
+            "Product Description": "iLife Advanced Ceramic Revolution Series 4 & 5 inch Paring Knife Set with Gift Case",
+            "Product Image Link": "SIL-1790.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1792",
+            "Product Title": "Barbecue Tools Set",
+            "Product Description": "iLife BBQ Tools Set, Stainless Steel Barbecue Accessories with Storage Bags, Complete Outdoor Barbecue Grill Utensils Set, for Outdoor Picnic, Camping, Grilling (3 Pieces)",
+            "Product Image Link": "SIL-1792.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1793",
+            "Product Title": "iLifeanu017",
+            "Product Description": "iLife Ceramic Kitchen Knife Set, 5-Piece Kitchen Cutlery Block Knife Sets with Fruit Peeler & an Acrylic Stand (Multi Color)",
+            "Product Image Link": "SIL-1793.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1794",
+            "Product Title": "collander2",
+            "Product Description": "iLife Collapsible Cutting Board with Colander Bigger Size 4-in-1 Multi-function Foldable Kitchen Plastic Silicone Dish Tub Drainers, Sink Storage Washing Draining Basket (Grey)",
+            "Product Image Link": "SIL-1794.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1797",
+            "Product Title": "rose gold tongs set",
+            "Product Description": "iLife Kitchen Tongs Rose Gold Coating Steel Non-Stick BBQ Tongs with Heat Resistant Premium Silicone Tips for Barbecue, Cooking, Grilling, Turner, Salad, Serving & Frying 2 Pack(9 Inch+12 Inch) Red",
+            "Product Image Link": "SIL-1797.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1804",
+            "Product Title": "ilife_6in1",
+            "Product Description": "iLife Universal 6 in 1 Clever Smart Food Choppers Slicer Cutter with Built-in Cutting Board - Stainless Steel Kitchen Scissors Slicer for Vegetables Fruits Chopper",
+            "Product Image Link": "SIL-1804.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Velway",
+            "Suvidhaa SKU": "SIL-2391",
+            "Product Title": "Collander Small",
+            "Product Description": "Velway Foldable Fruit Vegetables Washing Bowl Drying Basket with Drain Holes, Silicone Storage Organizer Collapsible Strainer Colander - Small (Green Colour, Size 17 * 4 * 24 cm)",
+            "Product Image Link": "SIL-2391.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Morphy Richards",
+            "Suvidhaa SKU": "SIL-2516",
+            "Product Title": NaN,
+            "Product Description": "Morphy Richards Mini Chopper 640082",
+            "Product Image Link": "SIL-2516.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Ice maker",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1109",
+            "Product Title": "ICESILVER",
+            "Product Description": "Amour Cold Drink & Whiskey Ice Stones 8 Pcs Stainless Steel Ice Cubes Reusable Gift Set With Tong",
+            "Product Image Link": "SIL-1109.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1114",
+            "Product Title": "ICEMAKER",
+            "Product Description": "Amour POP Ice Maker - Innovative Cube Tray Mold - Ice Maker, Storage Container, Dispenser - Ultra-Portable, Insulated to Limit Melting, Non-BPA - Makes 18 Large Frozen Cubes -",
+            "Product Image Link": "SIL-1114.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Induction Cooktop",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1110",
+            "Product Title": "5COOKWARESET",
+            "Product Description": "Amour Deluxe Stainless Steel Gas Compatible Induction Friendly Casserole Set Cookware Set with Lid 5-Pieces Chrome",
+            "Product Image Link": "SIL-1110.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1851",
+            "Product Title": NaN,
+            "Product Description": "KENT GEM INDUCTION COOKTOP KAGC1 (16058)",
+            "Product Image Link": "SIL-1851.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Morphy Richards",
+            "Suvidhaa SKU": "SIL-2540",
+            "Product Title": NaN,
+            "Product Description": "Morphy Richards Chef Xpress 400 Induction Cooktop 820017",
+            "Product Image Link": "SIL-2540.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-1591",
+            "Product Title": "Bajaj Induction Cookers Icx 130",
+            "Product Description": "Bajaj Induction Cookers Icx 130",
+            "Product Image Link": "SIL-1591.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "spatula",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1118",
+            "Product Title": "SPATULAPURPLE",
+            "Product Description": "Amour Silicone Kitchen Utensils Set, (9 Piece with Holder) Silicon Cooking Kitchen Utensils Set - BPA Free,Non-Stick Silicone Heat Resistant for Cooking and Baking ",
+            "Product Image Link": "SIL-1118.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1121",
+            "Product Title": "5SPATULAGREEN",
+            "Product Description": "Amour Translucent Silicone Cooking Baking Serving Utensils Spatula Set for Nonstick Cookware, 5 Piece ",
+            "Product Image Link": "SIL-1121.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Soap Dispenser for Kitchen",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1787",
+            "Product Title": "iLife kitchen cleaner",
+            "Product Description": "iLife 3-in-1 Heavy Duty Scrub Brush with Soap Dispenser for Kitchen, Walls, Shower, Tile, Pot, Sink and Dish Washing, for Bathroom Bathtub and Swimming Pool Cleaning",
+            "Product Image Link": "SIL-1787.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Cookware set",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1789",
+            "Product Title": "4P-KHIS-AIKI",
+            "Product Description": "iLife 7 PCS Stainless Steel Cooking Utensil Set Utility Kitchen Utensils Cookware Set With Storage Stand Rack for Home",
+            "Product Image Link": "SIL-1789.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1942",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Trio Non-Stick 3-Piece Cookware Set, Red (Induction and Gas Compatible) with 1 Year Warranty ",
+            "Product Image Link": "SIL-1942.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2069",
+            "Product Title": "Cookware Set, 7-Pieces, Red",
+            "Product Description": "Nirlon Non-Stick Aluminium Cookware Set, 7-Pieces, Red",
+            "Product Image Link": "SIL-2069.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WONDERCHEF",
+            "Suvidhaa SKU": "SIL-2440",
+            "Product Title": "Cookware set 3 pcs",
+            "Product Description": "Wonderchef Granite Cookware 3 piece Set",
+            "Product Image Link": "SIL-2440.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Dishwasher",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1800",
+            "Product Title": "cleaninggloves 4",
+            "Product Description": "iLife Scrub Glove 240 grams Thick Multi-use Latex free Silicon scrubber gloves for Dishwashing Pet grooming car cleaning and heat resistance kitchen gloves 1 Pair",
+            "Product Image Link": "SIL-1800.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water bottle",
+        "products": [
+          {
+            "Brand": "Velway",
+            "Suvidhaa SKU": "SIL-2390",
+            "Product Title": "WATER BOTTLE BLUE",
+            "Product Description": "Velway Foldable Bottle, Silicon Collapsible Bottle, BPA-Free Silicon Sports Bottle, Portable Leak Proof Bottle, 550ML Water Bottle, Outdoor Bottle, Camping Hiking Water Bottle (Blue)",
+            "Product Image Link": "SIL-2390.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1533",
+            "Product Title": "ATRO O2 Copper Water Bottle 1100 Aprx Hammer",
+            "Product Description": "ATRO O2 Copper Water Bottle 1100 Aprx Hammer",
+            "Product Image Link": "SIL-1533.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1534",
+            "Product Title": "ATRO O2 Copper Water Bottle 1100 Aprx Matt",
+            "Product Description": "ATRO O2 Copper Water Bottle 1100 Aprx Matt",
+            "Product Image Link": "SIL-1534.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1543",
+            "Product Title": "ATRO Satveda Copper Water Bottle 1000 Aprx Hammer",
+            "Product Description": "ATRO Satveda Copper Water Bottle 1000 Aprx Hammer",
+            "Product Image Link": "SIL-1543.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1544",
+            "Product Title": "ATRO Satveda Copper Water Bottle 1000 Aprx mat",
+            "Product Description": "ATRO Satveda Copper Water Bottle 1000 Aprx mat",
+            "Product Image Link": "SIL-1544.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1727",
+            "Product Title": "Hammertone Single wall blue bell bottle 1000 ML",
+            "Product Description": "Hammertone Single wall blue bell bottle 1000 ML",
+            "Product Image Link": "SIL-1727.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1728",
+            "Product Title": "Hammertone Single wall Hexa Bottle 1000 ML",
+            "Product Description": "Hammertone Single wall Hexa Bottle 1000 ML",
+            "Product Image Link": "SIL-1728.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1733",
+            "Product Title": "Hammertone SS Vaccum Cola Bottle 304 1000 ML",
+            "Product Description": "Hammertone SS Vaccum Cola Bottle 304 1000 ML",
+            "Product Image Link": "SIL-1733.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1734",
+            "Product Title": "Hammertone SS Vaccum Cola Bottle 304 500 ML",
+            "Product Description": "Hammertone SS Vaccum Cola Bottle 304 500 ML",
+            "Product Image Link": "SIL-1734.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "La coppera",
+            "Suvidhaa SKU": "SIL-1872",
+            "Product Title": "Copper set 2 glass , 1 Bottle",
+            "Product Description": "LA COPPERA BOTTLE WITH 2 GLASS",
+            "Product Image Link": "SIL-1872.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2378",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 350\ufffdml\ufffd (Only Gulper)",
+            "Product Image Link": "SIL-2378.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2379",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 350\ufffdml\ufffd (Only Sipper)",
+            "Product Image Link": "SIL-2379.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2380",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 350\ufffdml\ufffd (Sipper & Gulper Set)",
+            "Product Image Link": "SIL-2380.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2381",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 600\ufffdml\ufffd (Only Gulper)",
+            "Product Image Link": "SIL-2381.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2382",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 600\ufffdml\ufffd (Only Sipper)",
+            "Product Image Link": "SIL-2382.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2383",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 600\ufffdml\ufffd (Sipper & Gulper Set)",
+            "Product Image Link": "SIL-2383.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2384",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 900\ufffdml\ufffd( Gulper Set )\ufffd",
+            "Product Image Link": "SIL-2384.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2385",
+            "Product Title": NaN,
+            "Product Description": "Vaya\ufffdDrynk - 900\ufffdml\ufffd(Ball\ufffdLid\ufffd)\ufffd",
+            "Product Image Link": "SIL-2385.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Atta & Bread Maker",
+        "products": [
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1843",
+            "Product Title": NaN,
+            "Product Description": "KENT ATTA MAKER & BREAD MAKER (16010)",
+            "Product Image Link": "SIL-1843.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1889",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Atta and Bread Maker for Home and kitchen I 550 Watt Fully Automatic Machine I 19 Pre-Set Menu with Adjustable Crust Control I LCD Display I Make Bread at Home (1 Year Warranty)",
+            "Product Image Link": "SIL-1889.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Toaster",
+        "products": [
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1846",
+            "Product Title": NaN,
+            "Product Description": "KENT CRISP POP UP TOASTER (16105)",
+            "Product Image Link": "SIL-1846.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Maharaja",
+            "Suvidhaa SKU": "SIL-2170",
+            "Product Title": "POP UP TOASTER MAGIC",
+            "Product Description": "Maharaja POP UP TOASTER MAGIC",
+            "Product Image Link": "SIL-2170.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Air Fryer",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1898",
+            "Product Title": NaN,
+            "Product Description": "Lifelong HealthyFry Pro 4.2L Digital Air Fryer",
+            "Product Image Link": "SIL-1898.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1916",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLHF21 HealthyFry Air Fryer 1200W with 2.5L Cooking Pan Capacity, Timer Selection and Fully Adjustable Temperature Control",
+            "Product Image Link": "SIL-1916.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1917",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLHF421 Fryo Air Fryer 1400W with 4.5L Large Cooking Pan Capacity, Timer Selection and Fully Adjustable Temperature Control with 1 Year Warranty",
+            "Product Image Link": "SIL-1917.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Gas Stove",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1911",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLGS27 4 Burner Glass Top Gas Stove",
+            "Product Image Link": "SIL-1911.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1912",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLGS303 Auto Ignition, High Efficiency 3 Burner Gas Stove with Toughened Glass Top, ISI Certified, Automatic Ignition, For LPG Use Only (1 Year Warranty, Doorstep Service, Black)",
+            "Product Image Link": "SIL-1912.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1913",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLGS82 2 Burner Glass Manual Gas Stove; ISI Certified, Door step service",
+            "Product Image Link": "SIL-1913.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1914",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLGS930 Glass Top 3 Burner Manual Gas Stove ",
+            "Product Image Link": "SIL-1914.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1940",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Single Burner Gas Stove",
+            "Product Image Link": "SIL-1940.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1982",
+            "Product Title": "M HOME Three Burner Glass ( Prestige Model )",
+            "Product Description": "M HOME Three Burner Glass ( Prestige Model )",
+            "Product Image Link": "SIL-1982.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1983",
+            "Product Title": "M HOME Three Burner glass black",
+            "Product Description": "M HOME Three Burner glass black",
+            "Product Image Link": "SIL-1983.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1984",
+            "Product Title": "M HOME Three Burner glass Digital",
+            "Product Description": "M HOME Three Burner glass Digital",
+            "Product Image Link": "SIL-1984.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1985",
+            "Product Title": "M HOME Three Burner Heavy ( triple Cook )",
+            "Product Description": "M HOME Three Burner Heavy ( triple Cook )",
+            "Product Image Link": "SIL-1985.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1986",
+            "Product Title": "M HOME Three Burner Jumbo",
+            "Product Description": "M HOME Three Burner Jumbo",
+            "Product Image Link": "SIL-1986.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1987",
+            "Product Title": "M HOME Three Burner Oval Gas Stove",
+            "Product Description": "M HOME Three Burner Oval Gas Stove",
+            "Product Image Link": "SIL-1987.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1988",
+            "Product Title": "M HOME Three Burner Prime",
+            "Product Description": "M HOME Three Burner Prime",
+            "Product Image Link": "SIL-1988.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2016",
+            "Product Title": "M HOME Two Burner Casting ( Butterfly ) Gas Stove",
+            "Product Description": "M HOME Two Burner Casting ( Butterfly ) Gas Stove",
+            "Product Image Link": "SIL-2016.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2017",
+            "Product Title": "M HOME Two Burner Prime",
+            "Product Description": "M HOME Two Burner Prime",
+            "Product Image Link": "SIL-2017.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Tawa",
+        "products": [
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-2475",
+            "Product Title": NaN,
+            "Product Description": "Bajaj Induction Tawa 280Mm",
+            "Product Image Link": "SIL-2475.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1590",
+            "Product Title": "BAJAJ INDUCTION BASED TAWA 25CM, FRY PAN 24CM, KADHAI 24CM WITH GLASS LID (SELEC+ SERIES)",
+            "Product Description": "BAJAJ INDUCTION BASED TAWA 25CM, FRY PAN 24CM, KADHAI 24CM WITH GLASS LID (SELEC+ SERIES)",
+            "Product Image Link": "SIL-1590.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1717",
+            "Product Title": "Hammertone Bhakhari Tawa 300 MM",
+            "Product Description": "Hammertone Bhakhari Tawa 300 MM",
+            "Product Image Link": "SIL-1717.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1719",
+            "Product Title": "Hammertone Concave Tawa 275 MM",
+            "Product Description": "Hammertone Concave Tawa 275 MM",
+            "Product Image Link": "SIL-1719.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1720",
+            "Product Title": "Tawa",
+            "Product Description": "Hammertone Doast Tawa 290 MM",
+            "Product Image Link": "SIL-1720.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1721",
+            "Product Title": "Multi Tawa",
+            "Product Description": "Hammertone Flat Multi Tawa 300 MM",
+            "Product Image Link": "SIL-1721.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1726",
+            "Product Title": "Hammertone Pathari Tawa Square",
+            "Product Description": "Hammertone Pathari Tawa Square",
+            "Product Image Link": "SIL-1726.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-1808",
+            "Product Title": "Induction Base Flat Tawa - 26cm",
+            "Product Description": "Induction Base Flat Tawa - 26cm",
+            "Product Image Link": "SIL-1808.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-1809",
+            "Product Title": "Induction Base Flat Tawa - 28cm",
+            "Product Description": "Induction Base Flat Tawa - 28cm",
+            "Product Image Link": "SIL-1809.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1947",
+            "Product Title": "M HOME Bhakri Tawa ( 11 Inch ) 5 MM",
+            "Product Description": "M HOME Bhakri Tawa ( 11 Inch ) 5 MM",
+            "Product Image Link": "SIL-1947.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1948",
+            "Product Title": "M HOME Bhakri Tawa ( 12 Inch ) 5 MM",
+            "Product Description": "M HOME Bhakri Tawa ( 12 Inch ) 5 MM",
+            "Product Image Link": "SIL-1948.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1949",
+            "Product Title": "M HOME Bhakri Tawa ( 13 Inch ) 5 MM",
+            "Product Description": "M HOME Bhakri Tawa ( 13 Inch ) 5 MM",
+            "Product Image Link": "SIL-1949.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1950",
+            "Product Title": "M HOME Bhakri Tawa ( 14 Inch ) 5 MM",
+            "Product Description": "M HOME Bhakri Tawa ( 14 Inch ) 5 MM",
+            "Product Image Link": "SIL-1950.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1953",
+            "Product Title": "M HOME Doas Tawa ( 11 Inch ) 270 MM",
+            "Product Description": "M HOME Doas Tawa ( 11 Inch ) 270 MM",
+            "Product Image Link": "SIL-1953.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1956",
+            "Product Title": "M HOME Double Handle Dosa Tawa 24 Cm",
+            "Product Description": "M HOME Double Handle Dosa Tawa 24 Cm",
+            "Product Image Link": "SIL-1956.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1969",
+            "Product Title": "M HOME Long Handle Dosa Tawa 20 Cm",
+            "Product Description": "M HOME Long Handle Dosa Tawa 20 Cm",
+            "Product Image Link": "SIL-1969.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1970",
+            "Product Title": "M HOME Long Handle Dosa Tawa 24 Cm",
+            "Product Description": "M HOME Long Handle Dosa Tawa 24 Cm",
+            "Product Image Link": "SIL-1970.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2049",
+            "Product Title": "Nirlon Concave Tawa - 11 ( 4 MM )",
+            "Product Description": "Nirlon Concave Tawa - 11 ( 4 MM )",
+            "Product Image Link": "SIL-2049.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2050",
+            "Product Title": "Nirlon Concave Tawa - 12 ( 2.6 MM )",
+            "Product Description": "Nirlon Concave Tawa - 12 ( 2.6 MM )",
+            "Product Image Link": "SIL-2050.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2051",
+            "Product Title": "Nirlon Concave Tawa - 12 ( 4 MM )",
+            "Product Description": "Nirlon Concave Tawa - 12 ( 4 MM )",
+            "Product Image Link": "SIL-2051.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2054",
+            "Product Title": "Nirlon Flat Tawa - 11 ( 2.6 MM )",
+            "Product Description": "Nirlon Flat Tawa - 11 ( 2.6 MM )",
+            "Product Image Link": "SIL-2054.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2055",
+            "Product Title": "Nirlon Flat Tawa - 12 ( 2.6 MM )",
+            "Product Description": "Nirlon Flat Tawa - 12 ( 2.6 MM )",
+            "Product Image Link": "SIL-2055.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2056",
+            "Product Title": "Nirlon Flat Tawa - 12 ( 4 MM )",
+            "Product Description": "Nirlon Flat Tawa - 12 ( 4 MM )",
+            "Product Image Link": "SIL-2056.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2057",
+            "Product Title": "Nirlon Flat Tawa - 13 ( 2.6 MM )",
+            "Product Description": "Nirlon Flat Tawa - 13 ( 2.6 MM )",
+            "Product Image Link": "SIL-2057.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2058",
+            "Product Title": "Nirlon Flat Tawa - 13 ( 4 MM )",
+            "Product Description": "Nirlon Flat Tawa - 13 ( 4 MM )",
+            "Product Image Link": "SIL-2058.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2059",
+            "Product Title": "Nirlon Flat Tawa - 27 ( 4 MM )",
+            "Product Description": "Nirlon Flat Tawa - 27 ( 4 MM )",
+            "Product Image Link": "SIL-2059.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2074",
+            "Product Title": "Nirlon Tawa - 12 ( 4 MM ) Wire Handle",
+            "Product Description": "Nirlon Tawa - 12 ( 4 MM ) Wire Handle",
+            "Product Image Link": "SIL-2074.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water Bottle",
+        "products": [
+          {
+            "Brand": "Daily Objects",
+            "Suvidhaa SKU": "SIL-2495",
+            "Product Title": NaN,
+            "Product Description": "Daily Objects Kiyo Active Water Bottle",
+            "Product Image Link": "SIL-2495.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2505",
+            "Product Title": NaN,
+            "Product Description": "Vaya Drynk 600ml Stainless Steel Water Bottle - Black",
+            "Product Image Link": "SIL-2505.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1528",
+            "Product Title": "ATRO Jal Copper Water Bottle 1000 Aprx Hammer",
+            "Product Description": "ATRO Jal Copper Water Bottle 1000 Aprx Hammer",
+            "Product Image Link": "SIL-1528.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1529",
+            "Product Title": "ATRO Jal Copper Water Bottle 1000 Aprx MATT",
+            "Product Description": "ATRO Jal Copper Water Bottle 1000 Aprx MATT",
+            "Product Image Link": "SIL-1529.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Kitchen Gift Set",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1515",
+            "Product Title": "ATRO Amrutam 6 Pcs Glass set Hammer",
+            "Product Description": "ATRO Amrutam 6 Pcs Glass set Hammer",
+            "Product Image Link": "SIL-1515.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1516",
+            "Product Title": "ATRO Amulya Bottle + 2 Glass ( 1000 Aprx Hammer )",
+            "Product Description": "ATRO Amulya Bottle + 2 Glass ( 1000 Aprx Hammer )",
+            "Product Image Link": "SIL-1516.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1517",
+            "Product Title": "ATRO Amulya Bottle + 4 Glass ( 1000 Aprx Hammer )",
+            "Product Description": "ATRO Amulya Bottle + 4 Glass ( 1000 Aprx Hammer )",
+            "Product Image Link": "SIL-1517.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1522",
+            "Product Title": "ATRO Essance 6 pcs glass set ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Essance 6 pcs glass set ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1522.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1614",
+            "Product Title": "BAJAJ NIRLEP HAPPINESS SETS",
+            "Product Description": "BAJAJ NIRLEP HAPPINESS SETS",
+            "Product Image Link": "SIL-1614.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-1656",
+            "Product Title": NaN,
+            "Product Description": "Drynk  600 (Sipper) - Plain + Popcup 2 nos ",
+            "Product Image Link": "SIL-1656.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-1657",
+            "Product Title": NaN,
+            "Product Description": "Drynk 600ml Sipper & 350ml Gulper Assy ",
+            "Product Image Link": "SIL-1657.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-1945",
+            "Product Title": NaN,
+            "Product Description": "Luxetray + Popcup 4 nos ",
+            "Product Image Link": "SIL-1945.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Cuttlery",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1520",
+            "Product Title": "ATRO Elegant Cuttlery set 24 Pcs ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Elegant Cuttlery set 24 Pcs ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1520.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Jug",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1526",
+            "Product Title": "ATRO Essance Jug Plus 6 Glass ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Essance Jug Plus 6 Glass ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1526.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Fry Pan",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1527",
+            "Product Title": "ATRO Frypan With Lid 1400 Aprx Copper Plain",
+            "Product Description": "ATRO Frypan With Lid 1400 Aprx Copper Plain",
+            "Product Image Link": "SIL-1527.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1722",
+            "Product Title": "Hammertone Fry Pan With Glass Lid 240 MM",
+            "Product Description": "Hammertone Fry Pan With Glass Lid 240 MM",
+            "Product Image Link": "SIL-1722.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-1810",
+            "Product Title": "Induction Base Fry Pan GL 240 MM",
+            "Product Description": "Induction Base Fry Pan GL 240 MM",
+            "Product Image Link": "SIL-1810.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1957",
+            "Product Title": "M HOME Fry Pan ( 12 Inch ) 240 MM",
+            "Product Description": "M HOME Fry Pan ( 12 Inch ) 240 MM",
+            "Product Image Link": "SIL-1957.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1958",
+            "Product Title": "M HOME Fry Pan ( 13 Inch ) 260 MM",
+            "Product Description": "M HOME Fry Pan ( 13 Inch ) 260 MM",
+            "Product Image Link": "SIL-1958.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1980",
+            "Product Title": "M HOME Skillet Frypan 18 Cm",
+            "Product Description": "M HOME Skillet Frypan 18 Cm",
+            "Product Image Link": "SIL-1980.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1981",
+            "Product Title": "M HOME Skillet Frypan 20 Cm",
+            "Product Description": "M HOME Skillet Frypan 20 Cm",
+            "Product Image Link": "SIL-1981.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1994",
+            "Product Title": "M Home Triply Frypan With Lid 22 Cm",
+            "Product Description": "M Home Triply Frypan With Lid 22 Cm",
+            "Product Image Link": "SIL-1994.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1995",
+            "Product Title": "M Home Triply Frypan With Lid 24 Cm",
+            "Product Description": "M Home Triply Frypan With Lid 24 Cm",
+            "Product Image Link": "SIL-1995.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2018",
+            "Product Title": "M HOMETaper Fry pan ( 10 Inch ) ( 220 MM )",
+            "Product Description": "M HOMETaper Fry pan ( 10 Inch ) ( 220 MM )",
+            "Product Image Link": "SIL-2018.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2060",
+            "Product Title": "Nirlon Fry Pan with glass Lid - 13  ( 4 MM )",
+            "Product Description": "Nirlon Fry Pan with glass Lid - 13  ( 4 MM )",
+            "Product Image Link": "SIL-2060.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2061",
+            "Product Title": "Nirlon Fry Pan with s.s Lid - 12 ( 2.6 MM )",
+            "Product Description": "Nirlon Fry Pan with s.s Lid - 12 ( 2.6 MM )",
+            "Product Image Link": "SIL-2061.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2062",
+            "Product Title": "Nirlon Fry Pan with s.s Lid - 13  ( 2.6 MM )",
+            "Product Description": "Nirlon Fry Pan with s.s Lid - 13  ( 2.6 MM )",
+            "Product Image Link": "SIL-2062.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Kadai",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1532",
+            "Product Title": "ATRO Kadai with Lid No 1 2500 Aprx Copper Plain",
+            "Product Description": "ATRO Kadai with Lid No 1 2500 Aprx Copper Plain",
+            "Product Image Link": "SIL-1532.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1724",
+            "Product Title": "Hammertone KADAI With Glass Lid 220 MM",
+            "Product Description": "Hammertone KADAI With Glass Lid 220 MM",
+            "Product Image Link": "SIL-1724.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1725",
+            "Product Title": "Hammertone KADAI With Glass Lid 240 MM",
+            "Product Description": "Hammertone KADAI With Glass Lid 240 MM",
+            "Product Image Link": "SIL-1725.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-1806",
+            "Product Title": "Induction Base Deep Kadai 2.3 Ltr",
+            "Product Description": "Induction Base Deep Kadai 2.3 Ltr",
+            "Product Image Link": "SIL-1806.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-1807",
+            "Product Title": "Induction Base DK kadai glass - 3 L",
+            "Product Description": "Induction Base DK kadai glass - 3 L",
+            "Product Image Link": "SIL-1807.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1951",
+            "Product Title": "M HOME Deep Kadai ( 12 Inch ) 2 Ltr",
+            "Product Description": "M HOME Deep Kadai ( 12 Inch ) 2 Ltr",
+            "Product Image Link": "SIL-1951.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1952",
+            "Product Title": "M HOME Deep Kadai 9 13 Inch ) 2.5 Ltr",
+            "Product Description": "M HOME Deep Kadai 9 13 Inch ) 2.5 Ltr",
+            "Product Image Link": "SIL-1952.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1989",
+            "Product Title": "M HOME Traditional Kadai 14 Cm",
+            "Product Description": "M HOME Traditional Kadai 14 Cm",
+            "Product Image Link": "SIL-1989.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1990",
+            "Product Title": "M HOME Traditional Kadai 16 Cm",
+            "Product Description": "M HOME Traditional Kadai 16 Cm",
+            "Product Image Link": "SIL-1990.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1991",
+            "Product Title": "M HOME Traditional Kadai 18 Cm",
+            "Product Description": "M HOME Traditional Kadai 18 Cm",
+            "Product Image Link": "SIL-1991.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1992",
+            "Product Title": "M HOME Traditional Kadai 20 Cm",
+            "Product Description": "M HOME Traditional Kadai 20 Cm",
+            "Product Image Link": "SIL-1992.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1993",
+            "Product Title": "M HOME Traditional Kadai 22 Cm",
+            "Product Description": "M HOME Traditional Kadai 22 Cm",
+            "Product Image Link": "SIL-1993.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1996",
+            "Product Title": "M Home Triply Kadai with Lid 18 Cm",
+            "Product Description": "M Home Triply Kadai with Lid 18 Cm",
+            "Product Image Link": "SIL-1996.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1997",
+            "Product Title": "M Home Triply Kadai with Lid 20 Cm",
+            "Product Description": "M Home Triply Kadai with Lid 20 Cm",
+            "Product Image Link": "SIL-1997.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1998",
+            "Product Title": "M Home Triply Kadai with Lid 22 Cm",
+            "Product Description": "M Home Triply Kadai with Lid 22 Cm",
+            "Product Image Link": "SIL-1998.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1999",
+            "Product Title": "M Home Triply Kadai with Lid 24 Cm",
+            "Product Description": "M Home Triply Kadai with Lid 24 Cm",
+            "Product Image Link": "SIL-1999.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2000",
+            "Product Title": "M Home Triply Kadai with Lid 26 Cm",
+            "Product Description": "M Home Triply Kadai with Lid 26 Cm",
+            "Product Image Link": "SIL-2000.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2001",
+            "Product Title": "M Home Triply Kadai with Lid 28 Cm",
+            "Product Description": "M Home Triply Kadai with Lid 28 Cm",
+            "Product Image Link": "SIL-2001.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2052",
+            "Product Title": "Nirlon Deep Kadai With s.s Lid Big",
+            "Product Description": "Nirlon Deep Kadai With s.s Lid Big",
+            "Product Image Link": "SIL-2052.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2053",
+            "Product Title": "Nirlon Deep Kadai with s.s lid medium ( 2.6 MM )",
+            "Product Description": "Nirlon Deep Kadai with s.s lid medium ( 2.6 MM )",
+            "Product Image Link": "SIL-2053.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2065",
+            "Product Title": "Nirlon Kadai - 12 ( 2.6 MM )",
+            "Product Description": "Nirlon Kadai - 12 ( 2.6 MM )",
+            "Product Image Link": "SIL-2065.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2066",
+            "Product Title": "Nirlon Kadai - 13 ( 2.6 MM )",
+            "Product Description": "Nirlon Kadai - 13 ( 2.6 MM )",
+            "Product Image Link": "SIL-2066.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2067",
+            "Product Title": "Nirlon Kadai - 14 ( 2.6 MM )",
+            "Product Description": "Nirlon Kadai - 14 ( 2.6 MM )",
+            "Product Image Link": "SIL-2067.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2068",
+            "Product Title": "Nirlon Kadai - 230 Mm ( 4 MM )",
+            "Product Description": "Nirlon Kadai - 230 Mm ( 4 MM )",
+            "Product Image Link": "SIL-2068.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Dinner Set",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1536",
+            "Product Title": "ATRO Royal Bhojan Set ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Royal Bhojan Set ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1536.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1537",
+            "Product Title": "ATRO Royal Dinner Set ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Royal Dinner Set ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1537.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Handi",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1539",
+            "Product Title": "ATRO Royal Handi With Large ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Royal Handi With Large ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1539.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1540",
+            "Product Title": "ATRO Royal Handi with Lid Medium ( Finishing Steel & Copper  )",
+            "Product Description": "ATRO Royal Handi with Lid Medium ( Finishing Steel & Copper  )",
+            "Product Image Link": "SIL-1540.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Saucepan",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1545",
+            "Product Title": "ATRO Saus Pan No 1400 Aprx Copper Plain",
+            "Product Description": "ATRO Saus Pan No 1400 Aprx Copper Plain",
+            "Product Image Link": "SIL-1545.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2002",
+            "Product Title": "M Home Triply Saucepan With Lid 14 Cm",
+            "Product Description": "M Home Triply Saucepan With Lid 14 Cm",
+            "Product Image Link": "SIL-2002.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2003",
+            "Product Title": "M Home Triply Saucepan With Lid 16 Cm",
+            "Product Description": "M Home Triply Saucepan With Lid 16 Cm",
+            "Product Image Link": "SIL-2003.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2004",
+            "Product Title": "M Home Triply Saucepan With Lid 18 Cm",
+            "Product Description": "M Home Triply Saucepan With Lid 18 Cm",
+            "Product Image Link": "SIL-2004.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2070",
+            "Product Title": "Nirlon Sauce Pan Big ( 2.6 MM )",
+            "Product Description": "Nirlon Sauce Pan Big ( 2.6 MM )",
+            "Product Image Link": "SIL-2070.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2071",
+            "Product Title": "Nirlon Sauce Pan Medium( 2.6 MM )",
+            "Product Description": "Nirlon Sauce Pan Medium( 2.6 MM )",
+            "Product Image Link": "SIL-2071.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water tank stand",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1546",
+            "Product Title": "ATRO Shagun Water Tank With Stand 5000 Aprx Hammer",
+            "Product Description": "ATRO Shagun Water Tank With Stand 5000 Aprx Hammer",
+            "Product Image Link": "SIL-1546.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water tank",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1547",
+            "Product Title": "ATRO Sheetal Water Tank 5000 Aprx Hammer",
+            "Product Description": "ATRO Sheetal Water Tank 5000 Aprx Hammer",
+            "Product Image Link": "SIL-1547.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water Pot",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1551",
+            "Product Title": "ATRO Trio Water Pot + 2 Glass Set 950 Aprx Carving",
+            "Product Description": "ATRO Trio Water Pot + 2 Glass Set 950 Aprx Carving",
+            "Product Image Link": "SIL-1551.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Utencils",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1552",
+            "Product Title": "ATRO Utencils With Lid No 1 1000 Aprx Copper Plain",
+            "Product Description": "ATRO Utencils With Lid No 1 1000 Aprx Copper Plain",
+            "Product Image Link": "SIL-1552.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Tray",
+        "products": [
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1553",
+            "Product Title": "ATRO Wooden 3 pcs Tray Rectangular",
+            "Product Description": "ATRO Wooden 3 pcs Tray Rectangular",
+            "Product Image Link": "SIL-1553.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "ATRO",
+            "Suvidhaa SKU": "SIL-1554",
+            "Product Title": "ATRO Wooden 3 pcs Tray Square",
+            "Product Description": "ATRO Wooden 3 pcs Tray Square",
+            "Product Image Link": "SIL-1554.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water heater",
+        "products": [
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-1611",
+            "Product Title": "Water heater 3L",
+            "Product Description": "Bajaj New Majesty 3L instant water heater 3KW",
+            "Product Image Link": "SIL-1611.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Cookware",
+        "products": [
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1713",
+            "Product Title": "Hammertone Aappam Patra With Glass lid ( 12 Cavity )",
+            "Product Description": "Hammertone Aappam Patra With Glass lid ( 12 Cavity )",
+            "Product Image Link": "SIL-1713.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2047",
+            "Product Title": "Nirlon Appachatti Big with s.s lid ( 2.6 MM ) ",
+            "Product Description": "Nirlon Appachatti Big with s.s lid ( 2.6 MM ) ",
+            "Product Image Link": "SIL-2047.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2048",
+            "Product Title": "Nirlon Appampatra - 12 cavity with ss lid ( 2.6 MM )",
+            "Product Description": "Nirlon Appampatra - 12 cavity with ss lid ( 2.6 MM )",
+            "Product Image Link": "SIL-2048.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Grill Pan",
+        "products": [
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1723",
+            "Product Title": "Hammertone Grill Pan 240 MM",
+            "Product Description": "Hammertone Grill Pan 240 MM",
+            "Product Image Link": "SIL-1723.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-1959",
+            "Product Title": "M HOME Grill Pan",
+            "Product Description": "M HOME Grill Pan",
+            "Product Image Link": "SIL-1959.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2063",
+            "Product Title": "Nirlon Grill Pan - 22 Cm",
+            "Product Description": "Nirlon Grill Pan - 22 Cm",
+            "Product Image Link": "SIL-2063.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2064",
+            "Product Title": "Nirlon Grill Pan - 24 Cm",
+            "Product Description": "Nirlon Grill Pan - 24 Cm",
+            "Product Image Link": "SIL-2064.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Flask",
+        "products": [
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1735",
+            "Product Title": "Hammertone SS Vaccum Hydra Flask 1000 ML",
+            "Product Description": "Hammertone SS Vaccum Hydra Flask 1000 ML",
+            "Product Image Link": "SIL-1735.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1736",
+            "Product Title": "Hammertone SS Vaccum Hydra Flask 350 ML",
+            "Product Description": "Hammertone SS Vaccum Hydra Flask 350 ML",
+            "Product Image Link": "SIL-1736.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "HAMMERTONE",
+            "Suvidhaa SKU": "SIL-1737",
+            "Product Title": "Hammertone SS Vaccum Hydra Flask 500 ML",
+            "Product Description": "Hammertone SS Vaccum Hydra Flask 500 ML",
+            "Product Image Link": "SIL-1737.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Oven Toaster Griller",
+        "products": [
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1833",
+            "Product Title": "Jaipan Oven Toaster Griller ( 10 Ltr )",
+            "Product Description": "Jaipan Oven Toaster Griller ( 10 Ltr )",
+            "Product Image Link": "SIL-1833.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1834",
+            "Product Title": "Jaipan Oven Toaster Griller ( 20 Ltr )",
+            "Product Description": "Jaipan Oven Toaster Griller ( 20 Ltr )",
+            "Product Image Link": "SIL-1834.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Roti Maker",
+        "products": [
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1836",
+            "Product Title": "jaipan Roti Maker / Khakar Maker",
+            "Product Description": "jaipan Roti Maker / Khakar Maker",
+            "Product Image Link": "SIL-1836.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Sandwich Toaster",
+        "products": [
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1837",
+            "Product Title": "Jaipan Sandwich Toaster & Grill Toaster & Pop up Toaster",
+            "Product Description": "Jaipan Sandwich Toaster & Grill Toaster & Pop up Toaster",
+            "Product Image Link": "SIL-1837.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Tasara",
+        "products": [
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2005",
+            "Product Title": "M Home Triply Tasara  18 Cm",
+            "Product Description": "M Home Triply Tasara  18 Cm",
+            "Product Image Link": "SIL-2005.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2006",
+            "Product Title": "M Home Triply Tasara  20 Cm",
+            "Product Description": "M Home Triply Tasara  20 Cm",
+            "Product Image Link": "SIL-2006.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2007",
+            "Product Title": "M Home Triply Tasara 22 Cm",
+            "Product Description": "M Home Triply Tasara 22 Cm",
+            "Product Image Link": "SIL-2007.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2008",
+            "Product Title": "M Home Triply Tasara 24 Cm",
+            "Product Description": "M Home Triply Tasara 24 Cm",
+            "Product Image Link": "SIL-2008.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2009",
+            "Product Title": "M Home Triply Tasara 26 Cm",
+            "Product Description": "M Home Triply Tasara 26 Cm",
+            "Product Image Link": "SIL-2009.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2010",
+            "Product Title": "M Home Triply Tasara 28 CM",
+            "Product Description": "M Home Triply Tasara 28 CM",
+            "Product Image Link": "SIL-2010.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Tope",
+        "products": [
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2011",
+            "Product Title": "M Home Triply Tope with Lid  14 Cm",
+            "Product Description": "M Home Triply Tope with Lid  14 Cm",
+            "Product Image Link": "SIL-2011.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2012",
+            "Product Title": "M Home Triply Tope with Lid  16 Cm",
+            "Product Description": "M Home Triply Tope with Lid  16 Cm",
+            "Product Image Link": "SIL-2012.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2013",
+            "Product Title": "M Home Triply Tope with Lid  18 Cm",
+            "Product Description": "M Home Triply Tope with Lid  18 Cm",
+            "Product Image Link": "SIL-2013.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2014",
+            "Product Title": "M Home Triply Tope with Lid  22 Cm",
+            "Product Description": "M Home Triply Tope with Lid  22 Cm",
+            "Product Image Link": "SIL-2014.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "M HOME",
+            "Suvidhaa SKU": "SIL-2015",
+            "Product Title": "M Home Triply Tope with Lid 20 Cm",
+            "Product Description": "M Home Triply Tope with Lid 20 Cm",
+            "Product Image Link": "SIL-2015.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Idli Cooker",
+        "products": [
+          {
+            "Brand": "Neelam",
+            "Suvidhaa SKU": "SIL-2045",
+            "Product Title": "Idli Cooker",
+            "Product Description": "Neelam Idli cooker with 6 plates multi kadai  big",
+            "Product Image Link": "SIL-2045.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Tapper Pan",
+        "products": [
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2072",
+            "Product Title": "Nirlon Tapper Pan - 20 Cm ( 2.6 MM )",
+            "Product Description": "Nirlon Tapper Pan - 20 Cm ( 2.6 MM )",
+            "Product Image Link": "SIL-2072.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "NIRLON",
+            "Suvidhaa SKU": "SIL-2073",
+            "Product Title": "Nirlon Tapper Pan - 22 Cm ( 2.6 MM )",
+            "Product Description": "Nirlon Tapper Pan - 22 Cm ( 2.6 MM )",
+            "Product Image Link": "SIL-2073.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Sandwich Maker",
+        "products": [
+          {
+            "Brand": "Maharaja",
+            "Suvidhaa SKU": "SIL-2020",
+            "Product Title": "Maharaja Sandwich maker : Viva/Viva Plus( With BIS Plug)",
+            "Product Description": "Maharaja Sandwich maker : Viva/Viva Plus( With BIS Plug)",
+            "Product Image Link": "SIL-2020.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water Dispenser",
+        "products": [
+          {
+            "Brand": "VOLTAS",
+            "Suvidhaa SKU": "SIL-2043",
+            "Product Title": "Mini Magic Pure-T (500 w)",
+            "Product Description": "Mini Magic Pure-T (500 w)",
+            "Product Image Link": "SIL-2043.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Home Appliance",
+    "subcategory": [
+      {
+        "name": "Gas Stove",
+        "products": [
+          {
+            "Brand": "SINGER",
+            "Suvidhaa SKU": "SIL-1687",
+            "Product Title": "Glass Gas Stove Maxiflare",
+            "Product Description": "Glass Gas Stove Maxiflare",
+            "Product Image Link": "SIL-1687.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1910",
+            "Product Title": "Stainless Steel 2 Burner Gas Stove",
+            "Product Description": "Lifelong LLGS199 Stainless Steel 2 Burner Gas Stove, ISI Certified, Manual Ignition, Silver (1 Year Door-step Warranty)",
+            "Product Image Link": "SIL-1910.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Steam Iron",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1884",
+            "Product Title": "Steam Iron ",
+            "Product Description": "Lifelong (LLSI01) Steam Iron Blue",
+            "Product Image Link": "SIL-1884.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1633",
+            "Product Title": "BAJAJ Steam Irons MX35N",
+            "Product Description": "BAJAJ Steam Irons MX35N",
+            "Product Image Link": "SIL-1633.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Tefal",
+            "Suvidhaa SKU": "SIL-2340",
+            "Product Title": "Tefal Steam Iron Steam Iron Eco Master",
+            "Product Description": "Tefal Steam Iron Steam Iron Eco Master",
+            "Product Image Link": "SIL-2340.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Egg Boiler",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1891",
+            "Product Title": "Egg Boiler",
+            "Product Description": "Lifelong Egg Boiler 360-Watt (Transparent and Silver Grey), Boil 7 eggs | Easy to clean| 3 Boiling Modes, Stainless Steel Body and Heating Plate, Automatic Turn-Off (1 Year Warranty)",
+            "Product Image Link": "SIL-1891.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Celling Fan",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1903",
+            "Product Title": "1200mm Ceiling Fan ",
+            "Product Description": "Lifelong LLCF112 1200 mm 3 Blade Ceiling Fan  (White, Pack of 1)",
+            "Product Image Link": "SIL-1903.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1844",
+            "Product Title": NaN,
+            "Product Description": "Kent BRISE E4",
+            "Product Image Link": "SIL-1844.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1866",
+            "Product Title": NaN,
+            "Product Description": "Kent PRIMA A3",
+            "Product Image Link": "SIL-1866.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-1576",
+            "Product Title": "Ceiling Fan",
+            "Product Description": "Bajaj Bahar 1200mm Ceiling fan",
+            "Product Image Link": "SIL-1576.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Hand Mixer",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1918",
+            "Product Title": "150w Regalia Hand Mixer for mixing cake batters",
+            "Product Description": "Lifelong LLHM01 150 W Regalia Hand Mixer For Mixing Cake Batters, Atta |2 Beaters & 2 Dough Attachments | Black (1 Year Warranty)",
+            "Product Image Link": "SIL-1918.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Room Heater",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1933",
+            "Product Title": "800 W Quartz Room Heater With 2 Power Setting",
+            "Product Description": "Lifelong LLQH923 Infinia 800 W (ISI Certified) Quartz Room Heater with 2 Power Settings (400W-800W)| 2 Rod Room Heater",
+            "Product Image Link": "SIL-1933.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Dry Iron",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1941",
+            "Product Title": "Stellar Dry Iron 1000W",
+            "Product Description": "Lifelong Stellar Dry Iron 1000W",
+            "Product Image Link": "SIL-1941.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1941",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Stellar Dry Iron 1000W",
+            "Product Image Link": "SIL-1941.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-2494",
+            "Product Title": NaN,
+            "Product Description": "Bajaj DHX 9 Dry Iron",
+            "Product Image Link": "SIL-2494.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-2491",
+            "Product Title": NaN,
+            "Product Description": "Bajaj Majesty One Dry Iron",
+            "Product Image Link": "SIL-2491.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1577",
+            "Product Title": "BAJAJ Bajaj DX 14 750W Dry Iron ",
+            "Product Description": "BAJAJ Bajaj DX 14 750W Dry Iron ",
+            "Product Image Link": "SIL-1577.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1812",
+            "Product Title": "Jaiapan Plancha Iron 1000 W",
+            "Product Description": "Jaiapan Plancha Iron 1000 W",
+            "Product Image Link": "SIL-1812.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1818",
+            "Product Title": "Jaipan Desire Iron 1000W",
+            "Product Description": "Jaipan Desire Iron 1000W",
+            "Product Image Link": "SIL-1818.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1822",
+            "Product Title": "Jaipan Hero Iron  1000W",
+            "Product Description": "Jaipan Hero Iron  1000W",
+            "Product Image Link": "SIL-1822.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1831",
+            "Product Title": "Jaipan Light Weight Iron",
+            "Product Description": "Jaipan Light Weight Iron",
+            "Product Image Link": "SIL-1831.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Toothbursh",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-2369",
+            "Product Title": "Ultra Care Battery Operated Toothbrush",
+            "Product Description": "Lifelong Ultra Care Battery Operated Toothbrush",
+            "Product Image Link": "SIL-2369.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Television",
+        "products": [
+          {
+            "Brand": "PANASONIC",
+            "Suvidhaa SKU": "SIL-2118",
+            "Product Title": "LED Smart TV",
+            "Product Description": "Panasonic 80 cm (32 inch) HD Ready LED Smart TV  (TH-32LS550DX)",
+            "Product Image Link": "SIL-2118.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Vaccum Cleaner",
+        "products": [
+          {
+            "Brand": "SINGER",
+            "Suvidhaa SKU": "SIL-2307",
+            "Product Title": "Vaccum Cleaner ",
+            "Product Description": "Singer E Clean 1200 Watts Vacuum Cleaner for Home with Blower Function, Comes with Washable/Replaceable 2 L Cloth Dust Bag - Black/Red",
+            "Product Image Link": "SIL-2307.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Velway",
+            "Suvidhaa SKU": "SIL-2393",
+            "Product Title": "TI-B3BM-OQJV",
+            "Product Description": "Velway V8s Smart Robotic Vacuum Cleaner Wet and Dry with High Suction 3200 MAH Long Lasting Battery WiFi Connected Compatible with Alexa and Google Home Mapping Ultra Power Navigation White",
+            "Product Image Link": "SIL-2393.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Water heater",
+        "products": [
+          {
+            "Brand": "Haier",
+            "Suvidhaa SKU": "SIL-1693",
+            "Product Title": "10 Ltrs,Storage, Vertical Water Heater",
+            "Product Description": "Haier 10 L Storage Water Geyser (ES10V-VL, White)",
+            "Product Image Link": "SIL-1693.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Haier",
+            "Suvidhaa SKU": "SIL-1707",
+            "Product Title": "3 Ltrs,Instant  Water Heater",
+            "Product Description": "Haier ES3V-C1 3-Litre Water Heater (White/Blue)",
+            "Product Image Link": "SIL-1707.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1894",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Flash 3 Litres Instant Water Heater (3000 Watts, ISI Certified, 2 Years Warranty)",
+            "Product Image Link": "SIL-1894.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Room Humidifier",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1103",
+            "Product Title": "ESSENTIALOIL4",
+            "Product Description": "Amour 4 Piece Essential Oil Set, Top Essential Oils For Aromatherapy Diffuser With Gift Packing",
+            "Product Image Link": "SIL-1103.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1886",
+            "Product Title": NaN,
+            "Product Description": "Lifelong 3.5 Litre Top Fill Room Humidifier for Home, Bedroom and Office with Essential Aroma Oil Diffuser and 7 colors mood light",
+            "Product Image Link": "SIL-1886.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Blender",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1115",
+            "Product Title": "BLENDERBLUE",
+            "Product Description": "Amour Portable Blender, Smoothie Juicer Cup - Six Blades in 3D, 13oz Fruit Mixing Machine with 1500mAh USB Rechargeable Batteries, Detachable Cup ",
+            "Product Image Link": "SIL-1115.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1915",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLHBZ03 Regalia Plus 300W Hand Blender Machine for Kitchen with Whisker, Chopping Attachment & Multipurpose Jar|Stainless Steel Blade & Detachable Shaft|1 Year Warranty (ISI Certified, White)",
+            "Product Image Link": "SIL-1915.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Morphy Richards",
+            "Suvidhaa SKU": "SIL-2531",
+            "Product Title": NaN,
+            "Product Description": "Morphy Richards Hand Blender - Hm02 640067",
+            "Product Image Link": "SIL-2531.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Utensil set",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1116",
+            "Product Title": "5SPATULAPINK",
+            "Product Description": "Amour Set Of Five Pink And Rose Gold Silicone Mini Kitchen Utensil Set",
+            "Product Image Link": "SIL-1116.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1122",
+            "Product Title": "9UTENSILSET",
+            "Product Description": "Amour Ultra Premium Silicon Kitchen Utensil 9 Piece Set, Silicone Cooking Utensil Set, Kitchen Gadgets Cookware Set, Best Gift - Kitchen Tool Set ",
+            "Product Image Link": "SIL-1122.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Toddler Plate",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1117",
+            "Product Title": "GRIPDISHBLUE",
+            "Product Description": "Amour Silicone Grip Self Feeding Dish, Suction Plate, Baby Toddler Plate",
+            "Product Image Link": "SIL-1117.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Scraper spoon",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1119",
+            "Product Title": "SCRAPERSPOON",
+            "Product Description": "Amour Silicone Spatula Scraper Spoon for Heat Resistant Better Cooking, Baking, Spreading & Mixing Ideal or Mom Kitchen Gadget Cake Accessory for Good Grip Home Utensil Set of 2 ",
+            "Product Image Link": "SIL-1119.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Air Purifier",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1791",
+            "Product Title": "iLife plant air purifier",
+            "Product Description": "iLife Air Purifier | HEPA Home, Removes Smoke, Mini Allergens, No Filter Needed",
+            "Product Image Link": "SIL-1791.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2021",
+            "Product Title": "MI AIR PURIFIER 3",
+            "Product Description": "MI AIR PURIFIER 3",
+            "Product Image Link": "SIL-2021.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Trolley Bag",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1795",
+            "Product Title": "6S-MDCF-KVLY",
+            "Product Description": "iLife Collapsible Trolley Bags Folding Shopping Bag with Wheels Foldable Shopping Cart Reusable Shopping Bags Grocery Bags Shopping Trolley Bag on Wheels (Green)",
+            "Product Image Link": "SIL-1795.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Safety Lock",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1796",
+            "Product Title": "biometric",
+            "Product Description": "iLife Fingerprint TSA Painted Padlock, Smart Biometric Lock, Metal Waterproof Portable Security Lock for Gym, Door, Backpack, Luggage Suitcase, Bike, Office, keyless; Gold",
+            "Product Image Link": "SIL-1796.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Rat Rodent",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1799",
+            "Product Title": "ilife ZF-818",
+            "Product Description": "iLife Metal Black Body Car and Home Rat Rodent Ultrasonic Electronic Vehicle Chases Rat Rodent Mice Mouse Repellent (12V)",
+            "Product Image Link": "SIL-1799.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Thermal Bags",
+        "products": [
+          {
+            "Brand": "Velway",
+            "Suvidhaa SKU": "SIL-2392",
+            "Product Title": "Hot and Cold Bag",
+            "Product Description": "Velway Thermal Insulated Reusable Hot Cold Food Storage and Carry Bags",
+            "Product Image Link": "SIL-2392.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Mixer Grinder ",
+        "products": [
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1848",
+            "Product Title": NaN,
+            "Product Description": "KENT DIGITAL POWER BLENDER & GRINDER (16027)",
+            "Product Image Link": "SIL-1848.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1854",
+            "Product Title": NaN,
+            "Product Description": "KENT HAND MIXER 300W (16051)",
+            "Product Image Link": "SIL-1854.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1867",
+            "Product Title": NaN,
+            "Product Description": "Kent Rapid Mix 550 Watt Mixer",
+            "Product Image Link": "SIL-1867.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1936",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Maxo Mixer Grinder,500W,2 Jar",
+            "Product Image Link": "SIL-1936.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1937",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Maxo Mixer Grinder,500W,3 Jar",
+            "Product Image Link": "SIL-1937.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1938",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Maxo Mixer Grinder,500W,3 Jar, Pure Copper",
+            "Product Image Link": "SIL-1938.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-2541",
+            "Product Title": NaN,
+            "Product Description": "Bajaj Easy 500-Watt Mixer Grinder - 410153",
+            "Product Image Link": "SIL-2541.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1619",
+            "Product Title": "BAJAJ Primo Classique Mixer Grinder 750w ",
+            "Product Description": "BAJAJ Primo Classique Mixer Grinder 750w ",
+            "Product Image Link": "SIL-1619.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1813",
+            "Product Title": "Jaipan Grand Master",
+            "Product Description": "Jaipan 0119 Grand Master 750 Mixer Grinder ",
+            "Product Image Link": "SIL-1813.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1815",
+            "Product Title": "jaipan Breeza 4 Jar",
+            "Product Description": "Jaipan Breeza :: High Performance Mixer Grinder :",
+            "Product Image Link": "SIL-1815.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1816",
+            "Product Title": "Jaipan Breeza ( 550 W )",
+            "Product Description": "Jaipan by JAIPAN BREEZA 550 WATTS JP-BREEZA 550 WATTS 550 Mixer Grinder",
+            "Product Image Link": "SIL-1816.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1817",
+            "Product Title": "Jaipan Masterchef ( 750 W )",
+            "Product Description": "Jaipan by JAIPAN MASTER CHEF 750 WATT (NEW ARRIVAL) JP-750 WATT EXCLUSIVE SERIES 750 Mixer Grinder",
+            "Product Image Link": "SIL-1817.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1820",
+            "Product Title": "Jaipan Fruttica 4 jar ( 750 W )",
+            "Product Description": "Jaipan Fruttica Mixer Grinder with 4 Jars (Green & Black) (750 Watts)",
+            "Product Image Link": "SIL-1820.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1821",
+            "Product Title": "Jaipan Grand Master Metallic ( 750 )",
+            "Product Description": "Jaipan GRAND MASTER High Performance Premium Metallic Mixer :750W : Three JARs JP-GRANDMASTER METTALICA 750 Mixer Grinder",
+            "Product Image Link": "SIL-1821.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1823",
+            "Product Title": "Jaipan hotel king mixer grinder ( 1000 W )",
+            "Product Description": "Jaipan hotel king mixer grinder ( 1000 W )",
+            "Product Image Link": "SIL-1823.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1827",
+            "Product Title": "jaipan Butler ( 750 W )",
+            "Product Description": "Jaipan JPBM0009 Butler Mixer 750 W 750 Juicer Mixer Grinder",
+            "Product Image Link": "SIL-1827.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JAIPAN",
+            "Suvidhaa SKU": "SIL-1830",
+            "Product Title": "Jaipan Kitchen Beauty ( 850 W )",
+            "Product Description": "Jaipan Kitchen Beauty NA 850 Mixer Grinder",
+            "Product Image Link": "SIL-1830.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bajaj",
+            "Suvidhaa SKU": "SIL-1578",
+            "Product Title": "Bajaj Classic 750-Watt Mixer Grinder with 3 Jars",
+            "Product Description": "Bajaj Classic 750-Watt Mixer Grinder with 3 Jars",
+            "Product Image Link": "SIL-1578.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Usha",
+            "Suvidhaa SKU": "SIL-2373",
+            "Product Title": "Usha Mixer Grinder 3750 ( 2 Jar)",
+            "Product Description": "Usha Mixer Grinder 3750 ( 2 Jar)",
+            "Product Image Link": "SIL-2373.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Air Fryer",
+        "products": [
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1855",
+            "Product Title": NaN,
+            "Product Description": "KENT HOT AIR FRYER (16033)",
+            "Product Image Link": "SIL-1855.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Juicer",
+        "products": [
+          {
+            "Brand": "KENT",
+            "Suvidhaa SKU": "SIL-1870",
+            "Product Title": NaN,
+            "Product Description": "KENT SMART SLOW JUICER (16094)",
+            "Product Image Link": "SIL-1870.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Maharaja",
+            "Suvidhaa SKU": "SIL-2019",
+            "Product Title": "Maharaja Juicer Mixer Grinder Jmg Odacio Prime",
+            "Product Description": "Maharaja Juicer Mixer Grinder Jmg Odacio Prime",
+            "Product Image Link": "SIL-2019.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Usha",
+            "Suvidhaa SKU": "SIL-2372",
+            "Product Title": "Usha Juicer Mixer Grinder 3345\ufffd\ufffd",
+            "Product Description": "Usha Juicer Mixer Grinder 3345\ufffd\ufffd",
+            "Product Image Link": "SIL-2372.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Keyboard",
+        "products": [
+          {
+            "Brand": "iGear",
+            "Suvidhaa SKU": "SIL-2550",
+            "Product Title": NaN,
+            "Product Description": "i GEAR KeyBee Retro Typewriter Inspired 2.4GHz Wireless Keyboard",
+            "Product Image Link": "SIL-2550.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "iGear",
+            "Suvidhaa SKU": "SIL-2537",
+            "Product Title": NaN,
+            "Product Description": "iGear KeyBee Pro: Colourful Computer Wireless Keyboard",
+            "Product Image Link": "SIL-2537.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Fire TV Stick",
+        "products": [
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2554",
+            "Product Title": NaN,
+            "Product Description": "Lenovo HT18 True Wireless Stereo Earbuds",
+            "Product Image Link": "SIL-2554.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Lantern",
+        "products": [
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1579",
+            "Product Title": "BAJAJ BAJAJ DHYUTI MINI RC Lantern",
+            "Product Description": "BAJAJ DHYUTI MINI RC Lantern",
+            "Product Image Link": "SIL-1579.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Emergency Light",
+        "products": [
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1582",
+            "Product Title": "BAJAJ ELX MINI LED EMERGENCY LIGHT",
+            "Product Description": "BAJAJ ELX MINI LED EMERGENCY LIGHT",
+            "Product Image Link": "SIL-1582.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Torch",
+        "products": [
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1588",
+            "Product Title": "BAJAJ HYPERION RC LED TORCH CUM TABLE LAMP",
+            "Product Description": "BAJAJ HYPERION RC LED TORCH CUM TABLE LAMP",
+            "Product Image Link": "SIL-1588.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1621",
+            "Product Title": "BAJAJ RAFTAAR MAX LED RC TORCH ",
+            "Product Description": "BAJAJ RAFTAAR MAX LED RC TORCH ",
+            "Product Image Link": "SIL-1621.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Table Lamp",
+        "products": [
+          {
+            "Brand": "BAJAJ",
+            "Suvidhaa SKU": "SIL-1630",
+            "Product Title": "BAJAJ SOFTLITE MINI LED RC Table lamp",
+            "Product Description": "BAJAJ SOFTLITE MINI LED RC Table lamp",
+            "Product Image Link": "SIL-1630.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "STREAMING PLAYER",
+        "products": [
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2023",
+            "Product Title": "MI BOX 4K",
+            "Product Description": "MI BOX 4K",
+            "Product Image Link": "SIL-2023.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2039",
+            "Product Title": "MI TV STICK",
+            "Product Description": "MI TV STICK",
+            "Product Image Link": "SIL-2039.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Table lamp",
+        "products": [
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2030",
+            "Product Title": "MI RECHARGABLE LED LAMP",
+            "Product Description": "MI RECHARGABLE LED LAMP",
+            "Product Image Link": "SIL-2030.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "SMART BULB",
+        "products": [
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2034",
+            "Product Title": "MI SMART LED BULB (B22)",
+            "Product Description": "MI SMART LED BULB (B22)",
+            "Product Image Link": "SIL-2034.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Gift set",
+        "products": [
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2356",
+            "Product Title": NaN,
+            "Product Description": "Tyffyn 1000 ml with Bagmat + 600 ml Drynk with Gulper Assy",
+            "Product Image Link": "SIL-2356.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Casserole",
+        "products": [
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2374",
+            "Product Title": NaN,
+            "Product Description": "Vacuum Insulated Stainless Steel Serving Casserole Vaya HauteCase - 1100 ml  -  with stack and Glass Lid",
+            "Product Image Link": "SIL-2374.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2375",
+            "Product Title": NaN,
+            "Product Description": "Vacuum Insulated Stainless Steel Serving Casserole Vaya HauteCase - 1500 ml   with  Glass Lid ",
+            "Product Image Link": "SIL-2375.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2376",
+            "Product Title": NaN,
+            "Product Description": "Vacuum Insulated Stainless Steel Serving Casserole Vaya HauteCase - 1500 ml   with stack and Glass Lid ",
+            "Product Image Link": "SIL-2376.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vaya",
+            "Suvidhaa SKU": "SIL-2377",
+            "Product Title": NaN,
+            "Product Description": "Vacuum Insulated Stainless Steel Serving Casserole Vaya HauteCase - 1500 ml   with stack Lid ",
+            "Product Image Link": "SIL-2377.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Health Care",
+    "subcategory": [
+      {
+        "name": "Fitness",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1909",
+            "Product Title": "Fit pro Spin Fitness Bike with Flywheel, Adjustable, Resistance, LCD Monitor and Heart Rate Sensor",
+            "Product Description": "Lifelong LLF45 Fit Pro Spin Fitness Bike with 6Kg Flywheel, Adjustable Resistance, LCD Monitor and Heart Rate Sensor for Fitness at Home; Home Workouts (1 Year Warranty, Max Weight: 120 kg)",
+            "Product Image Link": "SIL-1909.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1893",
+            "Product Title": NaN,
+            "Product Description": "Lifelong FitPro LLTM09 (2.5 HP Peak) Motorized Treadmill for Home with 12 preset Workouts, Max Speed 10km/hr. (Free Installation Assistance)",
+            "Product Image Link": "SIL-1893.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1900",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLBC2001 Tribe 20T Cycle (Yellow and Black) I Ideal for: Kids (5-8 Years) I Frame Size: 12\" | Ideal Height : 3 ft 10 inch+ I Unisex Cycle| 85% Assembled (Easy self-Assembly)",
+            "Product Image Link": "SIL-1900.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1904",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLEB101 Air Bike, Stationary Handle for Cardio Training, Weight Loss and Workout at Home (6 Month Warranty, Free Home Installation, Black)",
+            "Product Image Link": "SIL-1904.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1905",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLEB102 Air Bike Exercise Machine with Stationary Handle and Back Support with Max User Weight 100Kg, Workout at Home (Free Home Installation, 6 Months Warranty, Black)",
+            "Product Image Link": "SIL-1905.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1906",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLEB103 AirBike with Moving Handle, Exercise Machine with Moving Handles for Cardio Training, Weight Loss and Workout at Home (Free Home Installation)",
+            "Product Image Link": "SIL-1906.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1907",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLEB104 AirBike with Moving Handle and Back Support, Max User Weight 100kg, Fitness Bike for Workout at Home (Free Home Installlation, 6 Months Warranty, Black)",
+            "Product Image Link": "SIL-1907.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1908",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLF45 Fit Pro Spin Fitness Bike with 6Kg Flywheel, Adjustable Resistance, LCD Monitor and Heart Rate Sensor for Fitness at Home; Home Workouts (1 Year Warranty)",
+            "Product Image Link": "SIL-1908.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Weighing Scale ",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1934",
+            "Product Title": "Digital Weighing Scale",
+            "Product Description": "Lifelong LLWS18 Digital Weighing Scale|Glass Weighing Scale Machine|Electronic Bathroom Scales & Weight Machine for Home & Human Balance with 2 Years warranty & Battery included (Black)",
+            "Product Image Link": "SIL-1934.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1935",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLWS27 Digital Weighing Scale|Glass Weighing Scale Machine|Electronic Bathroom Scales & Weight Machine for Home & Human Balance with 1 Year warranty & Battery included (Blue)",
+            "Product Image Link": "SIL-1935.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lifetrons",
+            "Suvidhaa SKU": "SIL-1943",
+            "Product Title": "Lifetrons  Personal Weighing Digital Scale",
+            "Product Description": "Lifetrons Complete Digital Body Weighing Scale & Fat Analyzer with multiple user support to measure Body Weight/Body Fat/BMI/Protein - Android & iPhone support with 1 Year Warranty\ufffd",
+            "Product Image Link": "SIL-1943.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Facial Steamer",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1112",
+            "Product Title": "AMOURNANOSTEAMER",
+            "Product Description": "Amour Nano Steamer Professional Hot & Cold 4-in-1 Nano Ionic Aromatherapy Facial Steamer for Spas - Humidifier - Unclogs Pores - Blackheads - Spa Quality",
+            "Product Image Link": "SIL-1112.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Massager ",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1895",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Foot Spa and Massager with Automatic Rollers, Digital Panel, Bubble Bath & Water Heating Technology for Pedicure, Pain relief & Foot Care",
+            "Product Image Link": "SIL-1895.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1896",
+            "Product Title": NaN,
+            "Product Description": "Lifelong full body massager ",
+            "Product Image Link": "SIL-1896.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1897",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Gun Massager Deep Tissue Body Massage Machine For Pain Relief | 6 Specialized Heads | Massager Machine For Full Body",
+            "Product Image Link": "SIL-1897.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1919",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM126 Electric Portable Face Cleanser and Massager Brush with 4 Brush Heads for Deep Cleansing, Scrubbing, Exfoliating, Removing Blackhead and Massaging",
+            "Product Image Link": "SIL-1919.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1920",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM18 Air Pressure Massager for pain relief of Arms, Leg, Calf and Foot (Brown)",
+            "Product Image Link": "SIL-1920.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1921",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM225 Rechargeable Head, Scalp and Full Body Pain Relief Massager",
+            "Product Image Link": "SIL-1921.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1922",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM72 Foot Massager, Brown",
+            "Product Image Link": "SIL-1922.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1923",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM720 Rechargeable Face Cleaning Massager (Golden)",
+            "Product Image Link": "SIL-1923.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1924",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM81 Foot Massager with Heat, Brown",
+            "Product Image Link": "SIL-1924.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1925",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLM99 Foot, Calf and Leg Massager,(With Heat and Vibration), 80W, 4 Motors, Dark Brown",
+            "Product Image Link": "SIL-1925.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Personal Care",
+    "subcategory": [
+      {
+        "name": "Pet Hair Remover Brush",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1107",
+            "Product Title": "PETBRUSH",
+            "Product Description": "Amour Animal Cleaning Hair Remover Brush",
+            "Product Image Link": "SIL-1107.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Trimmer",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1928",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLPCM03 Nose Trimmer, with One Year Warranty",
+            "Product Image Link": "SIL-1928.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1929",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLPCM13 Cordless Beard Trimmer for men, Runtime: 45 minutes",
+            "Product Image Link": "SIL-1929.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1930",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLPCM17 Ace Pro Rechargeable Hair Clipper with Digital Display, 3 hours runtime, 6 combs (3 mm - 12 mm)",
+            "Product Image Link": "SIL-1930.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1931",
+            "Product Title": NaN,
+            "Product Description": "Lifelong LLPCM19 Beard Trimmer For Men With Quick/Fast Charge (1.5 Hrs), 90 Mins Run-time, Cord & Cordless Use, 20 Length Settings",
+            "Product Image Link": "SIL-1931.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Toothbursh",
+        "products": [
+          {
+            "Brand": "LIFELONG",
+            "Suvidhaa SKU": "SIL-1939",
+            "Product Title": NaN,
+            "Product Description": "Lifelong Power Rechargeable Electric Toothbrush (White) | 6 operational Modes and 3 hours charge lasting 30 days",
+            "Product Image Link": "SIL-1939.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Wallet",
+        "products": [
+          {
+            "Brand": "Daily Objects",
+            "Suvidhaa SKU": "SIL-2472",
+            "Product Title": NaN,
+            "Product Description": "Daily Objects SkinnyFit Vegan Leather Wallet",
+            "Product Image Link": "SIL-2472.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Hair straightner",
+        "products": [
+          {
+            "Brand": "Havells ",
+            "Suvidhaa SKU": "SIL-2507",
+            "Product Title": NaN,
+            "Product Description": "Havells Titanium Coated Hair Straightener HS4150",
+            "Product Image Link": "SIL-2507.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Weight Band",
+        "products": [
+          {
+            "Brand": "Nivia",
+            "Suvidhaa SKU": "SIL-2467",
+            "Product Title": NaN,
+            "Product Description": "Nivia Weight Band 1kg W939",
+            "Product Image Link": "SIL-2467.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Lunch Box",
+        "products": [
+          {
+            "Brand": "vaya",
+            "Suvidhaa SKU": "SIL-2530",
+            "Product Title": NaN,
+            "Product Description": "Vaya Tyffyn - 600 ml - Black (with Bagmat) LB08",
+            "Product Image Link": "SIL-2530.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "vaya",
+            "Suvidhaa SKU": "SIL-2539",
+            "Product Title": NaN,
+            "Product Description": "Vaya Tyffyn - 600 Ml - Denim (with Bagmat) LB12",
+            "Product Image Link": "SIL-2539.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Wearable",
+        "products": [
+          {
+            "Brand": "Samsung",
+            "Suvidhaa SKU": "SIL-2284",
+            "Product Title": "R177N - Buds 2",
+            "Product Description": "Samsung R177N - Buds 2(R177N)",
+            "Product Image Link": "SIL-2284.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Mobile Accessories",
+    "subcategory": [
+      {
+        "name": "Phone holder",
+        "products": [
+          {
+            "Brand": "Amour",
+            "Suvidhaa SKU": "SIL-1113",
+            "Product Title": "TISSUEBOXMINTGREEN",
+            "Product Description": "Amour Phone Holder with Tissue Box, TV Shaped Tissue and Smartphone Holder, Versatile ",
+            "Product Image Link": "SIL-1113.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Car Charger ",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1788",
+            "Product Title": "ilife car charger",
+            "Product Description": "iLife 4 Port USB Car Charger, iLife Quick Charge 3.0 36W Power Drive 4 for iPhone X / 8/8 Plus/iPad Pro/ Air2 / Mini 4 / Samsung Galaxy Note 8 / S8 / Huawei/LG Nexus/HTC and More (Black)",
+            "Product Image Link": "SIL-1788.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Portronics",
+            "Suvidhaa SKU": "SIL-2479",
+            "Product Title": NaN,
+            "Product Description": "Portronics UFO Home Charger 6 Ports 8A Charging Station White",
+            "Product Image Link": "SIL-2479.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Selfie stick",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1801",
+            "Product Title": "CY-CJZG-T7VN",
+            "Product Description": "iLife Selfie 360\ufffd Rotation Auto Face Object Tracking Smart Vlog Shooting Camera Phone Mount Holder for Self Video Maker Tripod Compatible with Any Smartphones (Black)",
+            "Product Image Link": "SIL-1801.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Usb cables",
+        "products": [
+          {
+            "Brand": "Tagg",
+            "Suvidhaa SKU": "SIL-2486",
+            "Product Title": NaN,
+            "Product Description": "Tagg Powerline Type C 6.6ft Braided Cables with Fast Charge",
+            "Product Image Link": "SIL-2486.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Power Bank",
+        "products": [
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-2172",
+            "Product Title": "POWEAR BANK 10000 MAH 3I",
+            "Product Description": "MI POWEAR BANK 10000 MAH 3I",
+            "Product Image Link": "SIL-2172.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Syska",
+            "Suvidhaa SKU": "SIL-2337",
+            "Product Title": "10000 Mah powerbank",
+            "Product Description": "SYSKA Power Bank 10000mah | 6 Months Warranty | Powerbank, Battery Bank, PL100J with 3-in-1 Led Light",
+            "Product Image Link": "SIL-2337.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vivo",
+            "Suvidhaa SKU": "SIL-2394",
+            "Product Title": NaN,
+            "Product Description": "Vivo 10000 Power Bank",
+            "Product Image Link": "SIL-2394.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Audio",
+    "subcategory": [
+      {
+        "name": "Airpods",
+        "products": [
+          {
+            "Brand": "iLife",
+            "Suvidhaa SKU": "SIL-1805",
+            "Product Title": "bluetooth ipx7",
+            "Product Description": "iLife Wireless Bluetooth V4.2 Ipx7 Waterproof Headphone with Deep Bass Sound, Charging Energy Station & Hands-Free Mic with Mini Power Bank",
+            "Product Image Link": "SIL-1805.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Blaupunkt",
+            "Suvidhaa SKU": "SIL-2533",
+            "Product Title": NaN,
+            "Product Description": "Blaupunkt BTW25 True Wireless Earbud Black",
+            "Product Image Link": "SIL-2533.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-2517",
+            "Product Title": NaN,
+            "Product Description": "BoAt Airdopes 138 TWS Earphone",
+            "Product Image Link": "SIL-2517.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JBL",
+            "Suvidhaa SKU": "SIL-2556",
+            "Product Title": "JBL Wave 100 TWS",
+            "Product Description": "JBL Wave 100 TWS",
+            "Product Image Link": "SIL-2556.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1638",
+            "Product Title": NaN,
+            "Product Description": "Boat Airdopes 441 Pro",
+            "Product Image Link": "SIL-1638.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1649",
+            "Product Title": NaN,
+            "Product Description": "BOAT TWS AIRDOPES 121V2",
+            "Product Image Link": "SIL-1649.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1650",
+            "Product Title": NaN,
+            "Product Description": "BOAT TWS AIRDOPES 138",
+            "Product Image Link": "SIL-1650.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-2026",
+            "Product Title": "EAR BUDS Redmi Earbuds 3 pro",
+            "Product Description": "MI EAR BUDS Redmi Earbuds 3 pro",
+            "Product Image Link": "SIL-2026.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "REDMI",
+            "Suvidhaa SKU": "SIL-2177",
+            "Product Title": "REDMI EAR BUDS 2C",
+            "Product Description": "REDMI EAR BUDS 2C",
+            "Product Image Link": "SIL-2177.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "REDMI",
+            "Suvidhaa SKU": "SIL-2178",
+            "Product Title": "REDMI EARBUDS S",
+            "Product Description": "REDMI EARBUDS S",
+            "Product Image Link": "SIL-2178.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Syska",
+            "Suvidhaa SKU": "SIL-2339",
+            "Product Title": "EARBUDS",
+            "Product Description": "Syska Sonic Buds IEB450 True Wireless Earbuds with Ultra Sync Technology, 20Hr Play BackTime, Tap N Play Touch Control, Light Weight, IPX4 Water Resistant",
+            "Product Image Link": "SIL-2339.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vivo",
+            "Suvidhaa SKU": "SIL-2426",
+            "Product Title": NaN,
+            "Product Description": "Wireless Bluetooth for vivo V5 Lite Sports Wireless Headset with Super Extra Bass, IPX5 Water & Sweat Resistance, Qualcomm Chipset and Up to 6H Playback (Active Black)",
+            "Product Image Link": "SIL-2426.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Head Phone",
+        "products": [
+          {
+            "Brand": "Blaupunkt",
+            "Suvidhaa SKU": "SIL-2542",
+            "Product Title": NaN,
+            "Product Description": "Blaupunkt BH11 Bluetooth Headphones Black",
+            "Product Image Link": "SIL-2542.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "BoAt",
+            "Suvidhaa SKU": "SIL-2470",
+            "Product Title": NaN,
+            "Product Description": "BoAt BassHeads 100\u00a0Headphones With Mic",
+            "Product Image Link": "SIL-2470.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Infinity",
+            "Suvidhaa SKU": "SIL-2469",
+            "Product Title": NaN,
+            "Product Description": "Infinity Wynd 220 In Ear Headphone",
+            "Product Image Link": "SIL-2469.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "JBL",
+            "Suvidhaa SKU": "SIL-2471",
+            "Product Title": NaN,
+            "Product Description": "JBL T50HI In Ear Headphone with Mic",
+            "Product Image Link": "SIL-2471.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Leaf",
+            "Suvidhaa SKU": "SIL-2496",
+            "Product Title": NaN,
+            "Product Description": "Leaf Bass Wireless Bluetooth Headphones",
+            "Product Image Link": "SIL-2496.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2555",
+            "Product Title": NaN,
+            "Product Description": "Lenovo HD200   Headphone",
+            "Product Image Link": "SIL-2555.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Portronics",
+            "Suvidhaa SKU": "SIL-2511",
+            "Product Title": NaN,
+            "Product Description": "Portronics Muffs M1 Bluetooth Headphone with Mic. & Aux Port",
+            "Product Image Link": "SIL-2511.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1644",
+            "Product Title": "ROCKERZ 450R",
+            "Product Description": "BOAT HEADPHONE ROCKERZ 450R",
+            "Product Image Link": "SIL-1644.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Earphone",
+        "products": [
+          {
+            "Brand": "Blaupunkt",
+            "Suvidhaa SKU": "SIL-2490",
+            "Product Title": NaN,
+            "Product Description": "Blaupunkt EM10 Wired Earphone Black",
+            "Product Image Link": "SIL-2490.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-2476",
+            "Product Title": NaN,
+            "Product Description": "BoaAt Bassheads 152 Wired Earphone",
+            "Product Image Link": "SIL-2476.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-2484",
+            "Product Title": NaN,
+            "Product Description": "BoaAt Bassheads 242 Wired Earphone",
+            "Product Image Link": "SIL-2484.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-2473",
+            "Product Title": NaN,
+            "Product Description": "Boat Bassheads 228 Wired Earphones With Mic",
+            "Product Image Link": "SIL-2473.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2487",
+            "Product Title": NaN,
+            "Product Description": "Lenovo QF-320 Wired Earphone",
+            "Product Image Link": "SIL-2487.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1643",
+            "Product Title": "BASSHEAD 110",
+            "Product Description": "BOAT EARPHONE BASSHEAD 110",
+            "Product Image Link": "SIL-1643.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2038",
+            "Product Title": "MI TRUE WIRELESS EARPHONE 2",
+            "Product Description": "MI TRUE WIRELESS EARPHONE 2",
+            "Product Image Link": "SIL-2038.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "REDMI",
+            "Suvidhaa SKU": "SIL-2179",
+            "Product Title": "REDMI EARPHONES",
+            "Product Description": "REDMI EARPHONES",
+            "Product Image Link": "SIL-2179.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Soundbar",
+        "products": [
+          {
+            "Brand": "Blaupunkt",
+            "Suvidhaa SKU": "SIL-2532",
+            "Product Title": NaN,
+            "Product Description": "Blaupunkt SBA20 Soundbar Black",
+            "Product Image Link": "SIL-2532.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "products": [
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-2545",
+            "Product Title": NaN,
+            "Product Description": "BoAt Stone 650 Bluetooth Speaker",
+            "Product Image Link": "SIL-2545.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2536",
+            "Product Title": NaN,
+            "Product Description": "Lenovo K3  BT Speaker",
+            "Product Image Link": "SIL-2536.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2535",
+            "Product Title": NaN,
+            "Product Description": "Lenovo K3 Pro  BT Speaker",
+            "Product Image Link": "SIL-2535.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2549",
+            "Product Title": NaN,
+            "Product Description": "Lenovo TS13 BT Speaker",
+            "Product Image Link": "SIL-2549.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1639",
+            "Product Title": NaN,
+            "Product Description": "BOAT BLUETOOTH SPEAKER STONE 193",
+            "Product Image Link": "SIL-1639.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1640",
+            "Product Title": NaN,
+            "Product Description": "BOAT BLUETOOTH SPEAKER STONE 350",
+            "Product Image Link": "SIL-1640.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1641",
+            "Product Title": NaN,
+            "Product Description": "BOAT BLUETOOTH SPEAKER STONE 650R",
+            "Product Image Link": "SIL-1641.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1642",
+            "Product Title": NaN,
+            "Product Description": "BOAT BLUETOOTH SPEAKER STONE GRENADE RTL",
+            "Product Image Link": "SIL-1642.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2029",
+            "Product Title": "MI OUTDOOR BLUETOOTH SPEAKER (5W)",
+            "Product Description": "MI OUTDOOR BLUETOOTH SPEAKER (5W)",
+            "Product Image Link": "SIL-2029.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2036",
+            "Product Title": "MI SMART SPEAKER",
+            "Product Description": "Mi Smart Speaker With Google Assistant ",
+            "Product Image Link": "SIL-2036.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Syska",
+            "Suvidhaa SKU": "SIL-2335",
+            "Product Title": "SYSKA BLUETOOTH SPEAKER",
+            "Product Description": "SYSKA BT4080X 5 Watt True Bass Bluetooth Speaker (Grey, Stereo Channel)",
+            "Product Image Link": "SIL-2335.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Syska",
+            "Suvidhaa SKU": "SIL-2338",
+            "Product Title": "SYSKA BLUETOOTH SPEAKER",
+            "Product Description": "SYSKA Qube BS501 5W, Wireless Ultra-Portable Bluetooth Speaker, HD Sound, 10 Meter Working Range, Made in India, Type C Charging (with Mic and Voice Assistant, ",
+            "Product Image Link": "SIL-2338.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Neckband",
+        "products": [
+          {
+            "Brand": "JBL",
+            "Suvidhaa SKU": "SIL-2518",
+            "Product Title": "JBL T175BT ",
+            "Product Description": "JBL T175BT Bluetooth Headset ",
+            "Product Image Link": "SIL-2518.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Leaf",
+            "Suvidhaa SKU": "SIL-2497",
+            "Product Title": NaN,
+            "Product Description": "Leaf Rush Wireless Bluetooth Neckband",
+            "Product Image Link": "SIL-2497.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2499",
+            "Product Title": NaN,
+            "Product Description": "Lenovo HE05 Neckband",
+            "Product Image Link": "SIL-2499.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2520",
+            "Product Title": NaN,
+            "Product Description": "Lenovo QE03 Neckband",
+            "Product Image Link": "SIL-2520.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1645",
+            "Product Title": "ROCKERZ 255R",
+            "Product Description": "BOAT NECKBAND ROCKERZ 255R",
+            "Product Image Link": "SIL-1645.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Syska",
+            "Suvidhaa SKU": "SIL-2336",
+            "Product Title": "NECKBAND",
+            "Product Description": "Syska HE3500 with ENC,Fast Charging,Low Latency for Gamers,25Hr Playback Bluetooth Headset (Charcoal Black,True Wireless)",
+            "Product Image Link": "SIL-2336.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Ear Buds",
+        "products": [
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2551",
+            "Product Title": NaN,
+            "Product Description": "Lenovo HT38 Bluetooth Headset ",
+            "Product Image Link": "SIL-2551.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Card reader",
+        "products": [
+          {
+            "Brand": "Sandisk",
+            "Suvidhaa SKU": "SIL-2576",
+            "Product Title": NaN,
+            "Product Description": "Sandisk Micro Storage Ultra Card 64 GB",
+            "Product Image Link": "SIL-2576.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Head phone",
+        "products": [
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2037",
+            "Product Title": "MI SUPERBASSWIRELESSHEADPHONES",
+            "Product Description": "MI SUPERBASSWIRELESSHEADPHONES",
+            "Product Image Link": "SIL-2037.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "REDMI",
+            "Suvidhaa SKU": "SIL-2181",
+            "Product Title": "REDMI SONICBASS WIRELESS EARPHONES",
+            "Product Description": "REDMI SONICBASS WIRELESS EARPHONES",
+            "Product Image Link": "SIL-2181.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Bluetooth Headset",
+        "products": [
+          {
+            "Brand": "Syska",
+            "Suvidhaa SKU": "SIL-2334",
+            "Product Title": "BLUETOOTH HEADSET",
+            "Product Description": "SYSKA BS0856 40mm Driver Wireless Headphones, 10 Meter Working Range, Bluetooth V5.1, Music time 20Hrs",
+            "Product Image Link": "SIL-2334.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Mobile Phone",
+    "subcategory": [
+      {
+        "name": "Tablets",
+        "products": [
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2427",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA 801 - Wi-Fi Tablet",
+            "Product Image Link": "SIL-2427.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2428",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA A1 Tablet",
+            "Product Image Link": "SIL-2428.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2430",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA J2 Tablet",
+            "Product Image Link": "SIL-2430.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2431",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA MT10 Tablet",
+            "Product Image Link": "SIL-2431.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2432",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA T1015 Tablet",
+            "Product Image Link": "SIL-2432.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2434",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA T1021 Tablet",
+            "Product Image Link": "SIL-2434.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2435",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA T803 Tablet",
+            "Product Image Link": "SIL-2435.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2436",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA W8O1 Tablet",
+            "Product Image Link": "SIL-2436.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "IRA",
+            "Suvidhaa SKU": "SIL-2437",
+            "Product Title": "Tablet",
+            "Product Description": "Wishtel  IRA W8O1i Tablet",
+            "Product Image Link": "SIL-2437.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2559",
+            "Product Title": NaN,
+            "Product Description": "Lenovo Smart Display 4 inch",
+            "Product Image Link": "SIL-2559.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Smart phone ",
+        "products": [
+          {
+            "Brand": "VIVO",
+            "Suvidhaa SKU": "SIL-2580",
+            "Product Title": NaN,
+            "Product Description": "Vivo V25 5G (Surfing Blue, 128 GB) (8 GB RAM)",
+            "Product Image Link": "SIL-2580.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "VIVO",
+            "Suvidhaa SKU": "SIL-2579",
+            "Product Title": NaN,
+            "Product Description": "Vivo Y16 ( 4GB RAM, 64GB Storage)",
+            "Product Image Link": "SIL-2579.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "VIVO",
+            "Suvidhaa SKU": "SIL-2577",
+            "Product Title": NaN,
+            "Product Description": "Vivo Y22 ( 6GB RAM, 128GB Storage)",
+            "Product Image Link": "SIL-2577.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "VIVO",
+            "Suvidhaa SKU": "SIL-2578",
+            "Product Title": NaN,
+            "Product Description": "VIVO Y75- 5G (8/128 Gb)",
+            "Product Image Link": "SIL-2578.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Vivo",
+            "Suvidhaa SKU": "SIL-2401",
+            "Product Title": NaN,
+            "Product Description": "Vivo Y01 ( 2GB RAM, 32GB ROM)",
+            "Product Image Link": "SIL-2401.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Travel & Luggage ",
+    "subcategory": [
+      {
+        "name": "Travel Pillow",
+        "products": [
+          {
+            "Brand": "Cabeau",
+            "Suvidhaa SKU": "SIL-2489",
+            "Product Title": NaN,
+            "Product Description": "Cabeau Evolution Microbead Pillow",
+            "Product Image Link": "SIL-2489.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Cabeau",
+            "Suvidhaa SKU": "SIL-2529",
+            "Product Title": NaN,
+            "Product Description": "Cabeau Evolution S3 Pillow",
+            "Product Image Link": "SIL-2529.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Travel Blanket",
+        "products": [
+          {
+            "Brand": "Cabeau",
+            "Suvidhaa SKU": "SIL-2492",
+            "Product Title": NaN,
+            "Product Description": "Cabeau Fold n Go Blanket",
+            "Product Image Link": "SIL-2492.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Tech Kit",
+        "products": [
+          {
+            "Brand": "Voyager",
+            "Suvidhaa SKU": "SIL-2510",
+            "Product Title": NaN,
+            "Product Description": "Daily Objects Voyager DOPP Kit",
+            "Product Image Link": "SIL-2510.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Sling Bag",
+        "products": [
+          {
+            "Brand": "Swiss Military",
+            "Suvidhaa SKU": "SIL-2513",
+            "Product Title": NaN,
+            "Product Description": "Swiss Military premium leatherette laptop sling bag PLB1",
+            "Product Image Link": "SIL-2513.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Travel Toiletry Bag",
+        "products": [
+          {
+            "Brand": "Swiss Military",
+            "Suvidhaa SKU": "SIL-2477",
+            "Product Title": NaN,
+            "Product Description": "Swiss Military Toiletry Bag TB-6",
+            "Product Image Link": "SIL-2477.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Wallet",
+        "products": [
+          {
+            "Brand": "Swiss Military",
+            "Suvidhaa SKU": "SIL-2478",
+            "Product Title": NaN,
+            "Product Description": "Swiss Military Travel Wallet TW4",
+            "Product Image Link": "SIL-2478.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2331",
+            "Product Title": "Steve\ufffdMadden\ufffdMen & Women Wallet - COMBO 5 , SM 1512",
+            "Product Description": "Steve\ufffdMadden\ufffdMen & Women Wallet - COMBO 5 , SM 1512",
+            "Product Image Link": "SIL-2331.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Women Backpak",
+        "products": [
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2319",
+            "Product Title": "Steve\ufffdMadden\ufffdBagPack SM-1368 Black , SM 1368",
+            "Product Description": "Steve\ufffdMadden\ufffdBagPack SM-1368 Black , SM 1368",
+            "Product Image Link": "SIL-2319.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Card Case & Key Chain",
+        "products": [
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2320",
+            "Product Title": "Steve\ufffdMadden\ufffdCard Case and Key chain - KARLO , SM 1508",
+            "Product Description": "Steve\ufffdMadden\ufffdCard Case and Key chain - KARLO , SM 1508",
+            "Product Image Link": "SIL-2320.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2321",
+            "Product Title": "Steve\ufffdMadden\ufffdCard Case and Key chain - ROVAN , SM 1507",
+            "Product Description": "Steve\ufffdMadden\ufffdCard Case and Key chain - ROVAN , SM 1507",
+            "Product Image Link": "SIL-2321.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Duffle Bag",
+        "products": [
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2322",
+            "Product Title": "Steve\ufffdMadden\ufffdDuffle Bag - Brown , SM 1360",
+            "Product Description": "Steve\ufffdMadden\ufffdDuffle Bag - Brown , SM 1360",
+            "Product Image Link": "SIL-2322.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2323",
+            "Product Title": "Steve\ufffdMadden\ufffdDuffle Bag - FOGER , SM 1499",
+            "Product Description": "Steve\ufffdMadden\ufffdDuffle Bag - FOGER , SM 1499",
+            "Product Image Link": "SIL-2323.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2324",
+            "Product Title": "Steve\ufffdMadden\ufffdDuffle Bag - MELOW , SM 1498",
+            "Product Description": "Steve\ufffdMadden\ufffdDuffle Bag - MELOW , SM 1498",
+            "Product Image Link": "SIL-2324.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2325",
+            "Product Title": "Steve\ufffdMadden\ufffdDuffle Bag - SM 1356 Navy , SM 1356",
+            "Product Description": "Steve\ufffdMadden\ufffdDuffle Bag - SM 1356 Navy , SM 1356",
+            "Product Image Link": "SIL-2325.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Hand Bag",
+        "products": [
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2326",
+            "Product Title": "Steve\ufffdMadden\ufffdHand Bag-Brif Case - Black/Brown , SM 1359",
+            "Product Description": "Steve\ufffdMadden\ufffdHand Bag-Brif Case - Black/Brown , SM 1359",
+            "Product Image Link": "SIL-2326.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2330",
+            "Product Title": "Steve\ufffdMadden\ufffdLaptop-Hand Bag - Brown , SM 1326",
+            "Product Description": "Steve\ufffdMadden\ufffdLaptop-Hand Bag - Brown , SM 1326",
+            "Product Image Link": "SIL-2330.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Laptop Briefcase ",
+        "products": [
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2327",
+            "Product Title": "Steve\ufffdMadden\ufffdLaptop Brief Case - BOLIT , SM 1500",
+            "Product Description": "Steve\ufffdMadden\ufffdLaptop Brief Case - BOLIT , SM 1500",
+            "Product Image Link": "SIL-2327.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2328",
+            "Product Title": "Steve\ufffdMadden\ufffdLaptop Brief Case - ESTER , SM 1502",
+            "Product Description": "Steve\ufffdMadden\ufffdLaptop Brief Case - ESTER , SM 1502",
+            "Product Image Link": "SIL-2328.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2329",
+            "Product Title": "Steve\ufffdMadden\ufffdLaptop Brief Case - REMIS , SM 1501",
+            "Product Description": "Steve\ufffdMadden\ufffdLaptop Brief Case - REMIS , SM 1501",
+            "Product Image Link": "SIL-2329.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Wallet & Key chain",
+        "products": [
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2332",
+            "Product Title": "Steve\ufffdMadden\ufffdWallet & Keychain - GRAVEL , SM 1509",
+            "Product Description": "Steve\ufffdMadden\ufffdWallet & Keychain - GRAVEL , SM 1509",
+            "Product Image Link": "SIL-2332.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Steve Madden",
+            "Suvidhaa SKU": "SIL-2333",
+            "Product Title": "Steve\ufffdMadden\ufffdWallet & Keychain - WALLEY , SM 1510",
+            "Product Description": "Steve\ufffdMadden\ufffdWallet & Keychain - WALLEY , SM 1510",
+            "Product Image Link": "SIL-2333.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Wearable",
+    "subcategory": [
+      {
+        "name": "SMART WATCH",
+        "products": [
+          {
+            "Brand": "Fastrack",
+            "Suvidhaa SKU": "SIL-2546",
+            "Product Title": NaN,
+            "Product Description": "Fastrack VIBE\ufffd Smart\ufffd WATCH",
+            "Product Image Link": "SIL-2546.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Lenovo",
+            "Suvidhaa SKU": "SIL-2548",
+            "Product Title": NaN,
+            "Product Description": "Lenovo C2   Watch",
+            "Product Image Link": "SIL-2548.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-1635",
+            "Product Title": "BAND 3",
+            "Product Description": "MI BAND 3",
+            "Product Image Link": "SIL-1635.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-1636",
+            "Product Title": "BAND 3I",
+            "Product Description": "MI BAND 3I",
+            "Product Image Link": "SIL-1636.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-1637",
+            "Product Title": "BAND 4",
+            "Product Description": "MI BAND 4",
+            "Product Image Link": "SIL-1637.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-2032",
+            "Product Title": "BAND 5",
+            "Product Description": "MI Smart Band 5- India's No. 1 Fitness Band, 1.1\" (2.8 cm) AMOLED Color Display, 2 Weeks Battery Life, Personal Activity Intelligence (PAI), 11 Sports Mode, Heart Rate,",
+            "Product Image Link": "SIL-2032.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2040",
+            "Product Title": "MI WATCH REVOLVE",
+            "Product Description": "MI WATCH REVOLVE",
+            "Product Image Link": "SIL-2040.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "MI",
+            "Suvidhaa SKU": "SIL-2448",
+            "Product Title": "BAND 6",
+            "Product Description": "Xiaomi Mi Smart Band 6 - 1.56'' (3.96 cm) Large AMOLED Color Display, 2 Week Battery Life, 30 Fitness Mode, 5 ATM, SpO2, HR, Sleep Monitoring, Women's Health Tracking, Alarm, Music Control",
+            "Product Image Link": "SIL-2448.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Smart watch",
+        "products": [
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1646",
+            "Product Title": NaN,
+            "Product Description": "BOAT SMART WATCH STORM RTL",
+            "Product Image Link": "SIL-1646.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1647",
+            "Product Title": NaN,
+            "Product Description": "BOAT SMART WATCH WATCH FLASH",
+            "Product Image Link": "SIL-1647.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Boat",
+            "Suvidhaa SKU": "SIL-1648",
+            "Product Title": NaN,
+            "Product Description": "BOAT SMART WATCH WATCH XTEND",
+            "Product Image Link": "SIL-1648.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "SMART BAND",
+        "products": [
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2031",
+            "Product Title": "MI SMART BAND 5",
+            "Product Description": "MI SMART BAND 5",
+            "Product Image Link": "SIL-2031.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "REDMI",
+            "Suvidhaa SKU": "SIL-2180",
+            "Product Title": "REDMI SMART BAND",
+            "Product Description": "REDMI SMART BAND",
+            "Product Image Link": "SIL-2180.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Toys & Games",
+    "subcategory": [
+      {
+        "name": "Gamepad",
+        "products": [
+          {
+            "Brand": "Logitech",
+            "Suvidhaa SKU": "SIL-2574",
+            "Product Title": NaN,
+            "Product Description": "Logitech F310 Gamepad - AP (PC USB Cable Connection)",
+            "Product Image Link": "SIL-2574.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Board Game",
+        "products": [
+          {
+            "Brand": "Zephyr",
+            "Suvidhaa SKU": "SIL-2466",
+            "Product Title": NaN,
+            "Product Description": "Zephyr Memory Skills Board Game",
+            "Product Image Link": "SIL-2466.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Laptop Accessories",
+    "subcategory": [
+      {
+        "name": "Wireless Keyboard & Mouse ",
+        "products": [
+          {
+            "Brand": "Logitech",
+            "Suvidhaa SKU": "SIL-2504",
+            "Product Title": NaN,
+            "Product Description": "Logitech Wireless Keyboard And Mouse Combo MK235",
+            "Product Image Link": "SIL-2504.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Wireless Keyboard",
+        "products": [
+          {
+            "Brand": "Portronics",
+            "Suvidhaa SKU": "SIL-2485",
+            "Product Title": NaN,
+            "Product Description": "Portronics Key 2 Combo Multimedia Wireless Keyboard & Mouse White",
+            "Product Image Link": "SIL-2485.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Laptop stand",
+        "products": [
+          {
+            "Brand": "Portronics",
+            "Suvidhaa SKU": "SIL-2519",
+            "Product Title": NaN,
+            "Product Description": "Portronics MY Buddy K 2 Portable Laptop Stand Silver",
+            "Product Image Link": "SIL-2519.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Pendrive",
+        "products": [
+          {
+            "Brand": "Sandisk",
+            "Suvidhaa SKU": "SIL-2575",
+            "Product Title": NaN,
+            "Product Description": "Sandisk Cruzer Blade 32 Gb Pen Drive",
+            "Product Image Link": "SIL-2575.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tools & Hardware ",
+    "subcategory": [
+      {
+        "name": "Tools & Hardware ",
+        "products": [
+          {
+            "Brand": "Bosch",
+            "Suvidhaa SKU": "SIL-1652",
+            "Product Title": "High Pressure Washer",
+            "Product Description": "Bosch 125 Bar Universal Aquatak 125 High Pressure Washer",
+            "Product Image Link": "SIL-1652.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Bosch",
+            "Suvidhaa SKU": "SIL-1653",
+            "Product Title": "Power Drill Tool kit",
+            "Product Description": "Bosch GSB 500W 500 RE Corded-Electric Drill Tool Set (Blue), 10 mm",
+            "Product Image Link": "SIL-1653.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Laptop Backpak",
+    "subcategory": [
+      {
+        "name": "Backpak",
+        "products": [
+          {
+            "Brand": "XIOMI",
+            "Suvidhaa SKU": "SIL-2024",
+            "Product Title": "MI BUSINESS CASUAL BACKPACK",
+            "Product Description": "MI BUSINESS CASUAL BACKPACK",
+            "Product Image Link": "SIL-2024.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Apple Brand Accessories",
+    "subcategory": [
+      {
+        "name": "Mobile Accessories",
+        "products": [
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1147",
+            "Product Title": "140W USB-C Power Adapter",
+            "Product Description": "Apple 140W USB-C Power Adapter",
+            "Product Image Link": "SIL-1147.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1158",
+            "Product Title": "18W USB-C Power Adapter",
+            "Product Description": "Apple 18W USB-C Power Adapter",
+            "Product Image Link": "SIL-1158.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1160",
+            "Product Title": "Apple 30-pin to USB Cable",
+            "Product Description": "Apple 30-pin to USB Cable",
+            "Product Image Link": "SIL-1160.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1161",
+            "Product Title": "Apple 60W MagSafe Power Adapter (for previous generation 13.3-inch MacBook and 13-inch MacBook Pro)",
+            "Product Description": "Apple 60W MagSafe Power Adapter (for previous generation 13.3-inch MacBook and 13-inch MacBook Pro)",
+            "Product Image Link": "SIL-1161.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1162",
+            "Product Title": "67W USB-C Power Adapter",
+            "Product Description": "Apple 67W USB-C Power Adapter",
+            "Product Image Link": "SIL-1162.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1172",
+            "Product Title": "EarPods with 3.5mm Headphone Plug",
+            "Product Description": "Apple EarPods with 3.5mm Headphone Plug",
+            "Product Image Link": "SIL-1172.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1247",
+            "Product Title": "iPhone 11 Pro Smart Battery Case with Wireless Charging - Black",
+            "Product Description": "Apple iPhone 11 Pro Smart Battery Case with Wireless Charging - Black",
+            "Product Image Link": "SIL-1247.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1248",
+            "Product Title": "iPhone 11 Pro Smart Battery Case with Wireless Charging - Pink Sand",
+            "Product Description": "Apple iPhone 11 Pro Smart Battery Case with Wireless Charging - Pink Sand",
+            "Product Image Link": "SIL-1248.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1249",
+            "Product Title": "iPhone 11 Pro Smart Battery Case with Wireless Charging - White",
+            "Product Description": "Apple iPhone 11 Pro Smart Battery Case with Wireless Charging - White",
+            "Product Image Link": "SIL-1249.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1354",
+            "Product Title": "iPhone\ufffd11 Smart Battery Case with Wireless Charging - Black",
+            "Product Description": "Apple iPhone\ufffd11 Smart Battery Case with Wireless Charging - Black",
+            "Product Image Link": "SIL-1354.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1355",
+            "Product Title": "iPhone\ufffd11 Smart Battery Case with Wireless Charging - White",
+            "Product Description": "Apple iPhone\ufffd11 Smart Battery Case with Wireless Charging - White",
+            "Product Image Link": "SIL-1355.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1378",
+            "Product Title": "Lightning to USB Cable (2 m)",
+            "Product Description": "Apple Lightning to USB Cable (2 m)",
+            "Product Image Link": "SIL-1378.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1379",
+            "Product Title": "Lightning to VGA Adapter",
+            "Product Description": "Apple Lightning to VGA Adapter",
+            "Product Image Link": "SIL-1379.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1431",
+            "Product Title": "Smart Folio for iPad Pro 11-inch (3rd generation) - Deep Navy Case",
+            "Product Description": "Apple Smart Folio for iPad Pro 11-inch (3rd generation) - Deep Navy Case",
+            "Product Image Link": "SIL-1431.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1443",
+            "Product Title": "USB-C to 3.5 mm Headphone Jack Adapter",
+            "Product Description": "Apple USB-C to 3.5 mm Headphone Jack Adapter",
+            "Product Image Link": "SIL-1443.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1444",
+            "Product Title": "USB-C to Lightning Cable (1 m)",
+            "Product Description": "Apple USB-C to Lightning Cable (1 m)",
+            "Product Image Link": "SIL-1444.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1445",
+            "Product Title": "USB-C to Lightning Cable (2\ufffdm)",
+            "Product Description": "Apple USB-C to Lightning Cable (2\ufffdm)",
+            "Product Image Link": "SIL-1445.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1446",
+            "Product Title": "USB-C to USB Adapter",
+            "Product Description": "Apple USB-C to USB Adapter",
+            "Product Image Link": "SIL-1446.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1508",
+            "Product Title": "APPLE WORLD TRAVEL ADAPTER KIT",
+            "Product Description": "APPLE WORLD TRAVEL ADAPTER KIT",
+            "Product Image Link": "SIL-1508.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Laptop Accessories",
+        "products": [
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1163",
+            "Product Title": "8TB SSD Kit for Mac\ufffdPro",
+            "Product Description": "Apple 8TB SSD Kit for Mac\ufffdPro",
+            "Product Image Link": "SIL-1163.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1391",
+            "Product Title": "Magic Trackpad - Black Multi-Touch Surface",
+            "Product Description": "Apple Magic Trackpad - Black Multi-Touch Surface",
+            "Product Image Link": "SIL-1391.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1392",
+            "Product Title": "Apple Memory Module 16GB DDR4 2666MHz SO-DIMMS (2x8GB)",
+            "Product Description": "Apple Memory Module 16GB DDR4 2666MHz SO-DIMMS (2x8GB)",
+            "Product Image Link": "SIL-1392.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1393",
+            "Product Title": "Apple Memory Module 32GB DDR4 2666MHz SO-DIMMS (2x16GB)",
+            "Product Description": "Apple Memory Module 32GB DDR4 2666MHz SO-DIMMS (2x16GB)",
+            "Product Image Link": "SIL-1393.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1430",
+            "Product Title": "Pro Stand",
+            "Product Description": "Apple Pro Stand",
+            "Product Image Link": "SIL-1430.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Macbook Sleeve",
+        "products": [
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1372",
+            "Product Title": "Leather Sleeve for 13-inch MacBook Pro \ufffd Black",
+            "Product Description": "Apple Leather Sleeve for 13-inch MacBook Pro \ufffd Black",
+            "Product Image Link": "SIL-1372.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1373",
+            "Product Title": "Leather Sleeve for 13-inch MacBook Pro \ufffd Midnight Blue",
+            "Product Description": "Apple Leather Sleeve for 13-inch MacBook Pro \ufffd Midnight Blue",
+            "Product Image Link": "SIL-1373.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1374",
+            "Product Title": "Leather Sleeve for 13-inch MacBook Pro \ufffd Saddle Brown",
+            "Product Description": "Apple Leather Sleeve for 13-inch MacBook Pro \ufffd Saddle Brown",
+            "Product Image Link": "SIL-1374.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1375",
+            "Product Title": "Leather Sleeve for 16-inch MacBook Pro \ufffd Black",
+            "Product Description": "Apple Leather Sleeve for 16-inch MacBook Pro \ufffd Black",
+            "Product Image Link": "SIL-1375.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1376",
+            "Product Title": "Leather Sleeve for 16-inch MacBook Pro \ufffd Saddle Brown",
+            "Product Description": "Apple Leather Sleeve for 16-inch MacBook Pro \ufffd Saddle Brown",
+            "Product Image Link": "SIL-1376.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Keyboard",
+        "products": [
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1385",
+            "Product Title": "Magic Keyboard - US English",
+            "Product Description": "Apple Magic Keyboard - US English",
+            "Product Image Link": "SIL-1385.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1386",
+            "Product Title": "Magic Keyboard with Touch ID and Numeric Keypad for Mac computers with Apple silicon - US English",
+            "Product Description": "Apple Magic Keyboard with Touch ID and Numeric Keypad for Mac computers with Apple silicon - US English",
+            "Product Image Link": "SIL-1386.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1387",
+            "Product Title": "Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - US English - Black Keys",
+            "Product Description": "Apple Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - US English - Black Keys",
+            "Product Image Link": "SIL-1387.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Mouse",
+        "products": [
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1390",
+            "Product Title": "Magic Mouse - Black Multi-Touch Surface",
+            "Product Description": "Apple Magic Mouse - Black Multi-Touch Surface",
+            "Product Image Link": "SIL-1390.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Monitor Mount",
+        "products": [
+          {
+            "Brand": "Apple",
+            "Suvidhaa SKU": "SIL-1447",
+            "Product Title": "VESA Mount Adapter",
+            "Product Description": "Apple VESA Mount Adapter",
+            "Product Image Link": "SIL-1447.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Bath & Bed",
+    "subcategory": [
+      {
+        "name": "Bed Sheet",
+        "products": [
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2407",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN BATH CARNIVAL SET OF 4 (2BATH & 2HAND TOWEL)",
+            "Product Image Link": "SIL-2407.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2408",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN BATH CARNIVAL SET OF 6 (2BATH, 2HAND & 2FACE TOWEL)",
+            "Product Image Link": "SIL-2408.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2409",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN CLASSIC CORNER QUILT",
+            "Product Image Link": "SIL-2409.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2410",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN CLASSIC DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2410.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2413",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN EXPRESSIONS DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2413.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2416",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN HYGRO DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2416.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2418",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN RANGANA  DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2418.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2419",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN RITU KUMAR DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2419.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2421",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN SPLENDOR REVERSIBLE DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2421.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2424",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN SYMPHONY DOUBLE BEDSHEET SET WITH 2N PILLOW COVERS",
+            "Product Image Link": "SIL-2424.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Towel",
+        "products": [
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2411",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN COTTON BAMBOO BATH TOWEL",
+            "Product Image Link": "SIL-2411.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2414",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN HYGRO BATH TOWEL",
+            "Product Image Link": "SIL-2414.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2420",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN SPLENDOR BATH TOWEL",
+            "Product Image Link": "SIL-2420.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2423",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN SPLENDOR STRIPE BATH TOWEL (YARN DYED TOWEL)",
+            "Product Image Link": "SIL-2423.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2425",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN WIMBLEDON BATH TOWEL",
+            "Product Image Link": "SIL-2425.jpg",
+            "Points": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Towels set",
+        "products": [
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2412",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN COURTYARD AROMA TOWEL SET (2PC)",
+            "Product Image Link": "SIL-2412.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2415",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN HYGRO BATH TOWELS SET (2PC)",
+            "Product Image Link": "SIL-2415.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2417",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN HYGRO HAND TOWEL SET (2PC)",
+            "Product Image Link": "SIL-2417.jpg",
+            "Points": "TBD"
+          },
+          {
+            "Brand": "WELSPUN",
+            "Suvidhaa SKU": "SIL-2422",
+            "Product Title": NaN,
+            "Product Description": "WELSPUN SPLENDOR SET OF 3 TOWEL (BATH, HAND & FACE TOWEL)",
+            "Product Image Link": "SIL-2422.jpg",
+            "Points": "TBD"
+          }
+        ]
+      }
+    ]
+  }
+]

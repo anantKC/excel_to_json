@@ -1,0 +1,642 @@
+sn,Category,Sub-Category,Brand,Suvidhaa SKU,Product Title,Product Description,Product Image Link,Points
+1,Audio,Smart Speaker,Amazon,SIL-1099,Amazon Echo.,All-new Amazon Echo Dot (4th Gen),SIL-1099,4499
+2,Laptop Backpak,Backpak,American Tourister,SIL-1100,American Tourister Laptop Backpack ,American Tourister Laptop Backpack TROT 01,SIL-1100,2390
+3,Laptop Backpak,Backpak,American Tourister,SIL-1101,American Tourister Laptop Backpack ,American Tourister Laptop Backpack TROT 02,SIL-1101,3390
+4,Laptop Backpak,Backpak,American Tourister,SIL-1102,American Tourister Laptop Backpack ,American Tourister Laptop Backpack TROT 03,SIL-1102,4000
+5,Home Appliance,Vaccum Cleaner,Amour,SIL-1123,Amour Vaccum Cleaner,"Amour V7s Smart Robotic Vacuum Cleaner with Mopping & Sweeping Function, Auto-Recharge & Scheduling, Compatible with App/Alexa/Google, Realtime Navigation,Strong Suction Power,Long Lasting Battery",SIL-1123,39999
+6,Tablet,I Pad,Apple,SIL-1124,Apple Ipad Wifi +Cellular,Apple 10.2-inch iPad Wi-Fi + Cellular 256GB - Silver,SIL-1124,61900
+7,Tablet,I Pad,Apple,SIL-1125,Apple Ipad Wifi +Cellular,Apple 10.2-inch iPad Wi-Fi + Cellular 256GB - Space Grey,SIL-1125,61900
+8,Tablet,I Pad,Apple,SIL-1126,Apple Ipad Wifi +Cellular,Apple 10.2-inch iPad Wi-Fi + Cellular 64GB - Silver,SIL-1126,46900
+9,Tablet,I Pad,Apple,SIL-1127,Apple Ipad Wifi +Cellular,Apple 10.2-inch iPad Wi-Fi + Cellular 64GB - Space Grey,SIL-1127,46900
+10,Tablet,I Pad,Apple,SIL-1128,Apple Ipad Wifi,Apple 10.2-inch iPad Wi-Fi 256GB - Silver,SIL-1128,48900
+11,Tablet,I Pad,Apple,SIL-1129,Apple Ipad Wifi,Apple 10.2-inch iPad Wi-Fi 256GB - Space Grey,SIL-1129,48900
+12,Tablet,I Pad,Apple,SIL-1130,Apple Ipad Wifi,Apple 10.2-inch iPad Wi-Fi 64GB - Silver,SIL-1130,33900
+13,Tablet,I Pad,Apple,SIL-1131,Apple Ipad Wifi,Apple 10.2-inch iPad Wi-Fi 64GB - Space Grey,SIL-1131,33900
+14,Laptop,Macbook,Apple,SIL-1132,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Gold",SIL-1132,99900
+15,Laptop,Macbook,Apple,SIL-1133,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Silver",SIL-1133,99900
+16,Laptop,Macbook,Apple,SIL-1134,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey",SIL-1134,99900
+17,Laptop,Macbook,Apple,SIL-1135,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB - Midnight",SIL-1135,149900
+18,Laptop,Macbook,Apple,SIL-1136,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB - Silver",SIL-1136,149900
+19,Laptop,Macbook,Apple,SIL-1137,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB - Space Grey",SIL-1137,149900
+20,Laptop,Macbook,Apple,SIL-1138,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB - Starlight",SIL-1138,149900
+21,Laptop,Macbook,Apple,SIL-1139,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB - Midnight",SIL-1139,119900
+22,Laptop,Macbook,Apple,SIL-1140,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB - Silver",SIL-1140,119900
+23,Laptop,Macbook,Apple,SIL-1141,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB - Space Grey",SIL-1141,119900
+24,Laptop,Macbook,Apple,SIL-1142,Apple MacBook Air,"Apple 13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB - Starlight",SIL-1142,119900
+25,Laptop,Macbook,Apple,SIL-1143,Apple MacBook pro,"Apple 13-inch MacBook Pro: Apple M2 chip with 8-core CPU and 10-core GPU, 256GB SSD - Silver",SIL-1143,129900
+26,Laptop,Macbook,Apple,SIL-1144,Apple MacBook pro,"Apple 13-inch MacBook Pro: Apple M2 chip with 8-core CPU and 10-core GPU, 256GB SSD - Space Grey",SIL-1144,129900
+27,Laptop,Macbook,Apple,SIL-1145,Apple MacBook pro,"Apple 13-inch MacBook Pro: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB SSD - Silver",SIL-1145,149900
+28,Laptop,Macbook,Apple,SIL-1146,Apple MacBook pro,"Apple 13-inch MacBook Pro: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB SSD - Space Grey",SIL-1146,149900
+29,Laptop,Macbook,Apple,SIL-1148,Apple MacBook pro,"Apple 14-inch MacBook Pro: Apple M1 Pro chip with 10?core CPU and 16?core GPU, 1TB SSD - Silver",SIL-1148,239900
+30,Laptop,Macbook,Apple,SIL-1149,Apple MacBook pro,"Apple 14-inch MacBook Pro: Apple M1 Pro chip with 10?core CPU and 16?core GPU, 1TB SSD - Space Grey",SIL-1149,239900
+31,Laptop,Macbook,Apple,SIL-1150,Apple MacBook pro,"Apple 14-inch MacBook Pro: Apple M1 Pro chip with 8?core CPU and 14?core GPU, 512GB SSD - Silver",SIL-1150,194900
+32,Laptop,Macbook,Apple,SIL-1151,Apple MacBook pro,"Apple 14-inch MacBook Pro: Apple M1 Pro chip with 8?core CPU and 14?core GPU, 512GB SSD - Space Grey",SIL-1151,194900
+33,Laptop,Macbook,Apple,SIL-1152,Apple MacBook pro,"Apple 16-inch MacBook Pro: Apple M1 Max chip with 10?core CPU and 32?core GPU, 1TB SSD - Silver",SIL-1152,329900
+34,Laptop,Macbook,Apple,SIL-1153,Apple MacBook pro,"Apple 16-inch MacBook Pro: Apple M1 Max chip with 10?core CPU and 32?core GPU, 1TB SSD - Space Grey",SIL-1153,329900
+35,Laptop,Macbook,Apple,SIL-1154,Apple MacBook pro,"Apple 16-inch MacBook Pro: Apple M1 Pro chip with 10?core CPU and 16?core GPU, 1TB SSD - Silver",SIL-1154,259900
+36,Laptop,Macbook,Apple,SIL-1155,Apple MacBook pro,"Apple 16-inch MacBook Pro: Apple M1 Pro chip with 10?core CPU and 16?core GPU, 1TB SSD - Space Grey",SIL-1155,259900
+37,Laptop,Macbook,Apple,SIL-1156,Apple MacBook pro,"Apple 16-inch MacBook Pro: Apple M1 Pro chip with 10?core CPU and 16?core GPU, 512GB SSD - Silver",SIL-1156,239900
+38,Laptop,Macbook,Apple,SIL-1157,Apple MacBook pro,"Apple 16-inch MacBook Pro: Apple M1 Pro chip with 10?core CPU and 16?core GPU, 512GB SSD - Space Grey",SIL-1157,239900
+39,Laptop,Macbook,Apple,SIL-1159,Apple iMac,"Apple 2021 iMac with 4.5K Retina Display (24-inch/60.96 cm, M1 chip with 8?core CPU and 8?core GPU, 8GB RAM, 256GB)",SIL-1159,139900
+40,Audio,Airpods,Apple,SIL-1164,Apple Airpods,Apple AirPods (3rd�generation),SIL-1164,20500
+41,Audio,Airpods,Apple,SIL-1165,Apple Airpods,Apple AirPods Max - Green,SIL-1165,66100
+42,Audio,Airpods,Apple,SIL-1166,Apple Airpods,Apple AirPods Max - Pink,SIL-1166,66100
+43,Audio,Airpods,Apple,SIL-1167,Apple Airpods,Apple AirPods Max - Silver,SIL-1167,66100
+44,Audio,Airpods,Apple,SIL-1168,Apple Airpods,Apple AirPods Max - Sky Blue,SIL-1168,66100
+45,Audio,Airpods,Apple,SIL-1169,Apple Airpods,Apple AirPods Max - Space Gray,SIL-1169,66100
+46,Audio,Airpods,Apple,SIL-1170,Apple Airpods,Apple AirPods Pro with Magsafe case,SIL-1170,26300
+47,Audio,Airpods,Apple,SIL-1171,Apple Airpods,Apple AirPods with Charging Case,SIL-1171,14100
+48,Audio,Smart Speaker,Apple,SIL-1173,Apple Smart speaker,Apple HomePod mini - Blue,SIL-1173,9900
+49,Audio,Smart Speaker,Apple,SIL-1174,Apple Smart speaker,Apple HomePod mini - Orange,SIL-1174,9900
+50,Audio,Smart Speaker,Apple,SIL-1175,Apple Smart speaker,Apple Home-Pod mini - Space Grey,SIL-1175,9900
+51,Audio,Smart Speaker,Apple,SIL-1176,Apple Smart speaker,Apple Home-Pod mini - White,SIL-1176,9900
+52,Audio,Smart Speaker,Apple,SIL-1177,Apple Smart speaker,Apple HomePod mini - Yellow,SIL-1177,9900
+53,Apple Brand Accessories,Mobile Accessories,Apple,SIL-1178,Apple I pad Smart Cover,Apple iPad (6th Generation) Smart Cover�- White,SIL-1178,3500
+54,Tablet,I Pad,Apple,SIL-1179,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 256GB - Pink,SIL-1179,79900
+55,Tablet,I Pad,Apple,SIL-1180,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 256GB - Purple,SIL-1180,79900
+56,Tablet,I Pad,Apple,SIL-1181,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 256GB - Space Grey,SIL-1181,79900
+57,Tablet,I Pad,Apple,SIL-1182,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 256GB - Starlight,SIL-1182,79900
+58,Tablet,I Pad,Apple,SIL-1183,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 64GB - Pink,SIL-1183,64900
+59,Tablet,I Pad,Apple,SIL-1184,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 64GB - Purple,SIL-1184,64900
+60,Tablet,I Pad,Apple,SIL-1185,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 64GB - Space Grey,SIL-1185,64900
+61,Tablet,I Pad,Apple,SIL-1186,Apple iPad mini Wi-Fi + Cellular ,Apple iPad mini Wi-Fi + Cellular 64GB - Starlight,SIL-1186,64900
+62,Tablet,I Pad,Apple,SIL-1187,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 256GB - Pink,SIL-1187,64900
+63,Tablet,I Pad,Apple,SIL-1188,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 256GB - Purple,SIL-1188,64900
+64,Tablet,I Pad,Apple,SIL-1189,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 256GB - Space Grey,SIL-1189,64900
+65,Tablet,I Pad,Apple,SIL-1190,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 256GB - Starlight,SIL-1190,64900
+66,Tablet,I Pad,Apple,SIL-1191,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 64GB - Pink,SIL-1191,49900
+67,Tablet,I Pad,Apple,SIL-1192,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 64GB - Purple,SIL-1192,49900
+68,Tablet,I Pad,Apple,SIL-1193,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 64GB - Space Grey,SIL-1193,49900
+69,Tablet,I Pad,Apple,SIL-1194,Apple iPad mini Wi-Fi ,Apple iPad mini Wi-Fi 64GB - Starlight,SIL-1194,49900
+70,Tablet,I Pad,Apple,SIL-1195,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 128 GRY-HIN,SIL-1195,96900
+71,Tablet,I Pad,Apple,SIL-1196,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 128 SLV-HIN,SIL-1196,96900
+72,Tablet,I Pad,Apple,SIL-1197,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 1T GRY-HIN,SIL-1197,166900
+73,Tablet,I Pad,Apple,SIL-1198,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 1T SLV-HIN,SIL-1198,166900
+74,Tablet,I Pad,Apple,SIL-1199,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 256 GRY-HIN,SIL-1199,106900
+75,Tablet,I Pad,Apple,SIL-1200,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 256 SLV-HIN,SIL-1200,106900
+76,Tablet,I Pad,Apple,SIL-1201,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 2T GRY-HIN,SIL-1201,206900
+77,Tablet,I Pad,Apple,SIL-1202,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 2T SLV-HIN,SIL-1202,206900
+78,Tablet,I Pad,Apple,SIL-1203,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 512 GRY-HIN,SIL-1203,126900
+79,Tablet,I Pad,Apple,SIL-1204,Apple IPAD PRO,Apple IPAD PRO 11 WF CL 512 SLV-HIN,SIL-1204,126900
+80,Tablet,I Pad,Apple,SIL-1205,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 128GB SILVER-HIN,SIL-1205,81900
+81,Tablet,I Pad,Apple,SIL-1206,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 128GB SPACE GRAY-HIN,SIL-1206,81900
+82,Tablet,I Pad,Apple,SIL-1207,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 1TB SILVER-HIN,SIL-1207,151900
+83,Tablet,I Pad,Apple,SIL-1208,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 1TB SPACE GRAY-HIN,SIL-1208,151900
+84,Tablet,I Pad,Apple,SIL-1209,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 256GB SILVER-HIN,SIL-1209,91900
+85,Tablet,I Pad,Apple,SIL-1210,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 256GB SPACE GRAY-HIN,SIL-1210,91900
+86,Tablet,I Pad,Apple,SIL-1211,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 2TB SILVER-HIN,SIL-1211,191900
+87,Tablet,I Pad,Apple,SIL-1212,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 2TB SPACE GRAY-HIN,SIL-1212,191900
+88,Tablet,I Pad,Apple,SIL-1213,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 512GB SILVER-HIN,SIL-1213,111900
+89,Tablet,I Pad,Apple,SIL-1214,Apple IPAD PRO,Apple IPAD PRO 11 WIFI 512GB SPACE GRAY-HIN,SIL-1214,111900
+90,Tablet,I Pad,Apple,SIL-1215,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 128 GRY-HIN,SIL-1215,127900
+91,Tablet,I Pad,Apple,SIL-1216,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 128 SLV-HIN,SIL-1216,127900
+92,Tablet,I Pad,Apple,SIL-1217,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 1T GRY-HIN,SIL-1217,197900
+93,Tablet,I Pad,Apple,SIL-1218,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 1T SLV-HIN,SIL-1218,197900
+94,Tablet,I Pad,Apple,SIL-1219,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 256 GRY-HIN,SIL-1219,137900
+95,Tablet,I Pad,Apple,SIL-1220,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 256 SLV-HIN,SIL-1220,137900
+96,Tablet,I Pad,Apple,SIL-1221,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 2T GRY-HIN,SIL-1221,237900
+97,Tablet,I Pad,Apple,SIL-1222,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 2T SLV-HIN,SIL-1222,237900
+98,Tablet,I Pad,Apple,SIL-1223,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 512 GRY-HIN,SIL-1223,157900
+99,Tablet,I Pad,Apple,SIL-1224,Apple IPAD PRO,Apple IPAD PRO 12.9 WF CL 512 SLV-HIN,SIL-1224,157900
+100,Tablet,I Pad,Apple,SIL-1225,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 128GB SILVER-HIN,SIL-1225,112900
+101,Tablet,I Pad,Apple,SIL-1226,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 128GB SPACE GRAY-HIN,SIL-1226,112900
+102,Tablet,I Pad,Apple,SIL-1227,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 1TB SILVER-HIN,SIL-1227,182900
+103,Tablet,I Pad,Apple,SIL-1228,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 1TB SPACE GRAY-HIN,SIL-1228,182900
+104,Tablet,I Pad,Apple,SIL-1229,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 256GB SILVER-HIN,SIL-1229,122900
+105,Tablet,I Pad,Apple,SIL-1230,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 256GB SPACE GRAY-HIN,SIL-1230,122900
+106,Tablet,I Pad,Apple,SIL-1231,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 2TB SILVER-HIN,SIL-1231,222900
+107,Tablet,I Pad,Apple,SIL-1232,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 2TB SPACE GRAY-HIN,SIL-1232,222900
+108,Tablet,I Pad,Apple,SIL-1233,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 512GB SILVER-HIN,SIL-1233,142900
+109,Tablet,I Pad,Apple,SIL-1234,Apple IPAD PRO,Apple IPAD PRO 12.9 WIFI 512GB SPACE GRAY-HIN,SIL-1234,142900
+110,Mobile Phone,Iphone,Apple,SIL-1235,Apple Iphone,Apple iPhone 11 128GB (PRODUCT)RED,SIL-1235,54900
+111,Mobile Phone,Iphone,Apple,SIL-1236,Apple Iphone,Apple iPhone 11 128GB Black,SIL-1236,54900
+112,Mobile Phone,Iphone,Apple,SIL-1237,Apple Iphone,Apple iPhone 11 128GB Green,SIL-1237,54900
+113,Mobile Phone,Iphone,Apple,SIL-1238,Apple Iphone,Apple iPhone 11 128GB Purple,SIL-1238,54900
+114,Mobile Phone,Iphone,Apple,SIL-1239,Apple Iphone,Apple iPhone 11 128GB White,SIL-1239,54900
+115,Mobile Phone,Iphone,Apple,SIL-1240,Apple Iphone,Apple iPhone 11 128GB Yellow,SIL-1240,54900
+116,Mobile Phone,Iphone,Apple,SIL-1241,Apple Iphone,Apple iPhone 11 64GB (PRODUCT)RED,SIL-1241,49900
+117,Mobile Phone,Iphone,Apple,SIL-1242,Apple Iphone,Apple iPhone 11 64GB Black,SIL-1242,49900
+118,Mobile Phone,Iphone,Apple,SIL-1243,Apple Iphone,Apple iPhone 11 64GB Green,SIL-1243,49900
+119,Mobile Phone,Iphone,Apple,SIL-1244,Apple Iphone,Apple iPhone 11 64GB Purple,SIL-1244,49900
+120,Mobile Phone,Iphone,Apple,SIL-1245,Apple Iphone,Apple iPhone 11 64GB White,SIL-1245,49900
+121,Mobile Phone,Iphone,Apple,SIL-1246,Apple Iphone,Apple iPhone 11 64GB Yellow,SIL-1246,49900
+122,Mobile Phone,Iphone,Apple,SIL-1250,Apple Iphone,Apple iPhone 12 128GB (PRODUCT)RED,SIL-1250,70900
+123,Mobile Phone,Iphone,Apple,SIL-1251,Apple Iphone,Apple iPhone 12 128GB Black,SIL-1251,70900
+124,Mobile Phone,Iphone,Apple,SIL-1252,Apple Iphone,Apple iPhone 12 128GB Blue,SIL-1252,70900
+125,Mobile Phone,Iphone,Apple,SIL-1253,Apple Iphone,Apple iPhone 12 128GB Green,SIL-1253,70900
+126,Mobile Phone,Iphone,Apple,SIL-1254,Apple Iphone,Apple iPhone 12 128GB Purple,SIL-1254,70900
+127,Mobile Phone,Iphone,Apple,SIL-1255,Apple Iphone,Apple iPhone 12 128GB White,SIL-1255,70900
+128,Mobile Phone,Iphone,Apple,SIL-1256,Apple Iphone,Apple iPhone 12 256GB (PRODUCT)RED,SIL-1256,80900
+129,Mobile Phone,Iphone,Apple,SIL-1257,Apple Iphone,Apple iPhone 12 256GB Black,SIL-1257,80900
+130,Mobile Phone,Iphone,Apple,SIL-1258,Apple Iphone,Apple iPhone 12 256GB Blue,SIL-1258,80900
+131,Mobile Phone,Iphone,Apple,SIL-1259,Apple Iphone,Apple iPhone 12 256GB Green,SIL-1259,80900
+132,Mobile Phone,Iphone,Apple,SIL-1260,Apple Iphone,Apple iPhone 12 256GB Purple,SIL-1260,80900
+133,Mobile Phone,Iphone,Apple,SIL-1261,Apple Iphone,Apple iPhone 12 256GB White,SIL-1261,80900
+134,Mobile Phone,Iphone,Apple,SIL-1262,Apple Iphone,Apple iPhone 12 64GB (PRODUCT)RED,SIL-1262,65900
+135,Mobile Phone,Iphone,Apple,SIL-1263,Apple Iphone,Apple iPhone 12 64GB Black,SIL-1263,65900
+136,Mobile Phone,Iphone,Apple,SIL-1264,Apple Iphone,Apple iPhone 12 64GB Blue,SIL-1264,65900
+137,Mobile Phone,Iphone,Apple,SIL-1265,Apple Iphone,Apple iPhone 12 64GB Green,SIL-1265,65900
+138,Mobile Phone,Iphone,Apple,SIL-1266,Apple Iphone,Apple iPhone 12 64GB Purple,SIL-1266,65900
+139,Mobile Phone,Iphone,Apple,SIL-1267,Apple Iphone,Apple iPhone 12 64GB White,SIL-1267,65900
+140,Mobile Phone,Iphone,Apple,SIL-1268,Apple Iphone,Apple iPhone 12 mini 128GB (PRODUCT)RED,SIL-1268,64900
+141,Mobile Phone,Iphone,Apple,SIL-1269,Apple Iphone,Apple iPhone 12 mini 128GB Black,SIL-1269,64900
+142,Mobile Phone,Iphone,Apple,SIL-1270,Apple Iphone,Apple iPhone 12 mini 128GB Blue,SIL-1270,64900
+143,Mobile Phone,Iphone,Apple,SIL-1271,Apple Iphone,Apple iPhone 12 mini 128GB Green,SIL-1271,64900
+144,Mobile Phone,Iphone,Apple,SIL-1272,Apple Iphone,Apple iPhone 12 mini 128GB Purple,SIL-1272,64900
+145,Mobile Phone,Iphone,Apple,SIL-1273,Apple Iphone,Apple iPhone 12 mini 128GB White,SIL-1273,64900
+146,Mobile Phone,Iphone,Apple,SIL-1274,Apple Iphone,Apple iPhone 12 mini 256GB (PRODUCT)RED,SIL-1274,74900
+147,Mobile Phone,Iphone,Apple,SIL-1275,Apple Iphone,Apple iPhone 12 mini 256GB Black,SIL-1275,74900
+148,Mobile Phone,Iphone,Apple,SIL-1276,Apple Iphone,Apple iPhone 12 mini 256GB Blue,SIL-1276,74900
+149,Mobile Phone,Iphone,Apple,SIL-1277,Apple Iphone,Apple iPhone 12 mini 256GB Green,SIL-1277,74900
+150,Mobile Phone,Iphone,Apple,SIL-1278,Apple Iphone,Apple iPhone 12 mini 256GB Purple,SIL-1278,74900
+151,Mobile Phone,Iphone,Apple,SIL-1279,Apple Iphone,Apple iPhone 12 mini 256GB White,SIL-1279,74900
+152,Mobile Phone,Iphone,Apple,SIL-1280,Apple Iphone,Apple iPhone 12 mini 64GB (PRODUCT)RED,SIL-1280,59900
+153,Mobile Phone,Iphone,Apple,SIL-1281,Apple Iphone,Apple iPhone 12 mini 64GB Black,SIL-1281,59900
+154,Mobile Phone,Iphone,Apple,SIL-1282,Apple Iphone,Apple iPhone 12 mini 64GB Blue,SIL-1282,59900
+155,Mobile Phone,Iphone,Apple,SIL-1283,Apple Iphone,Apple iPhone 12 mini 64GB Green,SIL-1283,59900
+156,Mobile Phone,Iphone,Apple,SIL-1284,Apple Iphone,Apple iPhone 12 mini 64GB Purple,SIL-1284,59900
+157,Mobile Phone,Iphone,Apple,SIL-1285,Apple Iphone,Apple iPhone 12 mini 64GB White,SIL-1285,59900
+158,Mobile Phone,Iphone,Apple,SIL-1286,Apple Iphone,Apple iPhone 13 128GB (PRODUCT)RED,SIL-1286,79900
+159,Mobile Phone,Iphone,Apple,SIL-1287,Apple Iphone,Apple iPhone 13 128GB Blue,SIL-1287,79900
+160,Mobile Phone,Iphone,Apple,SIL-1288,Apple Iphone,Apple iPhone 13 128GB Green,SIL-1288,79900
+161,Mobile Phone,Iphone,Apple,SIL-1289,Apple Iphone,Apple iPhone 13 128GB Midnight,SIL-1289,79900
+162,Mobile Phone,Iphone,Apple,SIL-1290,Apple Iphone,Apple iPhone 13 128GB Pink,SIL-1290,79900
+163,Mobile Phone,Iphone,Apple,SIL-1291,Apple Iphone,Apple iPhone 13 128GB Starlight,SIL-1291,79900
+164,Mobile Phone,Iphone,Apple,SIL-1292,Apple Iphone,Apple iPhone 13 256GB (PRODUCT)RED,SIL-1292,89900
+165,Mobile Phone,Iphone,Apple,SIL-1293,Apple Iphone,Apple iPhone 13 256GB Blue,SIL-1293,89900
+166,Mobile Phone,Iphone,Apple,SIL-1294,Apple Iphone,Apple iPhone 13 256GB Green,SIL-1294,89900
+167,Mobile Phone,Iphone,Apple,SIL-1295,Apple Iphone,Apple iPhone 13 256GB Midnight,SIL-1295,89900
+168,Mobile Phone,Iphone,Apple,SIL-1296,Apple Iphone,Apple iPhone 13 256GB Pink,SIL-1296,89900
+169,Mobile Phone,Iphone,Apple,SIL-1297,Apple Iphone,Apple iPhone 13 256GB Starlight,SIL-1297,89900
+170,Mobile Phone,Iphone,Apple,SIL-1298,Apple Iphone,Apple iPhone 13 512GB (PRODUCT)RED,SIL-1298,109900
+171,Mobile Phone,Iphone,Apple,SIL-1299,Apple Iphone,Apple iPhone 13 512GB Blue,SIL-1299,109900
+172,Mobile Phone,Iphone,Apple,SIL-1300,Apple Iphone,Apple iPhone 13 512GB Green,SIL-1300,109900
+173,Mobile Phone,Iphone,Apple,SIL-1301,Apple Iphone,Apple iPhone 13 512GB Midnight,SIL-1301,109900
+174,Mobile Phone,Iphone,Apple,SIL-1302,Apple Iphone,Apple iPhone 13 512GB Pink,SIL-1302,109900
+175,Mobile Phone,Iphone,Apple,SIL-1303,Apple Iphone,Apple iPhone 13 512GB Starlight,SIL-1303,109900
+176,Mobile Phone,Iphone,Apple,SIL-1304,Apple Iphone,Apple iPhone 13 mini 128GB (PRODUCT)RED,SIL-1304,69900
+177,Mobile Phone,Iphone,Apple,SIL-1305,Apple Iphone,Apple iPhone 13 mini 128GB Blue,SIL-1305,69900
+178,Mobile Phone,Iphone,Apple,SIL-1306,Apple Iphone,Apple iPhone 13 mini 128GB Green,SIL-1306,69900
+179,Mobile Phone,Iphone,Apple,SIL-1307,Apple Iphone,Apple iPhone 13 mini 128GB Midnight,SIL-1307,69900
+180,Mobile Phone,Iphone,Apple,SIL-1308,Apple Iphone,Apple iPhone 13 mini 128GB Pink,SIL-1308,69900
+181,Mobile Phone,Iphone,Apple,SIL-1309,Apple Iphone,Apple iPhone 13 mini 128GB Starlight,SIL-1309,69900
+182,Mobile Phone,Iphone,Apple,SIL-1310,Apple Iphone,Apple iPhone 13 mini 256GB (PRODUCT)RED,SIL-1310,79900
+183,Mobile Phone,Iphone,Apple,SIL-1311,Apple Iphone,Apple iPhone 13 mini 256GB Blue,SIL-1311,79900
+184,Mobile Phone,Iphone,Apple,SIL-1312,Apple Iphone,Apple iPhone 13 mini 256GB Green,SIL-1312,79900
+185,Mobile Phone,Iphone,Apple,SIL-1313,Apple Iphone,Apple iPhone 13 mini 256GB Midnight,SIL-1313,79900
+186,Mobile Phone,Iphone,Apple,SIL-1314,Apple Iphone,Apple iPhone 13 mini 256GB Pink,SIL-1314,79900
+187,Mobile Phone,Iphone,Apple,SIL-1315,Apple Iphone,Apple iPhone 13 mini 256GB Starlight,SIL-1315,79900
+188,Mobile Phone,Iphone,Apple,SIL-1316,Apple Iphone,Apple iPhone 13 mini 512GB (PRODUCT)RED,SIL-1316,99900
+189,Mobile Phone,Iphone,Apple,SIL-1317,Apple Iphone,Apple iPhone 13 mini 512GB Blue,SIL-1317,99900
+190,Mobile Phone,Iphone,Apple,SIL-1318,Apple Iphone,Apple iPhone 13 mini 512GB Green,SIL-1318,99900
+191,Mobile Phone,Iphone,Apple,SIL-1319,Apple Iphone,Apple iPhone 13 mini 512GB Midnight,SIL-1319,99900
+192,Mobile Phone,Iphone,Apple,SIL-1320,Apple Iphone,Apple iPhone 13 mini 512GB Pink,SIL-1320,99900
+193,Mobile Phone,Iphone,Apple,SIL-1321,Apple Iphone,Apple iPhone 13 mini 512GB Starlight,SIL-1321,99900
+194,Mobile Phone,Iphone,Apple,SIL-1322,Apple Iphone,Apple iPhone 13 Pro 128GB Alpine Green,SIL-1322,119900
+195,Mobile Phone,Iphone,Apple,SIL-1323,Apple Iphone,Apple iPhone 13 Pro 128GB Gold,SIL-1323,119900
+196,Mobile Phone,Iphone,Apple,SIL-1324,Apple Iphone,Apple iPhone 13 Pro 128GB Graphite,SIL-1324,119900
+197,Mobile Phone,Iphone,Apple,SIL-1325,Apple Iphone,Apple iPhone 13 Pro 128GB Sierra Blue,SIL-1325,119900
+198,Mobile Phone,Iphone,Apple,SIL-1326,Apple Iphone,Apple iPhone 13 Pro 128GB Silver,SIL-1326,119900
+199,Mobile Phone,Iphone,Apple,SIL-1327,Apple Iphone,Apple iPhone 13 Pro 1TB Alpine Green,SIL-1327,169900
+200,Mobile Phone,Iphone,Apple,SIL-1328,Apple Iphone,Apple iPhone 13 Pro 1TB Gold,SIL-1328,169900
+201,Mobile Phone,Iphone,Apple,SIL-1329,Apple Iphone,Apple iPhone 13 Pro 1TB Graphite,SIL-1329,169900
+202,Mobile Phone,Iphone,Apple,SIL-1330,Apple Iphone,Apple iPhone 13 Pro 1TB Sierra Blue,SIL-1330,169900
+203,Mobile Phone,Iphone,Apple,SIL-1331,Apple Iphone,Apple iPhone 13 Pro 1TB Silver,SIL-1331,169900
+204,Mobile Phone,Iphone,Apple,SIL-1332,Apple Iphone,Apple iPhone 13 Pro 256GB Alpine Green,SIL-1332,129900
+205,Mobile Phone,Iphone,Apple,SIL-1333,Apple Iphone,Apple iPhone 13 Pro 256GB Gold,SIL-1333,129900
+206,Mobile Phone,Iphone,Apple,SIL-1334,Apple Iphone,Apple iPhone 13 Pro 256GB Graphite,SIL-1334,129900
+207,Mobile Phone,Iphone,Apple,SIL-1335,Apple Iphone,Apple iPhone 13 Pro 256GB Sierra Blue,SIL-1335,129900
+208,Mobile Phone,Iphone,Apple,SIL-1336,Apple Iphone,Apple iPhone 13 Pro 256GB Silver,SIL-1336,129900
+209,Mobile Phone,Iphone,Apple,SIL-1337,Apple Iphone,Apple iPhone 13 Pro 512GB Alpine Green,SIL-1337,149900
+210,Mobile Phone,Iphone,Apple,SIL-1338,Apple Iphone,Apple iPhone 13 Pro 512GB Gold,SIL-1338,149900
+211,Mobile Phone,Iphone,Apple,SIL-1339,Apple Iphone,Apple iPhone 13 Pro 512GB Graphite,SIL-1339,149900
+212,Mobile Phone,Iphone,Apple,SIL-1340,Apple Iphone,Apple iPhone 13 Pro 512GB Sierra Blue,SIL-1340,149900
+213,Mobile Phone,Iphone,Apple,SIL-1341,Apple Iphone,Apple iPhone 13 Pro 512GB Silver,SIL-1341,149900
+214,Mobile Phone,Iphone,Apple,SIL-1342,Apple Iphone,Apple iPhone 13 Pro Max 128GB Alpine Green,SIL-1342,129900
+215,Mobile Phone,Iphone,Apple,SIL-1343,Apple Iphone,Apple iPhone 13 Pro Max 1TB Alpine Green,SIL-1343,179900
+216,Mobile Phone,Iphone,Apple,SIL-1344,Apple Iphone,Apple iPhone 13 Pro Max 256GB Alpine Green,SIL-1344,139900
+217,Mobile Phone,Iphone,Apple,SIL-1345,Apple Iphone,Apple iPhone 13 Pro Max 512GB Alpine Green,SIL-1345,159900
+218,Mobile Phone,Iphone,Apple,SIL-1346,Apple Iphone,Apple iPhone SE 128GB (PRODUCT)RED,SIL-1346,48900
+219,Mobile Phone,Iphone,Apple,SIL-1347,Apple Iphone,Apple iPhone SE 128GB Midnight,SIL-1347,48900
+220,Mobile Phone,Iphone,Apple,SIL-1348,Apple Iphone,Apple iPhone SE 128GB Starligh,SIL-1348,48900
+221,Mobile Phone,Iphone,Apple,SIL-1349,Apple Iphone,Apple iPhone SE 256GB (PRODUCT)RED,SIL-1349,58900
+222,Mobile Phone,Iphone,Apple,SIL-1350,Apple Iphone,Apple iPhone SE 256GB Midnight,SIL-1350,58900
+223,Mobile Phone,Iphone,Apple,SIL-1351,Apple Iphone,Apple iPhone SE 64GB (PRODUCT)RED,SIL-1351,43900
+224,Mobile Phone,Iphone,Apple,SIL-1352,Apple Iphone,Apple iPhone SE 64GB Midnight,SIL-1352,43900
+225,Mobile Phone,Iphone,Apple,SIL-1353,Apple Iphone,Apple iPhone SE 64GB Starlight,SIL-1353,43900
+226,Mobile Phone,Iphone,Apple,SIL-1356,Apple Iphone,Apple iPhone�13�Pro�Max 128GB Gold,SIL-1356,129900
+227,Mobile Phone,Iphone,Apple,SIL-1357,Apple Iphone,Apple iPhone�13�Pro�Max 128GB Graphite,SIL-1357,129900
+228,Mobile Phone,Iphone,Apple,SIL-1358,Apple Iphone,Apple iPhone�13�Pro�Max 128GB Sierra Blue,SIL-1358,129900
+229,Mobile Phone,Iphone,Apple,SIL-1359,Apple Iphone,Apple iPhone�13�Pro�Max 128GB Silver,SIL-1359,129900
+230,Mobile Phone,Iphone,Apple,SIL-1360,Apple Iphone,Apple iPhone�13�Pro�Max 1TB Gold,SIL-1360,179900
+231,Mobile Phone,Iphone,Apple,SIL-1361,Apple Iphone,Apple iPhone�13�Pro�Max 1TB Graphite,SIL-1361,179900
+232,Mobile Phone,Iphone,Apple,SIL-1362,Apple Iphone,Apple iPhone�13�Pro�Max 1TB Sierra Blue,SIL-1362,179900
+233,Mobile Phone,Iphone,Apple,SIL-1363,Apple Iphone,Apple iPhone�13�Pro�Max 1TB Silver,SIL-1363,179900
+234,Mobile Phone,Iphone,Apple,SIL-1364,Apple Iphone,Apple iPhone�13�Pro�Max 256GB Gold,SIL-1364,139900
+235,Mobile Phone,Iphone,Apple,SIL-1365,Apple Iphone,Apple iPhone�13�Pro�Max 256GB Graphite,SIL-1365,139900
+236,Mobile Phone,Iphone,Apple,SIL-1366,Apple Iphone,Apple iPhone�13�Pro�Max 256GB Sierra Blue,SIL-1366,139900
+237,Mobile Phone,Iphone,Apple,SIL-1367,Apple Iphone,Apple iPhone�13�Pro�Max 256GB Silver,SIL-1367,139900
+238,Mobile Phone,Iphone,Apple,SIL-1368,Apple Iphone,Apple iPhone�13�Pro�Max 512GB Gold,SIL-1368,159900
+239,Mobile Phone,Iphone,Apple,SIL-1369,Apple Iphone,Apple iPhone�13�Pro�Max 512GB Graphite,SIL-1369,159900
+240,Mobile Phone,Iphone,Apple,SIL-1370,Apple Iphone,Apple iPhone�13�Pro�Max 512GB Sierra Blue,SIL-1370,159900
+241,Mobile Phone,Iphone,Apple,SIL-1371,Apple Iphone,Apple iPhone�13�Pro�Max 512GB Silver,SIL-1371,159900
+242,Laptop,Macbook,Apple,SIL-1380,Apple Mac Mini,"Apple Mac mini: Apple M1 chip with 8?core CPU and 8?core GPU, 256GB SSD",SIL-1380,64900
+243,Laptop,Macbook,Apple,SIL-1381,Apple Mac Mini,"Apple Mac mini: Apple M1 chip with 8?core CPU and 8?core GPU, 512GB SSD",SIL-1381,84900
+244,Laptop,Accessories,Apple,SIL-1382,Apple MAC PRO TOWER ,Apple MAC PRO TOWER 3.5G 8C/RP580X/32GB/256GB-HIN,SIL-1382,499900
+245,Laptop,Accessories,Apple,SIL-1383,Apple Mac Studio,Apple MAC STUDIO/32G/512GB/10C CPU/24C GPU/ Apple M1 Max chip,SIL-1383,189900
+246,Laptop,Accessories,Apple,SIL-1384,Apple Mac Studio,Apple MAC STUDIO/64G/1TB/20C CPU/48C GPU/Apple M1 Ultra chip ,SIL-1384,389900
+247,Apple Brand Accessories,Keyboard,Apple,SIL-1388,Apple Keyboard,Apple Magic Keyboard with Touch ID for Mac computers with Apple silicon - US English,SIL-1388,14500
+248,Apple Brand Accessories,Mouse,Apple,SIL-1389,Apple Mouse,Apple Magic Mouse,SIL-1389,7500
+249,Laptop,Macbook,Apple,SIL-1394,Apple iMac,"Apple MGPD3 WS Imac 24""SLV M1/8GB/512GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1394,159900
+250,Laptop,Macbook,Apple,SIL-1395,Apple iMac,"Apple MGPF3 WS Imac 24""SLV M1/8GB/256GB/8C CPU/7C GPU/Retina 4.5K display",SIL-1395,119900
+251,Laptop,Macbook,Apple,SIL-1396,Apple iMac,"Apple MGPH3 WS Imac 24""GRN M1/8GB/256GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1396,139900
+252,Laptop,Macbook,Apple,SIL-1397,Apple iMac,"Apple MGPJ3 WS Imac 24""GRN M1/8GB/512GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1397,159900
+253,Laptop,Macbook,Apple,SIL-1398,Apple iMac,"Apple MGPK3 WS Imac 24""BLU M1/8GB/256GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1398,139900
+254,Laptop,Macbook,Apple,SIL-1399,Apple iMac,"Apple MGPL3 WS Imac 24""BLU M1/8GB/512GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1399,159900
+255,Laptop,Macbook,Apple,SIL-1400,Apple iMac,"Apple MGPM3 WS Imac 24""PNK M1/8GB/256GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1400,139900
+256,Laptop,Macbook,Apple,SIL-1401,Apple iMac,"Apple MGPN3 WS Imac 24""PNK M1/8GB/512GB/8C CPU/8C GPU/Retina 4.5K display",SIL-1401,159900
+257,Laptop,Macbook,Apple,SIL-1402,Apple iMac,"Apple MJV83 WS Imac 24""GRN M1/8GB/256GB/8C CPU/7C GPU/Retina 4.5K display",SIL-1402,119900
+258,Laptop,Macbook,Apple,SIL-1403,Apple iMac,"Apple MJV93 WS Imac 24""BLU M1/8GB/256GB/8C CPU/7C GPU/Retina 4.5K display",SIL-1403,119900
+259,Laptop,Macbook,Apple,SIL-1404,Apple iMac,"Apple MJVA3 WS Imac 24""PNK M1/8GB/256GB/8C CPU/7C GPU/Retina 4.5K display",SIL-1404,119900
+260,Tablet,I Pad,Apple,SIL-1405,Apple Ipad Air,Apple MM6R3HN/A IPAD AIR WF CL 64GB SPG,SIL-1405,74900
+261,Tablet,I Pad,Apple,SIL-1406,Apple Ipad Air,Apple MM6T3HN/A IPAD AIR WF CL 64GB PNK,SIL-1406,74900
+262,Tablet,I Pad,Apple,SIL-1407,Apple Ipad Air,Apple MM6U3HN/A IPAD AIR WF CL 64GB BLU,SIL-1407,74900
+263,Tablet,I Pad,Apple,SIL-1408,Apple Ipad Air,Apple MM6V3HN/A IPAD AIR WF CL 64GB STL,SIL-1408,74900
+264,Tablet,I Pad,Apple,SIL-1409,Apple Ipad Air,Apple MM713HN/A IPAD AIR WF CL 256GB SPG,SIL-1409,89900
+265,Tablet,I Pad,Apple,SIL-1410,Apple Ipad Air,Apple MM723HN/A IPAD AIR WF CL 256GB PNK,SIL-1410,89900
+266,Tablet,I Pad,Apple,SIL-1411,Apple Ipad Air,Apple MM733HN/A IPAD AIR WF CL 256GB BLU,SIL-1411,89900
+267,Tablet,I Pad,Apple,SIL-1412,Apple Ipad Air,Apple MM743HN/A IPAD AIR WF CL 256GB STL,SIL-1412,89900
+268,Tablet,I Pad,Apple,SIL-1413,Apple Ipad Air,Apple MM9C3HN/A IPAD AIR WI-FI 64GB SPACE GRAY,SIL-1413,59900
+269,Tablet,I Pad,Apple,SIL-1414,Apple Ipad Air,Apple MM9D3HN/A IPAD AIR WI-FI 64GB PINK,SIL-1414,59900
+270,Tablet,I Pad,Apple,SIL-1415,Apple Ipad Air,Apple MM9E3HN/A IPAD AIR WI-FI 64GB BLUE,SIL-1415,59900
+271,Tablet,I Pad,Apple,SIL-1416,Apple Ipad Air,Apple MM9F3HN/A IPAD AIR WI-FI 64GB STARLIGHT,SIL-1416,59900
+272,Tablet,I Pad,Apple,SIL-1417,Apple Ipad Air,Apple MM9L3HN/A IPAD AIR WI-FI 256GB SPACE GRAY,SIL-1417,74900
+273,Tablet,I Pad,Apple,SIL-1418,Apple Ipad Air,Apple MM9M3HN/A IPAD AIR WI-FI 256GB PINK,SIL-1418,74900
+274,Tablet,I Pad,Apple,SIL-1419,Apple Ipad Air,Apple MM9N3HN/A IPAD AIR WI-FI 256GB BLUE,SIL-1419,74900
+275,Tablet,I Pad,Apple,SIL-1420,Apple Ipad Air,Apple MM9P3HN/A IPAD AIR WI-FI 256GB STARLIGHT,SIL-1420,74900
+276,Tablet,I Pad,Apple,SIL-1421,Apple Ipad Air,Apple MME23HN/A IPAD AIR WI-FI 64GB PURPLE,SIL-1421,59900
+277,Tablet,I Pad,Apple,SIL-1422,Apple Ipad Air,Apple MME63HN/A IPAD AIR WI-FI 256GB PURPLE,SIL-1422,74900
+278,Tablet,I Pad,Apple,SIL-1423,Apple Ipad Air,Apple MME93HN/A IPAD AIR WF CL 64GB PUR,SIL-1423,74900
+279,Tablet,I Pad,Apple,SIL-1424,Apple Ipad Air,Apple MMED3HN/A IPAD AIR WF CL 256GB PUR,SIL-1424,89900
+280,Laptop,Macbook,Apple,SIL-1425,Apple Mac Mini,Apple MXNG2-MACMINI DT i5Pro 8thGen/3.0GHZ 6C/8GB/512GB/SG/Int.Core,SIL-1425,104900
+281,Apple Brand Accessories,Mobile Accessories,Apple,SIL-1427,Apple Pencil,Apple Pencil (2nd Generation),SIL-1427,10900
+282,Laptop,Macbook,Apple,SIL-1428,Apple Pro Display XDR,Apple Pro Display XDR - Nano-texture glass,SIL-1428,529900
+283,Laptop,Macbook,Apple,SIL-1429,Apple Pro Display XDR,Apple Pro Display XDR - Standard glass,SIL-1429,449900
+284,Laptop,Accessories,Apple,SIL-1432,Apple Display,Apple Studio Display - Nano-Texture Glass - Tilt- and Height-Adjustable Stand,SIL-1432,229900
+285,Laptop,Accessories,Apple,SIL-1433,Apple Display,Apple Studio Display - Nano-Texture Glass - Tilt-Adjustable Stand,SIL-1433,189900
+286,Laptop,Accessories,Apple,SIL-1434,Apple Display,Apple Studio Display - Nano-Texture Glass - VESA Mount Adapter (Stand not included),SIL-1434,189900
+287,Laptop,Accessories,Apple,SIL-1435,Apple Display,Apple Studio Display - Standard Glass - Tilt- and Height-Adjustable Stand,SIL-1435,199900
+288,Laptop,Accessories,Apple,SIL-1436,Apple Display,Apple Studio Display - Standard Glass - Tilt-Adjustable Stand,SIL-1436,159900
+289,Laptop,Accessories,Apple,SIL-1437,Apple Display,Apple Studio Display - Standard Glass - VESA Mount Adapter (Stand not included),SIL-1437,159900
+290,Home Appliance,Apple TV 4K,Apple,SIL-1438,Apple TV ,Apple TV 4K 32GB,SIL-1438,17230
+291,Home Appliance,Apple TV 4K,Apple,SIL-1439,Apple TV ,Apple TV 4K 32GB_ Set up box,SIL-1439,18900
+292,Home Appliance,Apple TV 4K,Apple,SIL-1440,Apple TV ,Apple TV 4K 64GB_Set up box,SIL-1440,20900
+293,Home Appliance,Apple TV HD,Apple,SIL-1441,Apple TV HD,Apple TV HD 32GB_Set up box,SIL-1441,15900
+294,Wearable,SMART WATCH,Apple,SIL-1448,Apple Smart Watch,"Apple Watch Nike SE GPS + Cellular, 40mm Silver Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1448,33900
+295,Wearable,SMART WATCH,Apple,SIL-1449,Apple Smart Watch,"Apple Watch Nike SE GPS + Cellular, 40mm Space Grey Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1449,33900
+296,Wearable,SMART WATCH,Apple,SIL-1450,Apple Smart Watch,"Apple Watch Nike SE GPS + Cellular, 44mm Silver Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1450,36900
+297,Wearable,SMART WATCH,Apple,SIL-1451,Apple Smart Watch,"Apple Watch Nike SE GPS + Cellular, 44mm Space Grey Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1451,36900
+298,Wearable,SMART WATCH,Apple,SIL-1452,Apple Smart Watch,"Apple Watch Nike SE GPS, 40mm Silver Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1452,29900
+299,Wearable,SMART WATCH,Apple,SIL-1453,Apple Smart Watch,"Apple Watch Nike SE GPS, 40mm Space Grey Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1453,29900
+300,Wearable,SMART WATCH,Apple,SIL-1454,Apple Smart Watch,"Apple Watch Nike SE GPS, 44mm Silver Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1454,32900
+301,Wearable,SMART WATCH,Apple,SIL-1455,Apple Smart Watch,"Apple Watch Nike SE GPS, 44mm Space Grey Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1455,32900
+302,Wearable,SMART WATCH,Apple,SIL-1456,Apple Smart Watch,"Apple Watch Nike Series 7 GPS + Cellular, 41mm Midnight Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1456,50900
+303,Wearable,SMART WATCH,Apple,SIL-1457,Apple Smart Watch,"Apple Watch Nike Series 7 GPS + Cellular, 41mm Starlight Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1457,50900
+304,Wearable,SMART WATCH,Apple,SIL-1458,Apple Smart Watch,"Apple Watch Nike Series 7 GPS + Cellular, 45mm Midnight Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1458,53900
+305,Wearable,SMART WATCH,Apple,SIL-1459,Apple Smart Watch,"Apple Watch Nike Series 7 GPS + Cellular, 45mm Starlight Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1459,53900
+306,Wearable,SMART WATCH,Apple,SIL-1460,Apple Smart Watch,"Apple Watch Nike Series 7 GPS, 41mm Midnight Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1460,41900
+307,Wearable,SMART WATCH,Apple,SIL-1461,Apple Smart Watch,"Apple Watch Nike Series 7 GPS, 41mm Starlight Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1461,41900
+308,Wearable,SMART WATCH,Apple,SIL-1462,Apple Smart Watch,"Apple Watch Nike Series 7 GPS, 45mm Midnight Aluminium Case with Anthracite/Black Nike Sport Band - Regular",SIL-1462,44900
+309,Wearable,SMART WATCH,Apple,SIL-1463,Apple Smart Watch,"Apple Watch Nike Series 7 GPS, 45mm Starlight Aluminium Case with Pure Platinum/Black Nike Sport Band - Regular",SIL-1463,44900
+310,Wearable,SMART WATCH,Apple,SIL-1464,Apple Smart Watch,"Apple Watch SE GPS + Cellular, 40mm Gold Aluminium Case with Starlight Sport Band - Regular",SIL-1464,33900
+311,Wearable,SMART WATCH,Apple,SIL-1465,Apple Smart Watch,"Apple Watch SE GPS + Cellular, 40mm Silver Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1465,33900
+312,Wearable,SMART WATCH,Apple,SIL-1466,Apple Smart Watch,"Apple Watch SE GPS + Cellular, 40mm Space Grey Aluminium Case with Midnight Sport Band - Regular",SIL-1466,33900
+313,Wearable,SMART WATCH,Apple,SIL-1467,Apple Smart Watch,"Apple Watch SE GPS + Cellular, 44mm Gold Aluminium Case with Starlight Sport Band - Regular",SIL-1467,36900
+314,Wearable,SMART WATCH,Apple,SIL-1468,Apple Smart Watch,"Apple Watch SE GPS + Cellular, 44mm Silver Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1468,36900
+315,Wearable,SMART WATCH,Apple,SIL-1469,Apple Smart Watch,"Apple Watch SE GPS + Cellular, 44mm Space Grey Aluminium Case with Midnight Sport Band - Regular",SIL-1469,36900
+316,Wearable,SMART WATCH,Apple,SIL-1470,Apple Smart Watch,"Apple Watch SE GPS, 40mm Gold Aluminium Case with Starlight Sport Band - Regular",SIL-1470,29900
+317,Wearable,SMART WATCH,Apple,SIL-1471,Apple Smart Watch,"Apple Watch SE GPS, 40mm Silver Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1471,29900
+318,Wearable,SMART WATCH,Apple,SIL-1472,Apple Smart Watch,"Apple Watch SE GPS, 40mm Space Grey Aluminium Case with Midnight Sport Band - Regular",SIL-1472,29900
+319,Wearable,SMART WATCH,Apple,SIL-1473,Apple Smart Watch,"Apple Watch SE GPS, 44mm Gold Aluminium Case with Starlight Sport Band - Regular",SIL-1473,32900
+320,Wearable,SMART WATCH,Apple,SIL-1474,Apple Smart Watch,"Apple Watch SE GPS, 44mm Silver Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1474,32900
+321,Wearable,SMART WATCH,Apple,SIL-1475,Apple Smart Watch,"Apple Watch SE GPS, 44mm Space Grey Aluminium Case with Midnight Sport Band - Regular",SIL-1475,32900
+322,Wearable,SMART WATCH,Apple,SIL-1476,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm (PRODUCT)RED Aluminium Case with (PRODUCT)RED Sport Band - Regular",SIL-1476,50900
+323,Wearable,SMART WATCH,Apple,SIL-1477,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Blue Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1477,50900
+324,Wearable,SMART WATCH,Apple,SIL-1478,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Gold Stainless Steel Case with Gold Milanese Loop",SIL-1478,73900
+325,Wearable,SMART WATCH,Apple,SIL-1479,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Gold Stainless Steel with Abyss Blue Sport Band - Regular",SIL-1479,69900
+326,Wearable,SMART WATCH,Apple,SIL-1480,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Graphite Stainless Steel Case with Graphite Milanese Loop",SIL-1480,73900
+327,Wearable,SMART WATCH,Apple,SIL-1481,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Graphite Stainless Steel with Midnight Sport Band - Regular",SIL-1481,69900
+328,Wearable,SMART WATCH,Apple,SIL-1482,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Green Aluminium Case with Clover Sport Band - Regular",SIL-1482,50900
+329,Wearable,SMART WATCH,Apple,SIL-1483,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Midnight Aluminium Case with Midnight Sport Band - Regular",SIL-1483,50900
+330,Wearable,SMART WATCH,Apple,SIL-1484,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Silver Stainless Steel Case with Silver Milanese Loop",SIL-1484,73900
+331,Wearable,SMART WATCH,Apple,SIL-1485,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Silver Stainless Steel Case with Starlight Sport Band - Regular",SIL-1485,69900
+332,Wearable,SMART WATCH,Apple,SIL-1486,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 41mm Starlight Aluminium Case with Starlight Sport Band - Regular",SIL-1486,50900
+333,Wearable,SMART WATCH,Apple,SIL-1487,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm (PRODUCT)RED Aluminium Case with (PRODUCT)RED Sport Band - Regular",SIL-1487,53900
+334,Wearable,SMART WATCH,Apple,SIL-1488,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Blue Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1488,53900
+335,Wearable,SMART WATCH,Apple,SIL-1489,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Gold Stainless Steel Case with Gold Milanese Loop",SIL-1489,77900
+336,Wearable,SMART WATCH,Apple,SIL-1490,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Gold Stainless Steel with Abyss Blue Sport Band - Regular",SIL-1490,73900
+337,Wearable,SMART WATCH,Apple,SIL-1491,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Graphite Stainless Steel Case with Graphite Milanese Loop",SIL-1491,77900
+338,Wearable,SMART WATCH,Apple,SIL-1492,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Graphite Stainless Steel with Midnight Sport Band - Regular",SIL-1492,73900
+339,Wearable,SMART WATCH,Apple,SIL-1493,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Green Aluminium Case with Clover Sport Band - Regular",SIL-1493,53900
+340,Wearable,SMART WATCH,Apple,SIL-1494,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Midnight Aluminium Case with Midnight Sport Band - Regular",SIL-1494,53900
+341,Wearable,SMART WATCH,Apple,SIL-1495,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Silver Stainless Steel Case with Silver Milanese Loop",SIL-1495,77900
+342,Wearable,SMART WATCH,Apple,SIL-1496,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Silver Stainless Steel Case with Starlight Sport Band - Regular",SIL-1496,73900
+343,Wearable,SMART WATCH,Apple,SIL-1497,Apple Smart Watch,"Apple Watch Series 7 GPS + Cellular, 45mm Starlight Aluminium Case with Starlight Sport Band - Regular",SIL-1497,53900
+344,Wearable,SMART WATCH,Apple,SIL-1498,Apple Smart Watch,"Apple Watch Series 7 GPS, 41mm (PRODUCT)RED Aluminium Case with (PRODUCT)RED Sport Band - Regular",SIL-1498,41900
+345,Wearable,SMART WATCH,Apple,SIL-1499,Apple Smart Watch,"Apple Watch Series 7 GPS, 41mm Blue Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1499,41900
+346,Wearable,SMART WATCH,Apple,SIL-1500,Apple Smart Watch,"Apple Watch Series 7 GPS, 41mm Green Aluminium Case with Clover Sport Band - Regular",SIL-1500,41900
+347,Wearable,SMART WATCH,Apple,SIL-1501,Apple Smart Watch,"Apple Watch Series 7 GPS, 41mm Midnight Aluminium Case with Midnight Sport Band - Regular",SIL-1501,41900
+348,Wearable,SMART WATCH,Apple,SIL-1502,Apple Smart Watch,"Apple Watch Series 7 GPS, 41mm Starlight Aluminium Case with Starlight Sport Band - Regular",SIL-1502,41900
+349,Wearable,SMART WATCH,Apple,SIL-1503,Apple Smart Watch,"Apple Watch Series 7 GPS, 45mm (PRODUCT)RED Aluminium Case with (PRODUCT)RED Sport Band - Regular",SIL-1503,44900
+350,Wearable,SMART WATCH,Apple,SIL-1504,Apple Smart Watch,"Apple Watch Series 7 GPS, 45mm Blue Aluminium Case with Abyss Blue Sport Band - Regular",SIL-1504,44900
+351,Wearable,SMART WATCH,Apple,SIL-1505,Apple Smart Watch,"Apple Watch Series 7 GPS, 45mm Green Aluminium Case with Clover Sport Band - Regular",SIL-1505,44900
+352,Wearable,SMART WATCH,Apple,SIL-1506,Apple Smart Watch,"Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case with Midnight Sport Band - Regular",SIL-1506,44900
+353,Wearable,SMART WATCH,Apple,SIL-1507,Apple Smart Watch,"Apple Watch Series 7 GPS, 45mm Starlight Aluminium Case with Starlight Sport Band - Regular",SIL-1507,44900
+354,Wearable,SMART WATCH,Apple,SIL-1509,Apple Smart Watch,"Apple�Watch Series�3 GPS, 38mm Silver Aluminium Case with White Sport Band",SIL-1509,20900
+355,Wearable,SMART WATCH,Apple,SIL-1510,Apple Smart Watch,"Apple�Watch Series�3 GPS, 38mm Space Grey Aluminium Case with Black Sport Band",SIL-1510,20900
+356,Wearable,SMART WATCH,Apple,SIL-1511,Apple Smart Watch,"Apple�Watch Series�3 GPS, 42mm Silver Aluminium Case with White Sport Band",SIL-1511,23900
+357,Wearable,SMART WATCH,Apple,SIL-1512,Apple Smart Watch,"Apple�Watch Series�3 GPS, 42mm Space Grey Aluminium Case with Black Sport Band",SIL-1512,23900
+358,Kitchen Appliances,Microwave Oven ,BAJAJ,SIL-1567,Bajaj Oven,BAJAJ 2310 ETC,SIL-1567,19000
+359,Kitchen Appliances,Microwave Oven ,Bajaj,SIL-1568,Bajaj Oven,Bajaj 2310 ETC- 23L Convection Microwave with Electronic Control,SIL-1568,14495
+360,Kitchen Appliances,Oven Toaster Griller ,BAJAJ,SIL-1571,Bajaj OTG,BAJAJ 4500TMCSS OTG,SIL-1571,17750
+361,Kitchen Appliances,Oven Toaster Griller ,BAJAJ,SIL-1572,Bajaj OTG,BAJAJ 50 DCRSS OTG,SIL-1572,21000
+362,Kitchen Appliances,Microwave Oven ,BAJAJ,SIL-1605,Bajaj OTG,BAJAJ MR Oven Toaster Grillers 30 RCSS LuxeChef,SIL-1605,15795
+363,Kitchen Appliances,Induction Cooktop,BAJAJ,SIL-1632,Bajaj Cooktop,BAJAJ SPLENDID,SIL-1632,3300
+364,Camera,SECURITY CAMERA,MI,SIL-1654,MI Security Camera,CAMERA Xiaomi 360� Home Security Camera 1080p 2i,SIL-1654,4499
+365,Home Appliance,Air Conditioners ,PANASONIC,SIL-1655,Panasonic AC,CS/CU-KU12YKYF Panasonic 1.0 Ton 3 Star Split Air Conditioners 2022 Model,SIL-1655,65400
+366,Health care,Massager ,LIFELONG,SIL-1678,Lifelong Massager,"Foot spa Massager with Manual Rollers, Digital Panel",SIL-1678,7499
+367,Wearable,MEN'S WATCH,Fossil,SIL-1679,Fossil Men Watch,Fossil Men Watch - BQ2457,SIL-1679,7995
+368,Wearable,MEN'S WATCH,Fossil,SIL-1680,Fossil Men Watch,Fossil Men Watch - FS4656,SIL-1680,10795
+369,Wearable,MEN'S WATCH,Fossil,SIL-1681,Fossil Men Watch,Fossil Men Watch - FS5851,SIL-1681,14995
+370,Health care,Massager ,LIFELONG,SIL-1682,Lifelong Massager,Full Body Massage Chair With Recliner and powerfull 3D Back and Leg Message for Home,SIL-1682,85000
+371,Home Appliance,Air Conditioners ,Haier,SIL-1689,Haier Split Ac,"Haier 1 Ton 3 Star Antibacterial Coating, Dust Filter, Dehumidifier Split System AC (Copper, 2020, HSU12T-TFW3B, ",SIL-1689,58890
+372,Home Appliance,Air Conditioners ,Haier,SIL-1691,Haier Split Ac,"Haier 1.5 Ton 3 Star Antibacterial Coating, Dust Filter, Dehumidifier Split System AC (Copper, 2020, HSU18T-NMW3B, White)",SIL-1691,65390
+373,Home Appliance,Air Conditioners ,Haier,SIL-1692,Haier Split Ac,"HAIER 1.5 Ton 3 Star Split AC, TurboCool HSU18T-TQS3B (Copper Condenser, Micro Dust Filter, Cools even at 54C, R32 Eco friendly Gas, 2022 Launched)",SIL-1692,60990
+374,Home Appliance,Television,Haier,SIL-1694,Hair Smart TV,Haier 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV  (LE43K6600UGA),SIL-1694,52490
+375,Home Appliance,Refrigerator,Haier,SIL-1695,Haier Refrigerator,Haier 170 L HRD-1702SR-E Direct Cool Single Door 2 Star Refrigerator,SIL-1695,17500
+376,Home Appliance,Refrigerator,Haier,SIL-1696,Haier Refrigerator,"Haier 190 L 2 Star Direct-Cool Single Door Refrigerator (HRD-1902BBR-E, Burgundy Red)",SIL-1696,19000
+377,Kitchen Appliances,Microwave Oven ,Haier,SIL-1697,Haier Oven,"Haier 20 L Convection Microwave Oven  (HIL2001CWPH, Black & White)",SIL-1697,13500
+378,Kitchen Appliances,Microwave Oven ,Haier,SIL-1698,Haier Oven,"Haier 20 L Solo Microwave Oven (HIL2001MWPH, HAL2WBLACK)",SIL-1698,8500
+379,Home Appliance,Refrigerator,Haier,SIL-1699,Haier Refrigerator,"Haier 256L 3 Star With Inverter Double Door Refrigerator (HRB-2764BS-E, Brushline Silver)",SIL-1699,43700
+380,Home Appliance,Refrigerator,Haier,SIL-1700,Haier Refrigerator,"Haier 258 L Frost Free Double Door 2 Star 2020 Refrigerator (Silver, HRF-2783BMS-E)",SIL-1700,36500
+381,Home Appliance,Refrigerator,Haier,SIL-1701,Haier Refrigerator,"Haier 258 Litres, Frost Free Twin Energy Saving Top Mount Refrigerator",SIL-1701,41300
+382,Home Appliance,Television,Haier,SIL-1702,Hair Smart TV,Haier 32 Inch Bezel Less Google Android TV - Smart AI Plus,SIL-1702,31590
+383,Home Appliance,Television,Haier,SIL-1703,Hair Smart TV,Haier 50 inch Ultra HD LE50K7700HQGA Android Smart (LE50K7700HQGA),SIL-1703,64990
+384,Home Appliance,Washing Machine,Haier,SIL-1704,Haier Washing Machine,"Haier 6 kg Fully-Automatic Top Loading Washing Machine (HWM60-1269DB, Moonlight Grey)",SIL-1704,20500
+385,Home Appliance,Washing Machine,Haier,SIL-1705,Haier Washing Machine,"Haier 6.5 Kg Semi-Automatic Top Loading Washing Machine with 1300 RPM, Rust Free Cabinet (HTW65-187BO, Burgundy)",SIL-1705,14200
+386,Home Appliance,Refrigerator,Haier,SIL-1706,Haier Refrigerator,Haier 7 kg Fully Automatic Top Load Grey  (HWM70-1269DB),SIL-1706,26000
+387,Home Appliance,Television,Haier,SIL-1708,Hair Smart TV,Haier HD Smart Android LED 43 inch(109 cm) LE43K7700GA (2022 Model Edition),SIL-1708,46990
+388,Home Appliance,Television,Haier,SIL-1709,Hair Smart TV,Haier LE32A700 32 inch LED Full HD TV,SIL-1709,27990
+389,Home Appliance,Television,Haier,SIL-1710,Hair Smart TV,Haier LE43K7GA 43 Inch Full HD Smart LED TV,SIL-1710,45990
+390,Home Appliance,Refrigerator,Haier,SIL-1712,Haier Refrigerator,Haier Washing Machine Fully Automatic Top Load 6.5 KG HWM65-707TNZP Pune,SIL-1712,24000
+391,Health care,Massager ,iLife,SIL-1798,Ilife Massager,"iLife Lumbar Traction Device Back Pain Relief Low Back Stretcher with Vibration Massage, Infrared Heat, and Air Pressure Spinal Decompression Dynamic",SIL-1798,19999
+392,Kitchen Appliances,Induction Cooktop,PHILIPS,SIL-1811,Philips Induction Cooktop,Philips Induction Cooktop,SIL-1811,4995
+393,Kitchen Appliances,Microwave Oven ,LG,SIL-1876,LG Oven,"LG 28 L Convection Microwave Oven (MC2887BFUM, Black)",SIL-1876,23799
+394,Audio,Speaker,LG,SIL-1879,LG Speaker,"LG LK75B Powerful Sound 40W, 2.1 Ch Multimedia Speaker",SIL-1879,6990
+395,Home Appliance,Refrigerator,LG,SIL-1881,LG Refrigerator,"LG Mini Refrigerator, 45L GL-M051RSWC (White)",SIL-1881,12199
+396,Audio,Airpods,LG,SIL-1882,LG Airpods,Lg Tone Free Hbs-Fn5U Bluetooth Truly Wireless In Ear Earbuds With Microphone Black,SIL-1882,19990
+397,Health care,Massager ,LIFELONG,SIL-1890,Lifelong Massager,"Lifelong Crazyfit Vibration Plate Massager Machine for Full Body Workout at Home for Weight Loss, Fat Burn, Blood Circulation, and Pain Relief",SIL-1890,14000
+398,Camera,SECURITY CAMERA,XIOMI,SIL-2027,MI HOME SECURITY CAMERA,MI HOME SECURITY CAMERA 360�,SIL-2027,3999
+399,Health care,Massager ,LIFELONG,SIL-2042,Lifelong Massager,Life long Mini Head and Body Massager,SIL-2042,1500
+400,Wearable,SMART WATCH,Titan,SIL-2046,Titan Smart Watch,"New Titan Talk Smart Watch|BT Calling|1.39""AMOLED Display|Immersive 454x454 Resolution|Music Storage|TWS Connect|AI Voice|Multisport Modes",SIL-2046,14995
+401,Kitchen Appliances,Oven Toaster Griller ,WONDERCHEF,SIL-2077,Wonderchef OTG,"Wonderchef Oven Toaster Griller (OTG) 21 Litres, Auto Power-Off with Bell, Heat Resistant Glass Window, 2 Years Warranty- 1380W",SIL-2077,7000
+402,Home Appliance,Air Conditioners ,PANASONIC,SIL-2078,Panasonic AC,"Panasonic 1 Ton 3 Star Split AC - White  (CS/CU-KN12YKY, Copper Condenser)",SIL-2078,42900
+403,Home Appliance,Air Conditioners ,PANASONIC,SIL-2079,Panasonic AC,Panasonic 1.5 Ton 5 Star Split AC (CS/CU-ZU18YKY),SIL-2079,63400
+404,Home Appliance,Air Conditioners ,PANASONIC,SIL-2081,Panasonic AC,"Panasonic 1.5 Ton 5 Star Window Inverter AC - White  (CW-XN182AG, Copper Condenser)",SIL-2081,49650
+405,Home Appliance,Air Conditioners ,PANASONIC,SIL-2082,Panasonic AC,"Panasonic 1.5 Ton Hot and Cold Wi-Fi Inverter 3 Star Smart Split AC (Copper, Auto -Convertible, Twin Cool, Shield Blu Anti-Corrosion Technology, PM 2.5 Air Purification, CS/CU-KZ18YKYF, 2022 Model)",SIL-2082,61400
+406,Home Appliance,Television,PANASONIC,SIL-2090,Panasonic TV,Panasonic 139 cm (55 Inches) 4K Ultra HD Smart Android LED TV TH-55JX750DX (Black) (2020 Model),SIL-2090,82990
+407,Home Appliance,Television,PANASONIC,SIL-2091,Panasonic TV,"Panasonic 139cm (55 Inch) 4K LED Android TV (TH-55LX850DX, Black)",SIL-2091,89990
+408,Home Appliance,Television,PANASONIC,SIL-2092,Panasonic TV,Panasonic 165 cm (65 Inches) 4K Ultra HD Smart Android LED TV TH-65HX700DX (Black) (2020 Model),SIL-2092,119990
+409,Home Appliance,Television,PANASONIC,SIL-2094,Panasonic TV,Panasonic 189.3 cm (75 Inches) 4K Ultra HD Smart Android LED TV TH-75LX730DX (Black) (2022 Model),SIL-2094,214990
+410,Home Appliance,Air Conditioners ,PANASONIC,SIL-2095,Panasonic AC,"Panasonic 2 Ton 5 Star Wi-Fi Twin-Cool Inverter Split Air Conditioner (Copper, Shield Blu Anti-Corrosion Technology, nanoe-G Air Purification, 2022 Model, CS/CU-XU24YKYF, White)",SIL-2095,82400
+411,Home Appliance,Air Conditioners ,PANASONIC,SIL-2096,Panasonic AC,"Panasonic 2.0 Ton Inverter 3 Star Copper 2022 Model, CS/CU-KU24YKY-1 (R-32) Split AC (White),",SIL-2096,69400
+412,Kitchen Appliances,Microwave Oven ,PANASONIC,SIL-2097,Panasonic Oven,"Panasonic 20L Grill Microwave Oven(NN-GT221WFDG,White, 38 Auto Cook Menus )",SIL-2097,9890
+413,Kitchen Appliances,Microwave Oven ,PANASONIC,SIL-2098,Panasonic Oven,"Panasonic 23 Litres Convection Microwave Oven (360� Heat Wrap, NN-CT35LBFDG, Black Floral)",SIL-2098,15890
+414,Home Appliance,Washing Machine,PANASONIC,SIL-2111,Panasonic Washing Machine,"Panasonic 7 kg 5 Star Built-in Heater Fully Automatic Front Loading Washing Machine (NA-127MB3L01, Grey)",SIL-2111,43500
+415,Home Appliance,Washing Machine,PANASONIC,SIL-2112,Panasonic Washing Machine,"Panasonic 7 Kg 5 Star Built-In Heater Fully-Automatic Top Loading Washing Machine (NA-F70AH9MRB, Middle Free Silver, Active Foam System)",SIL-2112,30000
+416,Home Appliance,Washing Machine,PANASONIC,SIL-2116,Panasonic Washing Machine,Panasonic 8 kg Wifi Smart Washing Machine Fully Automatic Top Load Black  (NA-F80X10PRB),SIL-2116,33900
+417,Home Appliance,Washing Machine,PANASONIC,SIL-2120,Panasonic Washing Machine,"Panasonic Econavi 7.5 Kg 5 Star Built-In Heater Fully-Automatic Top Loading Washing Machine (NA-F75V9LRB, Silver, Stain Master+)",SIL-2120,35300
+418,Home Appliance,Washing Machine,PANASONIC,SIL-2121,Panasonic Washing Machine,"Panasonic Econavi 8 Kg 5 Star Built-In Heater Fully-Automatic Top Loading Washing Machine (NA-F80V9LRB, Silver, Stain Master+)",SIL-2121,37300
+419,Home Appliance,Air Fryer,PHILIPS,SIL-2140,Philips Air Fryer,"PHILIPS Air Fryer HD9200/90, uses up to 90% less fat, 1400W, 4.1 Liter, with Rapid Air Technology (Black), Large",SIL-2140,8995
+420,Audio,Bluetooth Speaker,PHILIPS,SIL-2141,Philips Speaker,"Philips Audio TAX5206 40 W Bluetooth Party Speaker with 14 Hours Play Time, Karaoke Features, Guitar and Mic Input, Party Lights and Trolley Design with Wheels, Black",SIL-2141,21990
+421,Home Appliance,Coffee Maker,PHILIPS,SIL-2146,Philips Coffee Maker,"PHILIPS Drip Coffee Maker HD7432/20, 0.6 L, Ideal for 2-7 cups, Black, Medium",SIL-2146,3595
+422,Kitchen Appliances,Induction Cooktop,PHILIPS,SIL-2153,Philips Induction Cooktop,"Philips HD4920 Induction Cooktop Save Energy,",SIL-2153,3695
+423,Kitchen Appliances,Oven Toaster Griller ,PHILIPS,SIL-2154,Philips OTG,"Philips HD6975/00 25 Litre Digital Oven Toaster Grill, Grey, 25 liter",SIL-2154,10495
+424,Home Appliance,Blender,PHILIPS,SIL-2161,Philips Bar Blender,"PHILIPS HR1351/C Hand Blender with Chopping Attachment, 250W",SIL-2161,2495
+425,Home Appliance,Vaccum Cleaner,PHILIPS,SIL-2166,Philips Vaccum Cleaner ,Philips PowerPro FC9352/01 Compact Bagless Vacuum Cleaner (Blue),SIL-2166,11995
+426,Kitchen Appliances,Tumbler,Vaya,SIL-2171,Vaya Tumbler,PopCup  - Vacuum Insulated Stainless Steel Tumbler with Lid Cup Set of 1 - 250ml ,SIL-2171,1290
+427,Home Appliance,Air Fryer,WONDERCHEF,SIL-2174,Wonderchef Air Fryer,"Wonderchef Prato Air Fryer, Digital, 3.8 Litres Non-Stick Frying Basket, Auto shut-off, Digital Touch Screen Timer And Temperature Control",SIL-2174,9000
+428,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2184,Samsonite Trolley Bag,Samsonite SAM OCTOLITE SPINNER 55 -BLACK,SIL-2184,11500
+429,Travel & Luggage ,Duffle Bag,Samsonite,SIL-2185,Samsonite Duffle Bag,Samsonite AMT AMBERO WDF 52CM01 GREY,SIL-2185,3800
+430,Travel & Luggage ,Duffle Bag,Samsonite,SIL-2186,Samsonite Duffle Bag,Samsonite AMT AMBERO WDF 52CM01 NAVY,SIL-2186,3800
+431,Travel & Luggage ,Duffle Bag,Samsonite,SIL-2187,Samsonite Duffle Bag,Samsonite AMT APEX WHEEL DUFFLE 57CM BLU,SIL-2187,3000
+432,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2188,Samsonite Trolley Bag,Samsonite AMT COLORADO SP 55CM -RED,SIL-2188,8800
+433,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2189,Samsonite Trolley Bag,Samsonite AMT COLORADO SP 55CM -ROYL.BLU,SIL-2189,8800
+434,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2190,Samsonite Trolley Bag,Samsonite AMT SCULPTOR SP55 CMTSA BLACK,SIL-2190,9300
+435,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2191,Samsonite Trolley Bag,Samsonite AMT SCULPTOR SP55 CMTSA MR.BLU,SIL-2191,9300
+436,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2192,Samsonite Trolley Bag,Samsonite AMT SCULPTOR SP67 CMTSA MR.BLU,SIL-2192,12000
+437,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2193,Samsonite Trolley Bag,Samsonite AMT SKYLINE SP 55CM-FRMLA.RD,SIL-2193,8500
+438,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2194,Samsonite Trolley Bag,Samsonite AMT SKYLINE SP 55CM-ROYAL.BLU,SIL-2194,8500
+439,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2195,Samsonite Trolley Bag,Samsonite AMT SKYLINE SPINNER 55CM-BLACK,SIL-2195,8500
+440,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2196,Samsonite Trolley Bag,Samsonite AMT SPRINT PLUS SP 55CM -BLACK,SIL-2196,8800
+441,Laptop Backpak,Backpak,Samsonite,SIL-2197,Samsonite Backpak,Samsonite AMT TROT BACKPACK 01- BLACK & NAVY,SIL-2197,2390
+442,Laptop Backpak,Backpak,Samsonite,SIL-2198,Samsonite Backpak,Samsonite AMT TROT BACKPACK 02- BLACK & NAVY,SIL-2198,3390
+443,Laptop Backpak,Backpak,Samsonite,SIL-2199,Samsonite Backpak,Samsonite AMT TROT BACKPACK 03- BLACK,SIL-2199,4000
+444,Laptop Backpak,Backpak,Samsonite,SIL-2200,Samsonite Backpak,SAMSONITE IKONN ECO 3 Backpack,SIL-2200,5830
+445,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2201,Samsonite Trolley Bag,Samsonite KAM MARTIAL SP 55CM CORAL BLUE,SIL-2201,7500
+446,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2202,Samsonite Trolley Bag,Samsonite KAM MARTIAL SP 55CM ROYAL.BLUE,SIL-2202,7500
+447,Travel & Luggage ,Duffle Bag,Samsonite,SIL-2203,Samsonite Duffle Bag,Samsonite KAM VENTO WHD 52CM BLUE,SIL-2203,2590
+448,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2204,Samsonite Trolley Bag,Samsonite KAM ZAKK SP55cm-BLACK,SIL-2204,7100
+449,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2205,Samsonite Trolley Bag,SAMSONITE Octolite Spinner 55 cms Red Hardsided Cabin Luggage,SIL-2205,11500
+450,Laptop Backpak,Backpak,Samsonite,SIL-2206,Samsonite Backpak,Samsonite SAM IKONN ECO BP III-IN- BLACK,SIL-2206,5830
+451,Travel & Luggage ,Laptop Briefcase ,Samsonite,SIL-2207,Samsonite Briefcase,Samsonite SAM TECH-ICT LAP BRF M-IN-GRY,SIL-2207,8250
+452,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2208,Samsonite Trolley Bag,Samsonite S'CURE SP 55 CM - BLACK,SIL-2208,13050
+453,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2209,Samsonite Trolley Bag,Samsonite Varro Spinner� 68/25Exp cm Mid (Black) Trolley Bag,SIL-2209,12800
+454,Mobile Phone,Smart phone ,Samsung,SIL-2211,Samsung Smart Phone,Samsung A13 (4/128 GB)(A135FH),SIL-2211,19999
+455,Mobile Phone,Smart phone ,Samsung,SIL-2212,Samsung Smart Phone,Samsung A13 (4/64 GB)(A135FG),SIL-2212,18490
+456,Mobile Phone,Smart phone ,Samsung,SIL-2213,Samsung Smart Phone,Samsung A13 (6/128 GB)(A135FJ),SIL-2213,20999
+457,Mobile Phone,Smart phone ,Samsung,SIL-2215,Samsung Smart Phone,Samsung A23 (8/128)(A235FT),SIL-2215,25490
+458,Mobile Phone,Smart phone ,Samsung,SIL-2216,Samsung Smart Phone,Samsung A33 5G (6/128 GB)(A336EP),SIL-2216,32990
+459,Mobile Phone,Smart phone ,Samsung,SIL-2217,Samsung Smart Phone,Samsung A33 5G (8/128 GB)(A336ER),SIL-2217,33990
+460,Mobile Phone,Smart phone ,Samsung,SIL-2218,Samsung Smart Phone,Samsung A53 5G (6/128 GB)(A536ED),SIL-2218,38990
+461,Mobile Phone,Smart phone ,Samsung,SIL-2219,Samsung Smart Phone,Samsung A53 5G (8/128 GB)(A536EG),SIL-2219,39990
+462,Mobile Phone,Smart phone ,Samsung,SIL-2220,Samsung Smart Phone,Samsung A73 5G (8/128GB)(A736BG),SIL-2220,47490
+463,Mobile Phone,Smart phone ,Samsung,SIL-2221,Samsung Smart Phone,Samsung A73 5G (8/256GB)(A736BH),SIL-2221,49999
+464,Personal Care,Wearable,Samsung,SIL-2223,Samsung Buds,Samsung Buds2 Pro(R510N),SIL-2223,19999
+465,Mobile Phone,Smart phone ,Samsung,SIL-2224,Samsung Smart Phone,Samsung Flip 4 (8/128 GB)(F721BA),SIL-2224,101999
+466,Mobile Phone,Smart phone ,Samsung,SIL-2225,Samsung Smart Phone,Samsung Flip 4 (8/256 GB)(F721BE),SIL-2225,106999
+467,Mobile Phone,Smart phone ,Samsung,SIL-2226,Samsung Smart Phone,Samsung Fold 4 (12/1 TB)(F936BH),SIL-2226,207999
+468,Mobile Phone,Smart phone ,Samsung,SIL-2227,Samsung Smart Phone,Samsung Fold 4 (12/256 GB)(F936BD),SIL-2227,177999
+469,Mobile Phone,Smart phone ,Samsung,SIL-2228,Samsung Smart Phone,Samsung Fold 4 (12/512 GB)(F936BG),SIL-2228,187999
+470,Mobile Phone,Smart phone ,Samsung,SIL-2230,Samsung Smart Phone,Samsung Galaxy A03 Core (2/32GB)(A032F),SIL-2230,10499
+471,Laptop ,Macbook,Samsung,SIL-2231,Samsung Macbook,"Samsung Galaxy Book Go,(QC 7C 4 GB+128 GB+Win 11 Home)SILVER Colour,14""Inch",SIL-2231,47990
+472,Laptop ,Macbook,Samsung,SIL-2232,Samsung Macbook,"Samsung Galaxy Book2 360
+,(12th Gen core i5
+ 16GB+512GB+Win 11 Pro)DARK GRAY
+ Colour,15.6Inch",SIL-2232,129990
+473,Laptop ,Macbook,Samsung,SIL-2233,Samsung Macbook,"Samsung Galaxy Book2 360
+,(12th Gen core i7
+ 16GB+512GB+Win 11 Pro)DARK GRAY
+ Colour,13.3Inch",SIL-2233,136990
+474,Laptop ,Macbook,Samsung,SIL-2234,Samsung Macbook,"Samsung Galaxy Book2 360,(12th Gen core i5 16 GB+512 GB+Win 11 Home)DARK GRAY Colour,13.3""Inch",SIL-2234,119990
+475,Laptop ,Macbook,Samsung,SIL-2235,Samsung Macbook,"Samsung Galaxy Book2 360,(12th Gen core i7 16 GB+512 GB+Win 11 Home)DARK GRAY Colour,13.3""Inch",SIL-2235,128990
+476,Laptop ,Macbook,Samsung,SIL-2236,Samsung Macbook,"Samsung Galaxy Book2 Business,(12th Gen core i5 16 GB+1 TB+Win 11 Pro)DARK GRAY Colour,14""Inch",SIL-2236,157990
+477,Laptop ,Macbook,Samsung,SIL-2237,Samsung Macbook,"Samsung Galaxy Book2 Business,(12th Gen core i5 8 GB+256 GB+Win 11 Pro)DARK GRAY Colour,14""Inch",SIL-2237,125990
+478,Laptop ,Macbook,Samsung,SIL-2238,Samsung Macbook,"Samsung Galaxy Book2 Business,(12th Gen core i7 16 GB+512 GB+Win 11 Pro)DARK GRAY Colour,14""Inch",SIL-2238,154990
+479,Laptop ,Macbook,Samsung,SIL-2239,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i5  16GB+512GB+Win 11 Pro)Silver Colour,13.3Inch",SIL-2239,149990
+480,Laptop ,Macbook,Samsung,SIL-2240,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i5 16 GB+512 GB+Win 11 Home)SILVER Colour,13.3""Inch",SIL-2240,139990
+481,Laptop ,Macbook,Samsung,SIL-2241,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i7 16 GB+512 GB+Win 11 Home)DARK GRAY Colour,15.6""Inch",SIL-2241,154990
+482,Laptop ,Macbook,Samsung,SIL-2242,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i7 16 GB+512 GB+Win 11 Home)SILVER Colour,13.3""Inch",SIL-2242,145990
+483,Laptop ,Macbook,Samsung,SIL-2243,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i7 P 16 GB+512 GB+Win 11 Home)BURGUNDY Colour,13.3""Inch",SIL-2243,145990
+484,Laptop ,Macbook,Samsung,SIL-2244,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i7 P 16 GB+512 GB+Win 11 Home)BURGUNDY Colour,15.6""Inch",SIL-2244,154990
+485,Laptop ,Macbook,Samsung,SIL-2245,Samsung Macbook,"Samsung Galaxy Book2 Pro 360,(12th Gen core i7
+ 16GB+512GB+Win 11 Pro)Silver Colour,13.3Inch",SIL-2245,153990
+486,Laptop ,Macbook,Samsung,SIL-2246,Samsung Macbook,"Samsung Galaxy Book2 Pro
+,(12th Gen core i5
+ 16GB+512GB+Win 11 Pro)Silver Colour,13.3Inch",SIL-2246,137990
+487,Laptop ,Macbook,Samsung,SIL-2247,Samsung Macbook,"Samsung Galaxy Book2 Pro
+,(12th Gen core i7
+ 16GB+512GB+Win 11 Pro)Silver Colour,13.3Inch",SIL-2247,145990
+488,Laptop ,Macbook,Samsung,SIL-2248,Samsung Macbook,"Samsung Galaxy Book2 Pro,(12th Gen core i5 16 GB+512 GB+Win 11 Home)SILVER Colour,13.3""Inch",SIL-2248,129990
+489,Laptop ,Macbook,Samsung,SIL-2249,Samsung Macbook,"Samsung Galaxy Book2 Pro,(12th Gen core i7 16 GB+1 TB+Win 11 Pro)Silver Colour,15.6""Inch",SIL-2249,175999
+490,Laptop ,Macbook,Samsung,SIL-2250,Samsung Macbook,"Samsung Galaxy Book2 Pro,(12th Gen core i7 16 GB+512 GB+Win 11 Home)DARK GRAY Colour,15.6""Inch",SIL-2250,149990
+491,Laptop ,Macbook,Samsung,SIL-2251,Samsung Macbook,"Samsung Galaxy Book2 Pro,(12th Gen core i7 16 GB+512 GB+Win 11 Home)SILVER Colour,13.3""Inch",SIL-2251,139990
+492,Laptop ,Macbook,Samsung,SIL-2252,Samsung Macbook,"Samsung Galaxy Book2
+,(12th Gen core i5
+ 16GB+512GB+Win 11 Pro)DARK GRAY
+ Colour,15.6Inch",SIL-2252,99990
+493,Laptop ,Macbook,Samsung,SIL-2253,Samsung Macbook,"Samsung Galaxy Book2
+,(12th Gen core i7
+ 16GB+512GB+Win 11 Pro)DARK GRAY
+ Colour,15.6Inch",SIL-2253,104990
+494,Laptop ,Macbook,Samsung,SIL-2254,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 16 GB+512 GB+Win 11 Home)DARK GRAY Colour,15.6""Inch",SIL-2254,85990
+495,Laptop ,Macbook,Samsung,SIL-2255,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 16 GB+512 GB+Win 11 Home)SILVER Colour,15.6""Inch",SIL-2255,88990
+496,Laptop ,Macbook,Samsung,SIL-2256,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 16 GB+512 GB+Win 11 Pro)SILVER Colour,15.6""Inch",SIL-2256,102990
+497,Laptop ,Macbook,Samsung,SIL-2257,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 8 GB+256 GB+Win 11 Home)Graphite Colour,15.6""Inch",SIL-2257,79990
+498,Laptop ,Macbook,Samsung,SIL-2258,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 8 GB+512 GB+Win 11 Home) Colour,15.6""Inch",SIL-2258,103490
+499,Laptop ,Macbook,Samsung,SIL-2259,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 8 GB+512 GB+Win 11 Home)DARK GRAY Colour,15.6""Inch",SIL-2259,82990
+500,Laptop ,Macbook,Samsung,SIL-2260,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i5 8 GB+512 GB+Win 11 Home)SILVER Colour,15.6""Inch",SIL-2260,83990
+501,Laptop ,Macbook,Samsung,SIL-2261,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i7 16 GB+512 GB+Win 11 Home)DARK GRAY Colour,15.6""Inch",SIL-2261,92990
+502,Laptop ,Macbook,Samsung,SIL-2262,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i7 16 GB+512 GB+Win 11 Home)SILVER Colour,15.6""Inch",SIL-2262,95990
+503,Laptop ,Macbook,Samsung,SIL-2263,Samsung Macbook,"Samsung Galaxy Book2,(12th Gen core i7 16 GB+512 GB+Win 11 Pro)SILVER Colour,15.6""Inch",SIL-2263,106990
+504,Mobile Phone,Smart phone ,Samsung,SIL-2264,Samsung Smart Phone,Samsung Galaxy S22 (8/128 GB)(S901ED),SIL-2264,85999
+505,Mobile Phone,Smart phone ,Samsung,SIL-2265,Samsung Smart Phone,Samsung Galaxy S22 (8/256 GB)(S901EG),SIL-2265,91999
+506,Mobile Phone,Smart phone ,Samsung,SIL-2266,Samsung Smart Phone,Samsung Galaxy S22 Ultra (12/256 GB)(S908EG),SIL-2266,131999
+507,Mobile Phone,Smart phone ,Samsung,SIL-2267,Samsung Smart Phone,Samsung Galaxy S22 Ultra (12/512 GB)(S908EH),SIL-2267,142999
+508,Mobile Phone,Tablets,Samsung,SIL-2268,Samsung Tablets,Samsung Galaxy Tab A8 LTE (32GB)(X205NA),SIL-2268,21599
+509,Mobile Phone,Tablets,Samsung,SIL-2269,Samsung Tablets,Samsung Galaxy Tab A8 LTE (64GB)(X205NE),SIL-2269,28799
+510,Mobile Phone,Tablets,Samsung,SIL-2271,Samsung Tablets,Samsung Galaxy Tab A8 WIFI (64GB)(X200NE),SIL-2271,23999
+511,Mobile Phone,Tablets,Samsung,SIL-2273,Samsung Tablets,Samsung Galaxy Tab S8 -LTE(X706BA),SIL-2273,80999
+512,Mobile Phone,Tablets,Samsung,SIL-2276,Samsung Tablets,Samsung Galaxy Tab S8 Ultra-LTE(X906BE),SIL-2276,141999
+513,Mobile Phone,Tablets,Samsung,SIL-2277,Samsung Tablets,Samsung Galaxy Tab S8 Ultra-Wifi(X900NE),SIL-2277,125999
+514,Mobile Phone,Tablets,Samsung,SIL-2278,Samsung Tablets,Samsung Galaxy Tab S8-Wifi(X700NA),SIL-2278,72999
+515,Mobile Phone,Smart phone ,Samsung,SIL-2279,Samsung Smart Phone,Samsung Galaxy Z Flip 3 (128 GB)(F711BA/F11BB),SIL-2279,95999
+516,Mobile Phone,Smart phone ,Samsung,SIL-2280,Samsung Smart Phone,Samsung Galaxy Z Flip 3 (256 GB)(F711BE/F711BF),SIL-2280,99999
+517,Mobile Phone,Smart phone ,Samsung,SIL-2281,Samsung Smart Phone,Samsung Galaxy Z Fold 3 (256 GB)(F926BD),SIL-2281,171999
+518,Mobile Phone,Smart phone ,Samsung,SIL-2282,Samsung Smart Phone,Samsung Galaxy Z Fold 3 (512 GB)(F926BG),SIL-2282,179999
+519,Mobile Phone,Feature phone,Samsung,SIL-2283,Samsung Mobile,Samsung Piton(B315E),SIL-2283,2499
+520,Mobile Phone,Smart phone ,Samsung,SIL-2293,Samsung Smart Phone,Samsung S21FE 128GB(G990EI),SIL-2293,74999
+521,Mobile Phone,Tablets,Samsung,SIL-2294,Samsung Tablets,Samsung Tab A7 Lite LTE(T225NA),SIL-2294,17500
+522,Mobile Phone,Tablets,Samsung,SIL-2295,Samsung Tablets,Samsung Tab S7FE LTE (4/64 GB)(T735NA),SIL-2295,54999
+523,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2304,Samsonite Trolley Bag,Samsonite SamVarro 55/20Exp cm cabin (Black) Trolley Bag,SIL-2304,11100
+524,Audio,Bluetooth Speaker,Saregama,SIL-2306,Saregama Speaker,SAREGAMA CARVAAN 351 SUPERHITS (HINDI),SIL-2306,3499
+525,Home Appliance,Smart Bluetooth Tracker,Vaya,SIL-2312,Vaya Bluetooth Tracker,"Smart Bluetooth Tracker - Key Finder, Phone Finder,� with Replaceable Battery",SIL-2312,2199
+526,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2357,Vaya Lunch Box,Tyffyn 1000�ML�CC containers with Bagmat� ��,SIL-2357,4480
+527,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2358,Vaya Lunch Box,Tyffyn 1000�ML�CC containers without Bagmat� ��,SIL-2358,3190
+528,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2359,Vaya Lunch Box,Tyffyn 1000�ML�SS containers with Bagmat� ��,SIL-2359,4380
+529,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2360,Vaya Lunch Box,Tyffyn 1000�ML�SS containers without Bagmat� ��,SIL-2360,3090
+530,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2361,Vaya Lunch Box,Tyffyn 1300�ML�CC containers with Bagmat� ��,SIL-2361,5280
+531,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2362,Vaya Lunch Box,Tyffyn 1300�ML�CC containers without Bagmat� ��,SIL-2362,3990
+532,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2363,Vaya Lunch Box,Tyffyn 1300�ML�SS containers with Bagmat� ��,SIL-2363,5180
+533,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2364,Vaya Lunch Box,Tyffyn 1300�ML�SS containers without Bagmat� ��,SIL-2364,3890
+534,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2365,Vaya Lunch Box,Tyffyn 600�ML�CC containers with Bagmat,SIL-2365,3780
+535,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2366,Vaya Lunch Box,Tyffyn 600�ML�CC containers without Bagmat� ��,SIL-2366,2490
+536,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2367,Vaya Lunch Box,Tyffyn 600�ML�SS containers with Bagmat� ��,SIL-2367,3680
+537,Home Appliance,Tyffyn & Drynk�,Vaya,SIL-2368,Vaya Lunch Box,Tyffyn 600�ML�SS containers without Bagmat� ��,SIL-2368,2390
+538,Kitchen Appliances,Lunch Kit,Vaya,SIL-2386,Vaya Lunch Box,Vaya�Preseeve - 700�ml�,SIL-2386,1590
+539,Kitchen Appliances,Lunch Kit,Vaya,SIL-2387,Vaya Lunch Box,Vaya�Preserve - 2 sets (1*300ml & 1*500ml) with GO Bag,SIL-2387,3670
+540,Kitchen Appliances,Lunch Kit,Vaya,SIL-2388,Vaya Lunch Box,Vaya�Preserve 2*300ml with GO Bag,SIL-2388,3470
+541,Health care,Massager ,Velway,SIL-2389,Velway Massager,"Velway Acupressure Mat, Unique Massager Active Applicator for the Relief of Pain & Stress. Premium Acupressure Patented Therapy Massage Tool. (Material Rubber, Size 28.3 * 1 * 39.7 cm)",SIL-2389,999
+542,Kitchen Appliances,Air Fryer,WONDERCHEF,SIL-2438,Wonderchef Air Fryer,Wonder chef Crimson Edge Air Fryer Oven 23L,SIL-2438,19000
+543,Kitchen Appliances,Soup Maker,WONDERCHEF,SIL-2439,Wonderchef Soup Maker,"Wonderchef Automatic Soup Maker | 1.0 Litre | 800W Heater | SS Blades & Bowl (Jug) | Soup in just 20 mins | 2 Years Warranty | White, Green & steel",SIL-2439,10400
+544,Home Appliance,Blender,WONDERCHEF,SIL-2442,Wonderchef Blender,Wonderchef Nutri Cook Heater Blender 1250 W - Black,SIL-2442,15000
+545,Kitchen Appliances,Nutri Pot,WONDERCHEF,SIL-2443,Wonderchef Nutri Pot,"Wonderchef Nutri-Pot Electric Pressure Cooker with 7-in-1 Functions, 3L, Aluminium, Black, Outer Lid",SIL-2443,9000
+546,Kitchen Appliances,Induction Cooktop,WONDERCHEF,SIL-2445,Wonderchef Cooktop,"Wonderchef Octavia 4 Burner Glass Hob Top Cooktop, Black 8mm Toughened Glass with 2 Years Warranty, Ergonomic Knobs, Forged Brass Burners, Stainless Steel Drip Tray, Manual Ignition",SIL-2445,16700
+547,Kitchen Appliances,Oven Toaster Griller ,WONDERCHEF,SIL-2446,Wonderchef OTG,"Wonderchef Oven Toaster Griller (OTG) - 28 Litres, Black - with Rotisserie,Auto-shut off, heat-resistant tempered glass, Multi-stage heat selection",SIL-2446,11200
+548,Home Appliance,Coffee Maker,WONDERCHEF,SIL-2447,Wonderchef Coffee Machine,Wonderchef Regalia Espresso Coffee Maker 5 Bar | with Steamer for Cappuccino & Latte | Steam Tube for Froth | Metal Porta Filter & Heat-Resistant Carafe | Works with Coffee Powder | 2 Years Warranty | Steel,SIL-2447,9500
+549,Audio,Soundbar,Yamaha,SIL-2449,Yamaha Soundbar,Yamaha Audio Sr-B20A Sound Bar with Built-in Subwoofers and Bluetooth,SIL-2449,20490
+550,Audio,Airpods,Yamaha,SIL-2450,Yamaha Airpods,"Yamaha Audio TW-E3B Black in-Ear True Wireless Earphone, Bluetooth 5.0, aptX, Long Battery Life, IPX5, with Mic",SIL-2450,8490
+551,Audio,Earphone,Yamaha,SIL-2451,Yamaha Earphone,"YAMAHA EP-E30A Wireless Bluetooth in Ear Neckband Headphone with Mic for Phone Call, Listening Care",SIL-2451,4890
+552,Audio,Earphone,Yamaha,SIL-2452,Yamaha Earphone,"YAMAHA EP-E50A Wireless Bluetooth in Ear Neckband Headphone with mic for Phone Calls, Active Noise-Cancelling, Ambient Sound, Listening Care",SIL-2452,12400
+553,Audio,Earphone,Yamaha,SIL-2453,Yamaha Earphone,"Yamaha Ep-E70A Bluetooth Wireless in Ear Earphones with Mic Advance Noise Cancelling, Ambient Sound Mode, Listening Optimizer, Light Weight",SIL-2453,23600
+554,Audio,Soundbar,Yamaha,SIL-2454,Yamaha Soundbar,Yamaha SR-C20A Compact Sound Bar with Built-in Subwoofer and Bluetooth,SIL-2454,20490
+555,Audio,Airpods,Yamaha,SIL-2455,Yamaha Airpods,YAMAHA TW-E3B True Wireless Earphones Pink,SIL-2455,8490
+556,Audio,Airpods,Yamaha,SIL-2456,Yamaha Airpods,"Yamaha TW-E5B True Wireless Earbuds, Bluetooth Headphones, Premium Sound, CVC Clear Voice Capture, Ambient Sound, IPX5 Water Resistant for Sport (black)",SIL-2456,14200
+557,Audio,Airpods,Yamaha,SIL-2457,Yamaha Airpods,"YAMAHA TW-E7B True Wireless Earbuds with Bluetooth 5.2, Active Noise Cancelling, True Sound, Qualcomm CVC Clear Voice Capture, Advanced Listening Care and IPX5 Water Resistant for Sport (Black)",SIL-2457,24200
+558,Audio,Airpods,Yamaha,SIL-2458,Yamaha Airpods,"Yamaha TW-ES5A True Wireless Sport Earbuds with Bluetooth 5.2, IPX7 Waterproof, Secure Fit, Premium Sound, Qualcomm CVC Clear Voice Capture, Listening Care and Ambient Sound (Blue)",SIL-2458,15700
+559,Audio,Soundbar,Yamaha,SIL-2459,Yamaha Soundbar,Yamaha YAS-109 120 Watt Wireless Bluetooth Soundbar with Alexa (Black),SIL-2459,23990
+560,Audio,Soundbar,Yamaha,SIL-2460,Yamaha Soundbar,Yamaha YAS-209 200 Watt Wireless Bluetooth Soundbar with Alexa (Black),SIL-2460,37490
+561,Audio,Head phone,Yamaha,SIL-2461,Yamaha Head phone,"YAMAHA YH-E500A Wireless Bluetooth On Ear Headphone with mic, Noise canceling, Ambient Sound, Listening Care (Black),YH-E500A Black",SIL-2461,14800
+562,Audio,Head phone,Yamaha,SIL-2462,Yamaha Head phone,"YAMAHA YH-E700A Wireless Bluetooth Over Ear Headphones with mic, Advance Noise Cancelling, Ambient Sound, Listening Optimizer (Black)",SIL-2462,29900
+563,Audio,Head phone,Yamaha,SIL-2463,Yamaha Head phone,"YAMAHA YH-E700A Wireless Bluetooth Over Ear Headphones with mic, Advance Noise Cancelling, Ambient Sound, Listening Optimizer (White)",SIL-2463,29900
+564,Audio,Head phone,Yamaha,SIL-2464,Yamaha Head phone,"YAMAHA YH-L700A 3D Sound Field, Bluetooth Wireless Over Ear Headphone, Advance Noise Canceling, Ambient Sound, Listening Optimizer, Black, with mic (YH-L700A Black)",SIL-2464,43300
+565,Audio,Airpods,Motorola,SIL-2468,Motorola Airpods,Motorola Earbuds 2 in-Ear Headphones ,SIL-2468,799
+566,Travel & Luggage ,Duffle Bag,Swiss Military,SIL-2508,Swiss Military Duffle Bag,Swiss Military Duffle Cum Backpack - LBP-23,SIL-2508,2490
+567,Laptop Backpak,Backpak,Swiss Military,SIL-2514,Swiss Military Backpak,Swiss Military Laptop Backpack LBP88 Black,SIL-2514,2990
+568,Travel & Luggage ,Trolley Bag,Samsonite,SIL-2521,Samsonite Trolley Bag,American Tourister Apex Wheel Duffle 57cm Blue,SIL-2521,3000
+569,Health care,Massager,iGear,SIL-2523,Igear Massager,"I Gear iMassager: Eye massager with Heat, Air pressure, Compression, Rechargeable, Foldable and portable",SIL-2523,3000
+570,Personal Care,Perfumes ,David Beckham,SIL-2524,David Beckham Perfumes,David Beckham Intimately Man EDT 75ml,SIL-2524,3050
+571,Television Accessories,STREAMING PLAYER,Amazon,SIL-2534,Amazon Fire Stick,Amazon  Fire TV Stick-4K,SIL-2534,5999
+572,Television Accessories,STREAMING PLAYER,Amazon,SIL-2534,Amazon Fire Stick,Amazon Fire TV Stick Lite,SIL-2534,5999
+573,Kitchen Appliances,Rice Cooker,Bajaj,SIL-2538,Bajaj Rice Cooker,Bajaj Rice Cooker RCX - 7 � 680014,SIL-2538,4125
+574,Audio,Smart Speaker,Amazon,SIL-2543,Amazon Echo Dot,Amazon Echo Dot (3rd Gen) - New and Improved Smart Speaker with Alexa,SIL-2543,4499
+575,Audio,Bluetooth Speaker,Google,SIL-2544,Google Speaker,Google Nest Mini,SIL-2544,4499
+576,Television Accessories,STREAMING PLAYER,Amazon,SIL-2547,Amazon Fire Stick,Fire TV Stick with all New Alexa voice Remote,SIL-2547,4999
+577,Home Appliance,Vaccum Cleaner,Black & Decker,SIL-2552,Black & Decker Vaccum Cleaner,Black & Decker 800 Walts Vaccum Cleaner VH802,SIL-2552,5580
+578,Audio,Smart Speaker,Google,SIL-2557,Google Smart Speaker,Google Nest Audio�,SIL-2557,8999
+579,Audio,Smart Speaker,Google,SIL-2558,Google Smart Speaker,Google Nest hub 2nd�gen�,SIL-2558,8999
+580,Audio,Airpods,Google,SIL-2560,Google Airpods,Google Pixel buds�,SIL-2560,9999
+581,Audio,Bluetooth Speaker,BOSE,SIL-2561,Bose Speaker,"Bose Soundlink Micro,Bt Spkr,Ww",SIL-2561,10900
+582,Audio,Head Phone,BOSE,SIL-2562,Bose Headphone,Wireless Headphone Soundsport Wireless Hdphn Black Ww- Bose,SIL-2562,13275
+583,Audio,Smart Speaker,BOSE,SIL-2563,Bose Speaker,Bose Companion 2 Iii Mtmd Spk Sys Blk Ap,SIL-2563,14400
+584,Audio,Airpods,BOSE,SIL-2564,Bose Earbuds,"Bose Sport Earbuds,Black,Ww",SIL-2564,18900
+585,Audio,Head Phone,BOSE,SIL-2566,Bose Headphone,Wireless Headphone Quietcomfort 35 Ii Wlss Hdphn Black Ww- Bose,SIL-2566,29363
+586,Audio,Airpods,BOSE,SIL-2567,Bose Earbuds,"Bose Quietcomfort Earbuds,Black,Ww",SIL-2567,29400
+587,Audio,Airpods,BOSE,SIL-2568,Bose Earbuds,Earbuds Quietcomfort Stone Blue Ww - Bose,SIL-2568,29400
+588,Audio,Bluetooth Speaker,BOSE,SIL-2569,Bose Speaker,"Bose Tv Speaker,Kr/In/Th",SIL-2569,34400
+589,Audio,Head Phone,BOSE,SIL-2570,Bose Headphone,"Bose Noise Cancelling Hdphs 700,Black,Ww",SIL-2570,34500
+590,Audio,Smart Speaker,BOSE,SIL-2571,Bose Speaker,"Bose Bass Module 500,240V,Blk,Ap",SIL-2571,39900
+591,Audio,Smart Speaker,BOSE,SIL-2572,Bose Speaker,"Bose Home Speaker 500,Blk,240V,Kr",SIL-2572,44900
+592,Audio,Smart Speaker,BOSE,SIL-2573,Bose Speaker,"Bose Smart Sndbr 300,Blk,220V/230V,Kr/In/Th",SIL-2573,54400
+593,Mobile phone,Mobile,Samsung,SIL-2581,Samsung Mobile,Samsung A 23 (6/128 GB),SIL-2581,23990
+594,Audio,Ear Buds,Samsung,SIL-2584,Samsung Earbuds,Samsung Galaxy Buds Live,SIL-2584,15990
+595,Mobile phone,Mobile,Samsung,SIL-2586,Samsung Mobile,Samsung Galaxy S22 Ultra (12/256 GB),SIL-2586,131999
+596,E Voucher/Gift card,E Voucher/Gift card,JOYALUKKAS,SIL-3541,Gold Voucher,GOLD E- VOUCHER / CARD�,SIL-3541,100000
+597,E Voucher/Gift card,E Voucher/Gift card,YATRA�,SIL-3542,Yatra Travel Voucher,TRAVEL E -VOUCHER / CARD,SIL-3542,150000
+598,E Voucher/Gift card,E Voucher/Gift card,HONDA/TVS,SIL-3543,Bike Voucher,BIKE E- VOUCHER / CARD,SIL-3543,150000
+599,E Voucher/Gift card,E Voucher/Gift card,HYUNDAI / SKODA/ NISSAN,SIL-3544,Car Voucher,CAR E - VOUCHER / CARD,SIL-3544,700000
+600,Mobile phone,Smart phone ,Apple,SIL-3545,Apple Iphone,iPhone 14 Pro Max 128GB Gold,SIL-3545,139900
+601,Mobile phone,Smart phone ,Apple,SIL-3546,Apple Iphone,iPhone 14 Pro Max 256GB Gold,SIL-3546,149900
+602,Mobile phone,Smart phone ,Apple,SIL-3547,Apple Iphone,iPhone 14 Pro Max 512GB Gold,SIL-3547,169900
+603,Mobile phone,Smart phone ,Apple,SIL-3548,Apple Iphone,iPhone 14 Pro Max 1TB Gold,SIL-3548,189900
+604,Ipad,Tablets,Apple,SIL-3549,Apple Ipad,Apple Ipad 9th Gen 64 Wifi,SIL-3549,33900
+605,Ipad,Tablets,Apple,SIL-3550,Apple Ipad,"Apple Ipad Air M1 64 Gb,10.9 ",SIL-3550,59900
+606,Ipad,Tablets,Apple,SIL-3551,Apple Ipad,Apple Ipad Air M1 256 Gb  10.9,SIL-3551,74900
+607,Ipad,Tablets,Apple,SIL-3552,Apple Ipad,"Apple Ipad Pro M2 11inch, 128GB",SIL-3552,81900
+608,Ipad,Tablets,Apple,SIL-3553,Apple Ipad,"Apple Ipad Pro M2 11inch, 256 GB",SIL-3553,91900
+610,Mobile Phone,Smart phone ,Apple,SIL-3555,Apple Iphone,iPhone 14 Pro 128GB Gold,SIL-3555,129900
+611,Mobile Phone,Smart phone ,Apple,SIL-3556,Apple Iphone,iPhone 14 Pro 256GB Silver,SIL-3556,139900
+612,Mobile Phone,Smart phone ,Apple,SIL-3557,Apple Iphone,iPhone 14 Pro 256GB Gold,SIL-3557,139900
+613,Mobile Phone,Smart phone ,Apple,SIL-3558,Apple Iphone,iPhone 14 Pro 512GB Silver,SIL-3558,159900
+614,Mobile Phone,Smart phone ,Apple,SIL-3559,Apple Iphone,iPhone 14 Pro 512GB Gold,SIL-3559,159900
+615,Mobile Phone,Smart phone ,Apple,SIL-3560,Apple Iphone,iPhone 14 Pro 1TB Silver,SIL-3560,179900
+616,Mobile Phone,Smart phone ,Apple,SIL-3561,Apple Iphone,iPhone 14 Pro 1TB Gold,SIL-3561,179900
+617,Mobile Phone,Smart phone ,Apple,SIL-3562,Apple Iphone,iPhone 14 Plus 128GB Purple,SIL-3562,89900
+618,Mobile Phone,Smart phone ,Apple,SIL-3563,Apple Iphone,iPhone 14 Plus 256GB Starlight,SIL-3563,99900
+619,Mobile Phone,Smart phone ,Apple,SIL-3564,Apple Iphone,iPhone 14 Plus 512GB Starlight,SIL-3564,119900
+620,Mobile Phone,Smart phone ,Apple,SIL-3565,Apple Iphone,iPhone 14 Plus 512GB Blue,SIL-3565,119900
+621,Mobile Phone,Smart phone ,Apple,SIL-3566,Apple Iphone,iPhone 14 128GB Starlight,SIL-3566,79900
+622,Mobile Phone,Smart phone ,Apple,SIL-3567,Apple Iphone,iPhone 14 128GB Blue,SIL-3567,79900
+623,Mobile Phone,Smart phone ,Apple,SIL-3568,Apple Iphone,iPhone 14 256GB Purple,SIL-3568,89900
+624,Mobile Phone,Smart phone ,Apple,SIL-3569,Apple Iphone,iPhone 14 512GB Midnight,SIL-3569,109900
+625,Mobile Phone,Smart phone ,Apple,SIL-3570,Apple Iphone,iPhone 14 512GB Blue,SIL-3570,109900
